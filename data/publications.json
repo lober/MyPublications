@@ -1,0 +1,1722 @@
+[
+  {
+    "authors": "Berry DL, Pike KC, Wolpin S, Pham V, McReynolds J, Lober WB, Birkin SA, Chen RC.",
+    "title": "Providing Decision Support for Prostate Cancer Through Cancer Registry Contacts.",
+    "journal": "J Registry Management.",
+    "pubdate": "Forthcoming",
+    "year": null,
+    "doi": "",
+    "pmid": null,
+    "url": ""
+  },
+  {
+    "authors": "Mohamed NE, Berry DL, McReynolds J, Korn T, Kata H, Benn E, Scharp D, Sfakianos J, Mehrazin R, Wiklund P, Lober WB.",
+    "title": "Development and Evaluation of the Personal Patient Profile-Bladder Cancer (P3-BC): A Web-Based Decision Support System for Patients Considering Cystectomy and Urinary Diversion.",
+    "journal": "Cancers (Basel)",
+    "pubdate": "2026 May 7;",
+    "year": 2026,
+    "doi": "10.3390/cancers18101501",
+    "pmid": "42192863",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/42192863/"
+  },
+  {
+    "authors": "D'Amore JD, Vallapu ER, Samal L, Karras BT, Lober WB.",
+    "title": "From Pandemic Response to Kill the Clipboard: Patient-Controlled Sharing of Health Data Using International Patient Summary (IPS) and QR codes.",
+    "journal": "Appl Clin Inform",
+    "pubdate": "2026 May;",
+    "year": 2026,
+    "doi": "10.1055/a-2902-8515",
+    "pmid": "42372787",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/42372787/"
+  },
+  {
+    "authors": "Crane HM, Dai M, Fredericksen R, Drumright LN, Mayer KH, Fleming JG, Cachay ER, Bamford L, Christopoulos K, Botero V, Safren SA, Rodriguez AE, Yendewa G, Willis B, Han K, LeBlanc S, Moore RD, Keruly JC, Chander G, Napravnik S, Webel A, Willig AL, Batey DS, Burkholder G, Heath SL, McReynolds JR, Mixson LS, Whitney BM, Nance RM, Saag MS, Kitahata MM, Delaney JAC, Lober WB.",
+    "title": "Routine collection of patient-reported outcomes in HIV clinics: lessons learned after more than 130 000 assessments have been completed.",
+    "journal": "AIDS",
+    "pubdate": "2026 Jul 1;",
+    "year": 2026,
+    "doi": "10.1097/QAD.0000000000004470",
+    "pmid": "41729041",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/41729041/"
+  },
+  {
+    "authors": "Lee RY, Li KS, Sibley J, Cohen T, Lober WB, O'Brien J, LeDuc N, Mallon Andrews K, Ungar A, Walsh J, Nielsen EL, Dotolo DG, Kross EK.",
+    "title": "A modular pipeline for natural language processing-screened human abstraction of a pragmatic trial outcome from electronic health records.",
+    "journal": "Clin Trials",
+    "pubdate": "2026 Apr;",
+    "year": 2026,
+    "doi": "10.1177/17407745251405386",
+    "pmid": "41680079",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/41680079/"
+  },
+  {
+    "authors": "Haw NJL, Lesko CR, Ng DK, Lam JO, Gebo K, Sterling TR, Rabkin CS, Li J, Buchacz K, Agwu A, Althoff K, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD).",
+    "title": "Incidence of AIDS-Defining Conditions Among Adults With Perinatally Acquired HIV After Transition to Adult HIV Care in the United States and Canada, 2000-2022.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2025 Dec 24;",
+    "year": 2025,
+    "doi": "10.1093/cid/ciaf300",
+    "pmid": "40469005",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/40469005/"
+  },
+  {
+    "authors": "Davy-Mendez T, Napravnik S, Hogan BC, Eron JJ, Gebo KA, Althoff KN, Moore RD, Silverberg MJ, Horberg MA, Gill MJ, Colasanti JA, Nijhawan A, Karris MY, Klein MB, Lang R, Lesko CR, Yendewa GA, Kirk GD, McGinnis KA, Berry SA, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of the International Epidemiology Databases to Evaluate AIDS (IeDEA).",
+    "title": "Changes in the Prevalence of Non-AIDS Conditions Among Hospitalized Persons With HIV in the United States and Canada, 2008-2018.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2025 Nov 6;",
+    "year": 2025,
+    "doi": "10.1093/cid/ciaf167",
+    "pmid": "40178532",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/40178532/"
+  },
+  {
+    "authors": "Lee RY, Li KS, Sibley J, Cohen T, Lober WB, Dotolo DG, Kross EK.",
+    "title": "Assessment of a Zero-Shot Large Language Model in Measuring Documented Goals-of-Care Discussions.",
+    "journal": "J Pain Symptom Manage",
+    "pubdate": "2026 Jan;",
+    "year": 2026,
+    "doi": "10.1016/j.jpainsymman.2025.09.025",
+    "pmid": "41061943",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/41061943/"
+  },
+  {
+    "authors": "Lee RY, Li KS, Sibley J, Cohen T, Lober WB, O'Brien J, LeDuc N, Andrews KM, Ungar A, Walsh J, Nielsen EL, Dotolo DG, Kross EK.",
+    "title": "A modular pipeline for natural language processing-screened human abstraction of a pragmatic trial outcome from electronic health records.",
+    "journal": "medRxiv",
+    "pubdate": "2025 Sep 26;",
+    "year": 2025,
+    "doi": "10.1101/2025.06.23.25330134",
+    "pmid": "40666322",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/40666322/"
+  },
+  {
+    "authors": "Lee RY, Li KS, Sibley J, Cohen T, Lober WB, Dotolo DG, Kross EK.",
+    "title": "Assessment of a zero-shot large language model in measuring documented goals-of-care discussions.",
+    "journal": "medRxiv",
+    "pubdate": "2025 Sep 26;",
+    "year": 2025,
+    "doi": "10.1101/2025.05.23.25328115",
+    "pmid": "40475148",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/40475148/"
+  },
+  {
+    "authors": "Lang R, Coburn SB, Gill MJ, Grossman J, Mayor A, Horberg MA, Silverberg MJ, Rabkin CS, Moore RD, Kirk GD, Karris MY, Justice AC, Althoff KN, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of the International Epidemiologic Databases to Evaluate AIDS (IeDEA).",
+    "title": "The Association of Anemia on Non-AIDS-Defining Cancer and Subsequent Survival Among People With HIV After Antiretroviral Initiation.",
+    "journal": "J Acquir Immune Defic Syndr",
+    "pubdate": "2025 Jun 1;",
+    "year": 2025,
+    "doi": "10.1097/QAI.0000000000003647",
+    "pmid": "39972549",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/39972549/"
+  },
+  {
+    "authors": "Berridge C, Turner NR, Lober WB, Demiris G, Kaye J.",
+    "title": "Sharing patient technology preferences with care networks: Stakeholders' views of the \"Let's Talk Tech\" decision aid for dementia care.",
+    "journal": "J Alzheimers Dis",
+    "pubdate": "2025 Jun;",
+    "year": 2025,
+    "doi": "10.1177/13872877251332659",
+    "pmid": "40313054",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/40313054/"
+  },
+  {
+    "authors": "Crane HM, Ruderman SA, Nance RM, Drumright LN, Whitney BM, Mixson LS, Mayer KH, Eron JJ, Napravnik S, Christopoulos K, Cachay ER, Bamford L, Chander G, Webel A, Saag MS, Willig AL, Burkholder G, Pandya C, Cartujano-Barrera F, Kamen C, Hahn AW, Ma J, Kitahata MM, Lober WB, Delaney JA.",
+    "title": "Approaches to optimally target frailty screening among people with HIV in clinical care: findings from the Centers for AIDS Research Network of Integrated Clinical Systems (CNICS).",
+    "journal": "J Acquir Immune Defic Syndr",
+    "pubdate": "2025 Apr 17;",
+    "year": 2025,
+    "doi": "10.1097/QAI.0000000000003688",
+    "pmid": "40243191",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/40243191/"
+  },
+  {
+    "authors": "Lee RY, Uyeda AM, Li KS, Sibley J, Cohen T, Lober WB, Dotolo DG, Engelberg RA, Kross EK.",
+    "title": "Performance of Predefined Search Patterns for Identifying Documented Goals-of-Care Discussions in Inpatient Electronic Health Records.",
+    "journal": "J Palliat Med",
+    "pubdate": "2025 Jul;",
+    "year": 2025,
+    "doi": "10.1089/jpm.2024.0496",
+    "pmid": "40183120",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/40183120/"
+  },
+  {
+    "authors": "Elder AS, Arrouzet CJ, Miljacic L, Karras BT, Higgins A, West LM, Lorigan D, Revere D, Polissar N, Segal CD, Lober WB, Baseman JG.",
+    "title": "Evaluation of the effectiveness of Washington State's digital COVID-19 exposure notification system over one pandemic year.",
+    "journal": "Front Public Health",
+    "pubdate": "2024;",
+    "year": 2024,
+    "doi": "10.3389/fpubh.2024.1408178",
+    "pmid": "39206001",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/39206001/"
+  },
+  {
+    "authors": "Coburn SB, Pimentel N, Leyden W, Kitahata MM, Moore RD, Althoff KN, Gill MJ, Lang R, Horberg MA, D'Souza G, Hussain SK, Dubrow R, Novak RM, Rabkin CS, Park LS, Sterling TR, Neugebauer RS, Silverberg MJ, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS.",
+    "title": "Brief Report: Protease Inhibitors Versus Nonnucleoside Reverse Transcriptase Inhibitors and the Risk of Cancer Among People With HIV.",
+    "journal": "J Acquir Immune Defic Syndr",
+    "pubdate": "2024 Aug;",
+    "year": 2024,
+    "doi": "10.1097/QAI.0000000000003436",
+    "pmid": "39720558",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/39720558/"
+  },
+  {
+    "authors": "Drover CM, Elder AS, Guthrie BL, Revere D, Briggs NL, West LM, Higgins A, Lober WB, Karras BT, Baseman JG.",
+    "title": "Use of Digital COVID-19 Exposure Notifications at a Large Gathering: Survey Analysis of Public Health Conference Attendees.",
+    "journal": "JMIR Form Res",
+    "pubdate": "2024 Mar 18;",
+    "year": 2024,
+    "doi": "10.2196/50716",
+    "pmid": "38498047",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/38498047/"
+  },
+  {
+    "authors": "Crane HM, Nance RM, Ruderman SA, Haidar L, Tenforde MW, Heckbert SR, Budoff MJ, Hahn AW, Drumright LN, Ma J, Mixson LS, Lober WB, Barnes GS, McReynolds J, Attia EF, Peter I, Moges T, Bamford L, Cachay E, Mathews WC, Christopolous K, Hunt PW, Napravnik S, Keruly J, Moore RD, Burkholder G, Willig AL, Lindstrom S, Whitney BM, Saag MS, Kitahata MM, Crothers KA, Delaney JAC.",
+    "title": "Venous Thromboembolism Among People With HIV: Design, Implementation, and Findings of a Centralized Adjudication System in Clinical Care Sites Across the United States.",
+    "journal": "J Acquir Immune Defic Syndr",
+    "pubdate": "2024 Feb 1;",
+    "year": 2024,
+    "doi": "10.1097/QAI.0000000000003339",
+    "pmid": "37988634",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/37988634/"
+  },
+  {
+    "authors": "Ruderman SA, Odden MC, Webel AR, Fitzpatrick AL, Crane PK, Nance RM, Drumright LN, Whitney BM, Mixson LS, Ma J, Willig AL, Haidar L, Eltonsy S, Mayer KH, O'Cleirigh C, Cropsey KL, Eron JJ, Napravnik S, Greene M, McCaul M, Chander G, Cachay E, Lober WB, Kritchevsky SB, Austad S, Landay A, Pandya C, Cartujano-Barrera F, Saag MS, Kamen C, Hahn AW, Kitahata MM, Delaney JAC, Crane HM.",
+    "title": "Tobacco Smoking and Pack-Years Are Associated With Frailty Among People With HIV.",
+    "journal": "J Acquir Immune Defic Syndr",
+    "pubdate": "2023 Oct 1;",
+    "year": 2023,
+    "doi": "10.1097/QAI.0000000000003242",
+    "pmid": "37368939",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/37368939/"
+  },
+  {
+    "authors": "Curtis JR, Lee RY, Brumback LC, Kross EK, Downey L, Torrence J, LeDuc N, Mallon Andrews K, Im J, Heywood J, Brown CE, Sibley J, Lober WB, Cohen T, Weiner BJ, Khandelwal N, Abedini NC, Engelberg RA.",
+    "title": "Intervention to Promote Communication About Goals of Care for Hospitalized Patients With Serious Illness: A Randomized Clinical Trial.",
+    "journal": "JAMA",
+    "pubdate": "2023 Jun 20;",
+    "year": 2023,
+    "doi": "10.1001/jama.2023.8812",
+    "pmid": "37210665",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/37210665/"
+  },
+  {
+    "authors": "Dolan SB, Wittenauer R, Njoroge A, Onyango P, Owiso G, Shearer JC, Lober WB, Liu S, Puttkammer N, Rabinowitz P.",
+    "title": "Time Utilization Among Immunization Clinics Using an Electronic Immunization Registry (Part 2): Time and Motion Study of Modified User Workflows.",
+    "journal": "JMIR Form Res",
+    "pubdate": "2023 Mar 16;",
+    "year": 2023,
+    "doi": "10.2196/39777",
+    "pmid": "36927606",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36927606/"
+  },
+  {
+    "authors": "Dolan SB, Wittenauer R, Shearer JC, Njoroge A, Onyango P, Owiso G, Lober WB, Liu S, Puttkammer N, Rabinowitz P.",
+    "title": "Integration of a Digital Health Intervention Into Immunization Clinic Workflows in Kenya: Qualitative, Realist Evaluation of Technology Usability.",
+    "journal": "JMIR Form Res",
+    "pubdate": "2023 Mar 14;",
+    "year": 2023,
+    "doi": "10.2196/39775",
+    "pmid": "36917157",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36917157/"
+  },
+  {
+    "authors": "Berridge C, Turner NR, Liu L, Fredriksen-Goldsen KI, Lyons KS, Demiris G, Kaye J, Lober WB.",
+    "title": "Preliminary Efficacy of Let's Talk Tech: Technology Use Planning for Dementia Care Dyads.",
+    "journal": "Innov Aging",
+    "pubdate": "2023;",
+    "year": 2023,
+    "doi": "10.1093/geroni/igad018",
+    "pmid": "37123031",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/37123031/"
+  },
+  {
+    "authors": "Lee RY, Kross EK, Torrence J, Li KS, Sibley J, Cohen T, Lober WB, Engelberg RA, Curtis JR.",
+    "title": "Assessment of Natural Language Processing of Electronic Health Records to Measure Goals-of-Care Discussions as a Clinical Trial Outcome.",
+    "journal": "JAMA Netw Open",
+    "pubdate": "2023 Mar 1;",
+    "year": 2023,
+    "doi": "10.1001/jamanetworkopen.2023.1204",
+    "pmid": "36862411",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36862411/"
+  },
+  {
+    "authors": "Drumright LN, Nance RM, Ruderman SA, Ma J, Whitney BM, Hahn A, Fredericksen RJ, Luu B, Lober WB, Moore RD, Budoff MJ, Keruly JC, Christopoulos K, Puryear S, Willig A, Cropsey K, Mathews WC, Cachay E, Bamford L, Eron JJ, Napravnik S, Mayer KH, O'Cleirigh C, Mccaul ME, Chander G, Feinstein MJ, Saag MS, Kitahata MM, Heckbert SR, Crane HM, Delaney JAC.",
+    "title": "Associations between alcohol and cigarette use and type 1 and 2 myocardial infarction among people with HIV.",
+    "journal": "HIV Med",
+    "pubdate": "2023 Jun;",
+    "year": 2023,
+    "doi": "10.1111/hiv.13466",
+    "pmid": "36855253",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36855253/"
+  },
+  {
+    "authors": "Ruderman SA, Nance RM, Drumright LN, Whitney BM, Hahn AW, Ma J, Haidar L, Eltonsy S, Mayer KH, Eron JJ, Greene M, Mathews WC, Webel A, Saag MS, Willig AL, Kamen C, McCaul M, Chander G, Cachay E, Lober WB, Pandya C, Cartujano-Barrera F, Kritchevsky SB, Austad SN, Landay A, Kitahata MM, Crane HM, Delaney JAC.",
+    "title": "Development of Frail RISC-HIV: a Risk Score for Predicting Frailty Risk in the Short-term for Care of People with HIV.",
+    "journal": "AIDS",
+    "pubdate": "2023 May 1;",
+    "year": 2023,
+    "doi": "10.1097/QAD.0000000000003501",
+    "pmid": "36723488",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36723488/"
+  },
+  {
+    "authors": "Ruderman SA, Webel AR, Willig AL, Drumright LN, Fitzpatrick AL, Odden MC, Cleveland JD, Burkholder G, Davey CH, Fleming J, Buford TW, Jones R, Nance RM, Whitney BM, Mixson LS, Hahn AW, Mayer KH, Greene M, Saag MS, Kamen C, Pandya C, Lober WB, Kitahata MM, Crane PK, Crane HM, Delaney JAC.",
+    "title": "Validity Properties of a Self-reported Modified Frailty Phenotype Among People With HIV in Clinical Care in the United States.",
+    "journal": "J Assoc Nurses AIDS Care",
+    "pubdate": "2023 Mar-Apr 01;",
+    "year": 2023,
+    "doi": "10.1097/JNC.0000000000000389",
+    "pmid": "36652200",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36652200/"
+  },
+  {
+    "authors": "Hartzler AL, Bartlett LE, Hobler MR, Reid N, Pryor JB, Kapnadak SG, Berry DL, Lober WB, Goss CH, Ramos KJ, Take on Transplant Study Group.",
+    "title": "Take on transplant: human-centered design of a patient education tool to facilitate informed discussions about lung transplant among people with cystic fibrosis.",
+    "journal": "J Am Med Inform Assoc",
+    "pubdate": "2022 Dec 13;",
+    "year": 2022,
+    "doi": "10.1093/jamia/ocac176",
+    "pmid": "36173364",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36173364/"
+  },
+  {
+    "authors": "Uyeda AM, Lee RY, Pollack LR, Paul SR, Downey L, Brumback LC, Engelberg RA, Sibley J, Lober WB, Cohen T, Torrence J, Kross EK, Curtis JR.",
+    "title": "Predictors of Documented Goals-of-Care Discussion for Hospitalized Patients With Chronic Illness.",
+    "journal": "J Pain Symptom Manage",
+    "pubdate": "2023 Mar;",
+    "year": 2023,
+    "doi": "10.1016/j.jpainsymman.2022.11.012",
+    "pmid": "36423800",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36423800/"
+  },
+  {
+    "authors": "Segal CD, Lober WB, Revere D, Lorigan D, Karras BT, Baseman JG.",
+    "title": "Trading-off privacy and utility: the Washington State experience assessing the performance of a public health digital exposure notification system for coronavirus disease 2019.",
+    "journal": "J Am Med Inform Assoc",
+    "pubdate": "2022 Nov 14;",
+    "year": 2022,
+    "doi": "10.1093/jamia/ocac178",
+    "pmid": "36206130",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36206130/"
+  },
+  {
+    "authors": "Crane HM, Ruderman SA, Whitney BM, Nance RM, Drumright LN, Webel AR, Willig AL, Saag MS, Christopoulos K, Greene M, Hahn AW, Eron JJ, Napravnik S, Mathews WC, Chander G, McCaul ME, Cachay ER, Mayer KH, Landay A, Austad S, Ma J, Kritchevsky SB, Pandya C, Achenbach C, Cartujano-Barrera F, Kitahata M, Delaney JA, Kamen C, Centers for AIDS Research Network of Integrated Clinical Systems (CNICS) Cohort Study.",
+    "title": "Associations between drug and alcohol use, smoking, and frailty among people with HIV across the United States in the current era of antiretroviral treatment.",
+    "journal": "Drug Alcohol Depend",
+    "pubdate": "2022 Nov 1;",
+    "year": 2022,
+    "doi": "10.1016/j.drugalcdep.2022.109649",
+    "pmid": "36215811",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36215811/"
+  },
+  {
+    "authors": "Dolan SB, Burstein R, Shearer JC, Bulula N, Lyons H, Carnahan E, Beylerian E, Thompson J, Puttkammer N, Lober WB, Liu S, Gilbert SS, Werner L, Ryman TK.",
+    "title": "Changes in on-time vaccination following the introduction of an electronic immunization registry, Tanzania 2016-2018: interrupted time-series analysis.",
+    "journal": "BMC Health Serv Res",
+    "pubdate": "2022 Sep 20;",
+    "year": 2022,
+    "doi": "10.1186/s12913-022-08504-2",
+    "pmid": "36127683",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36127683/"
+  },
+  {
+    "authors": "Short D, Wang X, Suri S, Hsu TK, Jones B, Fredericksen RJ, Crane HM, Musten A, Bacon J, Wang Y, Gough KA, Ramgopal M, Berry J, Lober WB.",
+    "title": "Risk Factors for Suboptimal Adherence Identified by Patient-Reported Outcomes Assessments in Routine HIV Care at 2 North American Clinics.",
+    "journal": "Patient Prefer Adherence",
+    "pubdate": "2022;",
+    "year": 2022,
+    "doi": "10.2147/PPA.S378335",
+    "pmid": "36090124",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/36090124/"
+  },
+  {
+    "authors": "McGinnis KA, Justice AC, Moore RD, Silverberg MJ, Althoff KN, Karris M, Lima VD, Crane HM, Horberg MA, Klein MB, Gange SJ, Gebo KA, Mayor A, Tate JP, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD)a of the International Epidemiologic Databases to Evaluate AIDS (IeDEA) and Veterans Aging Cohort Study (VACS).",
+    "title": "Discrimination and Calibration of the Veterans Aging Cohort Study Index 2.0 for Predicting Mortality Among People With Human Immunodeficiency Virus in North America.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2022 Aug 25;",
+    "year": 2022,
+    "doi": "10.1093/cid/ciab883",
+    "pmid": "34609485",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/34609485/"
+  },
+  {
+    "authors": "Dolan S, Wittenauer R, Shearer J, Njoroge A, Onyango P, Owiso G, Lober W, Liu S, Puttkammer N, Rabinowitz P.",
+    "title": "Integration of a Digital Health Intervention Into Immunization Clinic Workflows in Kenya: Qualitative, Realist Evaluation of Technology Usability (Preprint).",
+    "journal": "",
+    "pubdate": "2022 May.",
+    "year": 2022,
+    "doi": "10.2196/preprints.39775",
+    "pmid": null,
+    "url": ""
+  },
+  {
+    "authors": "Dolan S, Wittenauer R, Njoroge A, Onyango P, Owiso G, Shearer J, Lober W, Liu S, Puttkammer N, Rabinowitz P.",
+    "title": "Time Utilization Among Immunization Clinics Using an Electronic Immunization Registry (Part 2): Time and Motion Study of Modified User Workflows (Preprint).",
+    "journal": "",
+    "pubdate": "2022 May.",
+    "year": 2022,
+    "doi": "10.2196/preprints.39777",
+    "pmid": null,
+    "url": ""
+  },
+  {
+    "authors": "Luu B, Ruderman S, Nance R, Delaney JAC, Ma J, Hahn A, Heckbert SR, Budoff MJ, Crothers K, Mathews WC, Christopolous K, Hunt PW, Eron J, Moore R, Keruly J, Lober WB, Burkholder GA, Willig A, Chander G, McCaul ME, Cropsey K, O'Cleirigh C, Peter I, Feinstein M, Tsui JI, Lindstroem S, Saag M, Kitahata MM, Crane HM, Drumright LN, Whitney BM.",
+    "title": "Tobacco smoking and binge alcohol use are associated with incident venous thromboembolism in an HIV cohort.",
+    "journal": "HIV Med",
+    "pubdate": "2022 Nov;",
+    "year": 2022,
+    "doi": "10.1111/hiv.13309",
+    "pmid": "35343038",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/35343038/"
+  },
+  {
+    "authors": "Uyeda AM, Curtis JR, Engelberg RA, Brumback LC, Guo Y, Sibley J, Lober WB, Cohen T, Torrence J, Heywood J, Paul SR, Kross EK, Lee RY.",
+    "title": "Mixed-methods evaluation of three natural language processing modeling approaches for measuring documented goals-of-care discussions in the electronic health record.",
+    "journal": "J Pain Symptom Manage",
+    "pubdate": "2022 Jun;",
+    "year": 2022,
+    "doi": "10.1016/j.jpainsymman.2022.02.006",
+    "pmid": "35182715",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/35182715/"
+  },
+  {
+    "authors": "Short D, Fredericksen RJ, Crane HM, Fitzsimmons E, Suri S, Bacon J, Musten A, Gough K, Ramgopal M, Berry J, McReynolds J, Kroch A, Jacobs B, Hodge V, Korlipara D, Lober W.",
+    "title": "Utility and Impact of the Implementation of Same-Day, Self-administered Electronic Patient-Reported Outcomes Assessments in Routine HIV Care in two North American Clinics.",
+    "journal": "AIDS Behav",
+    "pubdate": "2022 Jul;",
+    "year": 2022,
+    "doi": "10.1007/s10461-022-03585-w",
+    "pmid": "35064851",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/35064851/"
+  },
+  {
+    "authors": "Howell K, Barnes M, Randall Curtis J, Engelberg R, Lee R, Lober W, Sibley J, Cohen T.",
+    "title": "Studies in Computational Intelligence\n              \n                [Internet]",
+    "journal": "",
+    "pubdate": "2021.",
+    "year": 2021,
+    "doi": "",
+    "pmid": null,
+    "url": ""
+  },
+  {
+    "authors": "Michaels M, Syed S, Lober WB.",
+    "title": "Blueprint for aligned data exchange for research and public health.",
+    "journal": "J Am Med Inform Assoc",
+    "pubdate": "2021 Nov 25;",
+    "year": 2021,
+    "doi": "10.1093/jamia/ocab210",
+    "pmid": "34613371",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/34613371/"
+  },
+  {
+    "authors": "Lee JS, Humes EA, Hogan BC, Buchacz K, Eron JJ, Gill MJ, Sterling TR, Rebeiro PF, Lima VD, Mayor A, Silverberg MJ, Horberg MA, Moore RD, Althoff KN, North American AIDS Cohort Collaboration on Research and Design.",
+    "title": "CD4 Count at Entry into Care and at Antiretroviral Therapy Prescription among Adults with Human Immunodeficiency Virus in the United States, 2005-2018.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2021 Oct 5;",
+    "year": 2021,
+    "doi": "10.1093/cid/ciaa1904",
+    "pmid": "33383586",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/33383586/"
+  },
+  {
+    "authors": "Suri S, Yoong D, Short D, Tan DH, Naccarato M, Crane HM, Musten A, Fredericksen RJ, Lober WB, Gough K.",
+    "title": "Feasibility of implementing a same-day electronic screening tool for clinical assessment to measure patient-reported outcomes for eliciting actionable information on adherence to HIV medication and related factors in a busy Canadian urban HIV clinic.",
+    "journal": "Int J STD AIDS",
+    "pubdate": "2022 Mar;",
+    "year": 2022,
+    "doi": "10.1177/09564624211032796",
+    "pmid": "34293990",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/34293990/"
+  },
+  {
+    "authors": "Castilho J, Bian A, Jenkins C, Shepherd B, Sigel K, Gill M, Kitahata M, Silverberg M, Mayor A, Coburn S, Wiley D, Achenbach C, Marconi V, Bosch R, Horberg M, Rabkin C, Napravnik S, Novak R, Mathews W, Thorne J, Sun J, Althoff K, Moore R, Sterling T, Sudenga S.",
+    "title": "Low CD4/CD8 ratio predicts cancer risk among adults with HIV.",
+    "journal": "",
+    "pubdate": "2021 July.",
+    "year": 2021,
+    "doi": "10.1101/2021.07.21.21260588",
+    "pmid": null,
+    "url": ""
+  },
+  {
+    "authors": "Davy-Mendez T, Napravnik S, Hogan BC, Althoff KN, Gebo KA, Moore RD, Horberg MA, Silverberg MJ, Gill MJ, Crane HM, Marconi VC, Bosch RJ, Colasanti JA, Sterling TR, Mathews WC, Mayor AM, Nanditha NGA, Buchacz K, Li J, Rebeiro PF, Thorne JE, Nijhawan A, van Duin D, Wohl DA, Eron JJ, Berry SA, North American AIDS Cohort Collaboration on Research and Design of IeDEA.",
+    "title": "Hospitalization Rates and Causes Among Persons With HIV in the United States and Canada, 2005-2015.",
+    "journal": "J Infect Dis",
+    "pubdate": "2021 Jun 15;",
+    "year": 2021,
+    "doi": "10.1093/infdis/jiaa661",
+    "pmid": "33084891",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/33084891/"
+  },
+  {
+    "authors": "Chen T, Baseman J, Lober WB, Revere D, Hills R, Klemfuss N, Karras BT.",
+    "title": "WA Notify: the planning and implementation of a Bluetooth exposure notification tool for COVID-19 pandemic response in Washington State.",
+    "journal": "Online J Public Health Inform",
+    "pubdate": "2021;",
+    "year": 2021,
+    "doi": "10.5210/ojphi.v13i1.11694",
+    "pmid": "34178242",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/34178242/"
+  },
+  {
+    "authors": "Coburn SB, Shiels MS, Silverberg MJ, Horberg MA, Gill MJ, Brown TT, Visvanathan K, Connor AE, Napravnik S, Marcus JL, Moore RD, Mathews WC, Mayor AM, Sterling TR, Li J, Rabkin CS, D'Souza G, Lau B, Althoff KN, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of the International Epidemiology Databases to Evaluate AIDS.",
+    "title": "Secular Trends in Breast Cancer Risk Among Women With HIV Initiating ART in North America.",
+    "journal": "J Acquir Immune Defic Syndr",
+    "pubdate": "2021 May 1;",
+    "year": 2021,
+    "doi": "10.1097/QAI.0000000000002627",
+    "pmid": "33492023",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/33492023/"
+  },
+  {
+    "authors": "Crane HM, Nance RM, Avoundjian T, Harding BN, Whitney BM, Chow FC, Becker KJ, Marra CM, Zunt JR, Ho EL, Kalani R, Huffer A, Burkholder GA, Willig AL, Moore RD, Mathews WC, Eron JJ, Napravnik S, Lober WB, Barnes GS, McReynolds J, Feinstein MJ, Heckbert SR, Saag MS, Kitahata MM, Delaney JAC, Tirschwell DL.",
+    "title": "Types of Stroke Among People Living With HIV in the United States.",
+    "journal": "J Acquir Immune Defic Syndr",
+    "pubdate": "2021 Apr 15;",
+    "year": 2021,
+    "doi": "10.1097/QAI.0000000000002598",
+    "pmid": "33661824",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/33661824/"
+  },
+  {
+    "authors": "Burkhardt HA, Brandt PS, Lee JR, Karras SW, Bugni PF, Cvitkovic I, Chen AY, Lober WB.",
+    "title": "StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool.",
+    "journal": "Online J Public Health Inform",
+    "pubdate": "2021;",
+    "year": 2021,
+    "doi": "10.5210/ojphi.v13i1.11462",
+    "pmid": "33936522",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/33936522/"
+  },
+  {
+    "authors": "Austin EJ, LeRouge C, Lee JR, Segal C, Sangameswaran S, Heim J, Lober WB, Hartzler AL, Lavallee DC.",
+    "title": "A learning health systems approach to integrating electronic patient-reported outcomes across the health care organization.",
+    "journal": "Learn Health Syst",
+    "pubdate": "2021 Oct;",
+    "year": 2021,
+    "doi": "10.1002/lrh2.10263",
+    "pmid": "34667879",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/34667879/"
+  },
+  {
+    "authors": "Crane HM, Nance RM, Whitney BM, Ruderman S, Tsui JI, Chander G, McCaul ME, Lau B, Mayer KH, Batey DS, Safren SA, Moore RD, Eron JJ, Napravnik S, Mathews WC, Fredericksen RJ, Hahn AW, Mugavero MJ, Lober WB, Saag MS, Kitahata MM, Delaney JAC.",
+    "title": "Drug and alcohol use among people living with HIV in care in the United States by geographic region.",
+    "journal": "AIDS Care",
+    "pubdate": "2021 Dec;",
+    "year": 2021,
+    "doi": "10.1080/09540121.2021.1874274",
+    "pmid": "33486978",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/33486978/"
+  },
+  {
+    "authors": "Davy-Mendez T, Napravnik S, Eron JJ, Cole SR, van Duin D, Wohl DA, Hogan BC, Althoff KN, Gebo KA, Moore RD, Silverberg MJ, Horberg MA, Gill MJ, Mathews WC, Klein MB, Colasanti JA, Sterling TR, Mayor AM, Rebeiro PF, Buchacz K, Li J, Nanditha NGA, Thorne JE, Nijhawan A, Berry SA, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of the International Epidemiology Databases to Evaluate AIDS (IeDEA).",
+    "title": "Current and Past Immunodeficiency Are Associated With Higher Hospitalization Rates Among Persons on Virologically Suppressive Antiretroviral Therapy for up to 11 Years.",
+    "journal": "J Infect Dis",
+    "pubdate": "2021 Aug 16;",
+    "year": 2021,
+    "doi": "10.1093/infdis/jiaa786",
+    "pmid": "34398239",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/34398239/"
+  },
+  {
+    "authors": "Fredericksen RJ, Harding BN, Ruderman SA, McReynolds J, Barnes G, Lober WB, Fitzsimmons E, Nance RM, Whitney BM, Delaney JAC, Mathews WC, Willig J, Crane PK, Crane HM.",
+    "title": "Patient acceptability and usability of a self-administered electronic patient-reported outcome assessment in HIV care: relationship with health behaviors and outcomes.",
+    "journal": "AIDS Care",
+    "pubdate": "2021 Sep;",
+    "year": 2021,
+    "doi": "10.1080/09540121.2020.1845288",
+    "pmid": "33190523",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/33190523/"
+  },
+  {
+    "authors": "McDermott CL, Engelberg RA, Khandelwal N, Steiner JM, Feemster LC, Sibley J, Lober WB, Curtis JR.",
+    "title": "The Association of Advance Care Planning Documentation and End-of-Life Healthcare Use Among Patients With Multimorbidity.",
+    "journal": "Am J Hosp Palliat Care",
+    "pubdate": "2021 Aug;",
+    "year": 2021,
+    "doi": "10.1177/1049909120968527",
+    "pmid": "33084357",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/33084357/"
+  },
+  {
+    "authors": "Lee RY, Brumback LC, Lober WB, Sibley J, Nielsen EL, Treece PD, Kross EK, Loggers ET, Fausto JA, Lindvall C, Engelberg RA, Curtis JR.",
+    "title": "Identifying Goals of Care Conversations in the Electronic Health Record Using Natural Language Processing and Machine Learning.",
+    "journal": "J Pain Symptom Manage",
+    "pubdate": "2021 Jan;",
+    "year": 2021,
+    "doi": "10.1016/j.jpainsymman.2020.08.024",
+    "pmid": "32858164",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/32858164/"
+  },
+  {
+    "authors": "Loo S, Grasso C, Glushkina J, McReynolds J, Lober W, Crane H, Mayer KH.",
+    "title": "Capturing Relevant Patient Data in Clinical Encounters Through Integration of an Electronic Patient-Reported Outcome System Into Routine Primary Care in a Boston Community Health Center: Development and Implementation Study.",
+    "journal": "J Med Internet Res",
+    "pubdate": "2020 Aug 19;",
+    "year": 2020,
+    "doi": "10.2196/16778",
+    "pmid": "32554372",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/32554372/"
+  },
+  {
+    "authors": "Lordon RJ, Mikles SP, Kneale L, Evans HL, Munson SA, Backonja U, Lober WB.",
+    "title": "How patient-generated health data and patient-reported outcomes affect patient-clinician relationships: A systematic review.",
+    "journal": "Health Informatics J",
+    "pubdate": "2020 Dec;",
+    "year": 2020,
+    "doi": "10.1177/1460458220928184",
+    "pmid": "32567460",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/32567460/"
+  },
+  {
+    "authors": "Lee RY, Brumback LC, Sathitratanacheewin S, Lober WB, Modes ME, Lynch YT, Ambrose CI, Sibley J, Vranas KC, Sullivan DR, Engelberg RA, Curtis JR, Kross EK.",
+    "title": "Association of Physician Orders for Life-Sustaining Treatment With ICU Admission Among Patients Hospitalized Near the End of Life.",
+    "journal": "JAMA",
+    "pubdate": "2020 Mar 10;",
+    "year": 2020,
+    "doi": "10.1001/jama.2019.22523",
+    "pmid": "32062674",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/32062674/"
+  },
+  {
+    "authors": "Hern\u00e1ndez-Ram\u00edrez RU, Qin L, Lin H, Leyden W, Neugebauer RS, Althoff KN, Hessol NA, Achenbach CJ, Brooks JT, Gill MJ, Grover S, Horberg MA, Li J, Mathews WC, Mayor AM, Patel P, Rabkin CS, Rachlis A, Justice AC, Moore RD, Engels EA, Silverberg MJ, Dubrow R, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS.",
+    "title": "Association of Immunosuppression and Human Immunodeficiency Virus (HIV) Viremia With Anal Cancer Risk in Persons Living With HIV in the United States and Canada.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2020 Mar 3;",
+    "year": 2020,
+    "doi": "10.1093/cid/ciz329",
+    "pmid": "31044245",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31044245/"
+  },
+  {
+    "authors": "Loo S, Grasso C, Glushkina J, McReynolds J, Lober W, Crane H, Mayer K.",
+    "title": "Capturing Relevant Patient Data in Clinical Encounters Through Integration of an Electronic Patient-Reported Outcome System Into Routine Primary Care in a Boston Community Health Center: Development and Implementation Study (Preprint).",
+    "journal": "",
+    "pubdate": "2019 October.",
+    "year": 2019,
+    "doi": "10.2196/preprints.16778",
+    "pmid": null,
+    "url": ""
+  },
+  {
+    "authors": "Tolins ML, Hippe DS, Morse SC, Evans HL, Lober WB, Vrablik MC.",
+    "title": "Wound Care Follow-Up From the Emergency Department Using a Mobile Application: A Pilot Study.",
+    "journal": "J Emerg Med",
+    "pubdate": "2019 Nov;",
+    "year": 2019,
+    "doi": "10.1016/j.jemermed.2019.07.017",
+    "pmid": "31594745",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31594745/"
+  },
+  {
+    "authors": "Chernetsky Tejedor S, Sharma J, Lavallee DC, Lober WB, Evans HL.",
+    "title": "Identification of Important Features in Mobile Health Applications for Surgical Site Infection Surveillance.",
+    "journal": "Surg Infect (Larchmt)",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/sur.2019.155",
+    "pmid": "31464572",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31464572/"
+  },
+  {
+    "authors": "Samareh A, Chang X, Lober WB, Evans HL, Wang Z, Qian X, Huang S.",
+    "title": "Artificial Intelligence Methods for Surgical Site Infection: Impacts on Detection, Monitoring, and Decision Making.",
+    "journal": "Surg Infect (Larchmt)",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/sur.2019.150",
+    "pmid": "31453753",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31453753/"
+  },
+  {
+    "authors": "Lavallee DC, Lee JR, Semple JL, Lober WB, Evans HL.",
+    "title": "Engaging Patients in Co-Design of Mobile Health Tools for Surgical Site Infection Surveillance: Implications for Research and Implementation.",
+    "journal": "Surg Infect (Larchmt)",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/sur.2019.148",
+    "pmid": "31429644",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31429644/"
+  },
+  {
+    "authors": "Semple JL, Evans HL, Lober WB, Lavallee DC.",
+    "title": "Implementing Mobile Health Interventions to Capture Post-Operative Patient-Generated Health Data.",
+    "journal": "Surg Infect (Larchmt)",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/sur.2019.151",
+    "pmid": "31429637",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31429637/"
+  },
+  {
+    "authors": "Jiang Z, Ardywibowo R, Samereh A, Evans HL, Lober WB, Chang X, Qian X, Wang Z, Huang S.",
+    "title": "A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images.",
+    "journal": "Surg Infect (Larchmt)",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/sur.2019.154",
+    "pmid": "31424335",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31424335/"
+  },
+  {
+    "authors": "Lober WB, Evans HL.",
+    "title": "Patient-Generated Health Data in Surgical Site Infection: Changing Clinical Workflow and Care Delivery.",
+    "journal": "Surg Infect (Larchmt)",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/sur.2019.195",
+    "pmid": "31397635",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31397635/"
+  },
+  {
+    "authors": "Feinstein MJ, Nance RM, Delaney JAC, Heckbert SR, Budoff MJ, Drozd DR, Burkholder GA, Willig JH, Mugavero MJ, Mathews WC, Moore RD, Eron JJ, Napravnik S, Hunt PW, Geng E, Hsue P, Peter I, Lober WB, Crothers K, Grunfeld C, Saag MS, Kitahata MM, Lloyd-Jones DM, Crane HM.",
+    "title": "Mortality following myocardial infarction among HIV-infected persons: the Center for AIDS Research Network Of Integrated Clinical Systems (CNICS).",
+    "journal": "BMC Med",
+    "pubdate": "2019 Jul 31;",
+    "year": 2019,
+    "doi": "10.1186/s12916-019-1385-7",
+    "pmid": "31362721",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31362721/"
+  },
+  {
+    "authors": "Lee JR, Evans HL, Lober WB, Lavallee DC, ASSIST Investigators.",
+    "title": "A Stakeholder-Driven Framework for Evaluating Surgical Site Infection Surveillance Technologies.",
+    "journal": "Surg Infect (Larchmt)",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/sur.2019.146",
+    "pmid": "31347988",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31347988/"
+  },
+  {
+    "authors": "Kim J, Engelberg RA, Downey L, Lee RY, Powelson E, Sibley J, Lober WB, Curtis JR, Khandelwal N.",
+    "title": "Predictors of Advance Care Planning Documentation in Patients With Underlying Chronic Illness Who Died of Traumatic Injury.",
+    "journal": "J Pain Symptom Manage",
+    "pubdate": "2019 Nov;",
+    "year": 2019,
+    "doi": "10.1016/j.jpainsymman.2019.07.015",
+    "pmid": "31349036",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31349036/"
+  },
+  {
+    "authors": "Evans HL, ASSIST Investigators.",
+    "title": "Executive Summary of the Assessing Surgical Site Infection Surveillance Technologies (ASSIST) Project.",
+    "journal": "Surg Infect (Larchmt)",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/sur.2019.171",
+    "pmid": "31335255",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/31335255/"
+  },
+  {
+    "authors": "Wagner E, Patrick DL, Khandelwal N, Brumback L, Starks H, Fausto J, Dunlap BS, Lober W, Sibley J, Loggers ET, Curtis JR, Engelberg RA.",
+    "title": "The Influence of Multimorbidity on Health Care Utilization at the End of Life for Patients with Chronic Conditions.",
+    "journal": "J Palliat Med",
+    "pubdate": "2019 Oct;",
+    "year": 2019,
+    "doi": "10.1089/jpm.2018.0349",
+    "pmid": "30964382",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/30964382/"
+  },
+  {
+    "authors": "Hern\u00e1ndez-Ram\u00edrez RU, Qin L, Lin H, Leyden W, Neugebauer RS, Althoff KN, Achenbach CJ, Hessol NA, D'Souza G, Gebo KA, Gill MJ, Grover S, Horberg MA, Li J, Mathews WC, Mayor AM, Park LS, Rabkin CS, Salters K, Justice AC, Moore RD, Engels EA, Silverberg MJ, Dubrow R, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS.",
+    "title": "Association of immunosuppression and HIV viraemia with non-Hodgkin lymphoma risk overall and by subtype in people living with HIV in Canada and the USA: a multicentre cohort study.",
+    "journal": "Lancet HIV",
+    "pubdate": "2019 Apr;",
+    "year": 2019,
+    "doi": "10.1016/S2352-3018(18)30360-6",
+    "pmid": "30826282",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/30826282/"
+  },
+  {
+    "authors": "Kummerow Broman K, Gaskill CE, Faqih A, Feng M, Phillips SE, Lober WB, Pierce RA, Holzman MD, Evans HL, Poulose BK.",
+    "title": "Evaluation of Wound Photography for Remote Postoperative Assessment of Surgical Site Infections.",
+    "journal": "JAMA Surg",
+    "pubdate": "2019 Feb 1;",
+    "year": 2019,
+    "doi": "10.1001/jamasurg.2018.3861",
+    "pmid": "30422236",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/30422236/"
+  },
+  {
+    "authors": "Iribarren S, Demiris G, Lober B, Chirico C.",
+    "title": "What Do Patients and Experts Want in a Smartphone-Based Application to Support Tuberculosis Treatment Completion?.",
+    "journal": "Stud Health Technol Inform",
+    "pubdate": "2018;",
+    "year": 2018,
+    "doi": "",
+    "pmid": "29857363",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29857363/"
+  },
+  {
+    "authors": "Brown CE, Engelberg RA, Sharma R, Downey L, Fausto JA, Sibley J, Lober W, Khandelwal N, Loggers ET, Curtis JR.",
+    "title": "Race/Ethnicity, Socioeconomic Status, and Healthcare Intensity at the End of Life.",
+    "journal": "J Palliat Med",
+    "pubdate": "2018 Sep;",
+    "year": 2018,
+    "doi": "10.1089/jpm.2018.0011",
+    "pmid": "29893618",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29893618/"
+  },
+  {
+    "authors": "Fredericksen RJ, Mayer KH, Gibbons LE, Edwards TC, Yang FM, Walcott M, Brown S, Dant L, Loo S, Gutierrez C, Paez E, Fitzsimmons E, Wu AW, Mugavero MJ, Mathews WC, Lober WB, Kitahata MM, Patrick DL, Crane PK, Crane HM.",
+    "title": "Development and Content Validation of a Patient-Reported Sexual Risk Measure for Use in Primary Care.",
+    "journal": "J Gen Intern Med",
+    "pubdate": "2018 Oct;",
+    "year": 2018,
+    "doi": "10.1007/s11606-018-4496-5",
+    "pmid": "29845470",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29845470/"
+  },
+  {
+    "authors": "Sullivan M, Langford DJ, Davies PS, Tran C, Vilardaga R, Cheung G, Yoo D, McReynolds J, Lober WB, Tauben D, Vowles KE.",
+    "title": "A Controlled Pilot Trial of PainTracker Self-Manager, a Web-Based Platform Combined With Patient Coaching, to Support Patients' Self-Management of Chronic Pain.",
+    "journal": "J Pain",
+    "pubdate": "2018 Sep;",
+    "year": 2018,
+    "doi": "10.1016/j.jpain.2018.03.009",
+    "pmid": "29605691",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29605691/"
+  },
+  {
+    "authors": "Sanger PC, Granich M, Olsen-Scribner R, Jain R, Lober WB, Stapleton A, Pottinger PS.",
+    "title": "Electronic Surveillance For Catheter-Associated Urinary Tract Infection Using Natural Language Processing.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2017;",
+    "year": 2017,
+    "doi": "",
+    "pmid": "29854220",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29854220/"
+  },
+  {
+    "authors": "Mikles SP, Wiltz JL, Reed-Fourquet L, Painter IS, Lober WB.",
+    "title": "Utilizing Standard Data Transactions and Public-Private Partnerships to Support Healthy Weight Within the Community.",
+    "journal": "EGEMS (Wash DC)",
+    "pubdate": "2017 Dec 6;",
+    "year": 2017,
+    "doi": "10.5334/egems.242",
+    "pmid": "29930962",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29930962/"
+  },
+  {
+    "authors": "Curtis JR, Sathitratanacheewin S, Starks H, Lee RY, Kross EK, Downey L, Sibley J, Lober W, Loggers ET, Fausto JA, Lindvall C, Engelberg RA.",
+    "title": "Using Electronic Health Records for Quality Measurement and Accountability in Care of the Seriously Ill: Opportunities and Challenges.",
+    "journal": "J Palliat Med",
+    "pubdate": "2018 Mar;",
+    "year": 2018,
+    "doi": "10.1089/jpm.2017.0542",
+    "pmid": "29182487",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29182487/"
+  },
+  {
+    "authors": "Crane HM, Crane PK, Tufano JT, Ralston JD, Wilson IB, Brown TD, Davis TE, Smith LF, Lober WB, McReynolds J, Dhanireddy S, Harrington RD, Rodriguez CV, Nance RM, Delaney JAC, Safren SA, Kitahata MM, Fredericksen RJ.",
+    "title": "HIV Provider Documentation and Actions Following Patient Reports of At-risk Behaviors and Conditions When Identified by a Web-Based Point-of-Care Assessment.",
+    "journal": "AIDS Behav",
+    "pubdate": "2017 Nov;",
+    "year": 2017,
+    "doi": "10.1007/s10461-017-1718-5",
+    "pmid": "28205041",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/28205041/"
+  },
+  {
+    "authors": "Hicks K, Downey L, Engelberg RA, Fausto JA, Starks H, Dunlap B, Sibley J, Lober W, Khandelwal N, Loggers ET, Curtis JR.",
+    "title": "Predictors of Death in the Hospital for Patients with Chronic Serious Illness.",
+    "journal": "J Palliat Med",
+    "pubdate": "2018 Mar;",
+    "year": 2018,
+    "doi": "10.1089/jpm.2017.0127",
+    "pmid": "28926294",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/28926294/"
+  },
+  {
+    "authors": "Sathitratanacheewin S, Engelberg RA, Downey L, Lee RY, Fausto JA, Starks H, Dunlap B, Sibley J, Lober W, Loggers ET, Khandelwal N, Curtis JR.",
+    "title": "Temporal Trends Between 2010 and 2015 in Intensity of Care at End-of-Life for Patients With Chronic Illness: Influence of Age Under vs. Over 65\u00a0Years.",
+    "journal": "J Pain Symptom Manage",
+    "pubdate": "2018 Jan;",
+    "year": 2018,
+    "doi": "10.1016/j.jpainsymman.2017.08.032",
+    "pmid": "28887270",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/28887270/"
+  },
+  {
+    "authors": "Engels EA, Yanik EL, Wheeler W, Gill MJ, Shiels MS, Dubrow R, Althoff KN, Silverberg MJ, Brooks JT, Kitahata MM, Goedert JJ, Grover S, Mayor AM, Moore RD, Park LS, Rachlis A, Sigel K, Sterling TR, Thorne JE, Pfeiffer RM, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS.",
+    "title": "Cancer-Attributable Mortality Among People With Treated Human Immunodeficiency Virus Infection in North America.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2017 Aug 15;",
+    "year": 2017,
+    "doi": "10.1093/cid/cix392",
+    "pmid": "29017269",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/29017269/"
+  },
+  {
+    "authors": "Steiner JM, Kirkpatrick JN, Heckbert SR, Habib A, Sibley J, Lober W, Randall Curtis J.",
+    "title": "Identification of adults with congenital heart disease of moderate or great complexity from administrative data.",
+    "journal": "Congenit Heart Dis",
+    "pubdate": "2018 Jan;",
+    "year": 2018,
+    "doi": "10.1111/chd.12524",
+    "pmid": "28736836",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/28736836/"
+  },
+  {
+    "authors": "Huang Y, Meng Q, Evans H, Lober W, Cheng Y, Qian X, Liu J, Huang S.",
+    "title": "CHI: A contemporaneous health index for degenerative disease monitoring using longitudinal measurements.",
+    "journal": "J Biomed Inform",
+    "pubdate": "2017 Sep;",
+    "year": 2017,
+    "doi": "10.1016/j.jbi.2017.07.003",
+    "pmid": "28712748",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/28712748/"
+  },
+  {
+    "authors": "Evans HL, Lober WB.",
+    "title": "A Pilot Use of Patient-Generated Wound Data to Improve Postdischarge Surgical Site Infection Monitoring.",
+    "journal": "JAMA Surg",
+    "pubdate": "2017 Jun 1;",
+    "year": 2017,
+    "doi": "10.1001/jamasurg.2017.0568",
+    "pmid": "28423162",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/28423162/"
+  },
+  {
+    "authors": "Lavin K, Davydow DS, Downey L, Engelberg RA, Dunlap B, Sibley J, Lober WB, Okimoto K, Khandelwal N, Loggers ET, Teno JM, Curtis JR.",
+    "title": "Effect of Psychiatric Illness on Acute Care Utilization at End of Life From Serious Medical Illness.",
+    "journal": "J Pain Symptom Manage",
+    "pubdate": "2017 Aug;",
+    "year": 2017,
+    "doi": "10.1016/j.jpainsymman.2017.04.003",
+    "pmid": "28495487",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/28495487/"
+  },
+  {
+    "authors": "Crane HM, Paramsothy P, Drozd DR, Nance RM, Delaney JA, Heckbert SR, Budoff MJ, Burkholder GA, Willig JH, Mugavero MJ, Mathews WC, Crane PK, Moore RD, Eron JJ, Napravnik S, Hunt PW, Geng E, Hsue P, Rodriguez C, Peter I, Barnes GS, McReynolds J, Lober WB, Crothers K, Feinstein MJ, Grunfeld C, Saag MS, Kitahata MM, Centers for AIDS Research Network of Integrated Clinical Systems (CNICS) Cohort.",
+    "title": "Types of Myocardial Infarction Among Human Immunodeficiency Virus-Infected Individuals in the United States.",
+    "journal": "JAMA Cardiol",
+    "pubdate": "2017 Mar 1;",
+    "year": 2017,
+    "doi": "10.1001/jamacardio.2016.5139",
+    "pmid": "28052152",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/28052152/"
+  },
+  {
+    "authors": "Crane HM, Nance RM, Delaney JA, Fredericksen RJ, Church A, Simoni JM, Harrington RD, Dhanireddy S, Safren SA, McCaul ME, Lober WB, Crane PK, Wilson IB, Mugavero MJ, Kitahata MM.",
+    "title": "A Comparison of Adherence Timeframes Using Missed Dose Items and Their Associations with Viral Load in Routine Clinical Care: Is Longer Better?.",
+    "journal": "AIDS Behav",
+    "pubdate": "2017 Feb;",
+    "year": 2017,
+    "doi": "10.1007/s10461-016-1566-8",
+    "pmid": "27714525",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27714525/"
+  },
+  {
+    "authors": "Ke C, Jin Y, Evans H, Lober B, Qian X, Liu J, Huang S.",
+    "title": "Prognostics of surgical site infections using dynamic health data.",
+    "journal": "J Biomed Inform",
+    "pubdate": "2017 Jan;",
+    "year": 2017,
+    "doi": "10.1016/j.jbi.2016.10.021",
+    "pmid": "27825798",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27825798/"
+  },
+  {
+    "authors": "Sanger PC, Simianu VV, Gaskill CE, Armstrong CA, Hartzler AL, Lordon RJ, Lober WB, Evans HL.",
+    "title": "Diagnosing Surgical Site Infection Using Wound Photography: A Scenario-Based Study.",
+    "journal": "J Am Coll Surg",
+    "pubdate": "2017 Jan;",
+    "year": 2017,
+    "doi": "10.1016/j.jamcollsurg.2016.10.027",
+    "pmid": "27746223",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27746223/"
+  },
+  {
+    "authors": "Crane HM, Fredericksen RJ, Church A, Harrington A, Ciechanowski P, Magnani J, Nasby K, Brown T, Dhanireddy S, Harrington RD, Lober WB, Simoni J, Safren SA, Edwards TC, Patrick DL, Saag MS, Crane PK, Kitahata MM.",
+    "title": "A Randomized Controlled Trial Protocol to Evaluate the Effectiveness of an Integrated Care Management Approach to Improve Adherence Among HIV-Infected Patients in Routine Clinical Care: Rationale and Design.",
+    "journal": "JMIR Res Protoc",
+    "pubdate": "2016 Oct 5;",
+    "year": 2016,
+    "doi": "10.2196/resprot.5492",
+    "pmid": "27707688",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27707688/"
+  },
+  {
+    "authors": "Kang'a S, Puttkammer N, Wanyee S, Kimanga D, Madrano J, Muthee V, Odawo P, Sharma A, Oluoch T, Robinson K, Kwach J, Lober WB.",
+    "title": "A national standards-based assessment on functionality of electronic medical records systems used in Kenyan public-Sector health facilities.",
+    "journal": "Int J Med Inform",
+    "pubdate": "2017 Jan;",
+    "year": 2017,
+    "doi": "10.1016/j.ijmedinf.2016.09.013",
+    "pmid": "27919397",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27919397/"
+  },
+  {
+    "authors": "Klein MB, Althoff KN, Jing Y, Lau B, Kitahata M, Lo Re V 3rd, Kirk GD, Hull M, Kim HN, Sebastiani G, Moodie EE, Silverberg MJ, Sterling TR, Thorne JE, Cescon A, Napravnik S, Eron J, Gill MJ, Justice A, Peters MG, Goedert JJ, Mayor A, Thio CL, Cachay ER, Moore R, North American AIDS Cohort Collaboration on Research and Design of IeDEA, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of IeDEA.",
+    "title": "Risk of End-Stage Liver Disease in HIV-Viral Hepatitis Coinfected Persons in North America From the Early to Modern Antiretroviral Therapy Eras.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2016 Nov 1;",
+    "year": 2016,
+    "doi": "10.1093/cid/ciw531",
+    "pmid": "27506682",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27506682/"
+  },
+  {
+    "authors": "Fredericksen RJ, Tufano J, Ralston J, McReynolds J, Stewart M, Lober WB, Mayer KH, Mathews WC, Mugavero MJ, Crane PK, Crane HM.",
+    "title": "Provider perceptions of the value of same-day, electronic patient-reported measures for use in clinical HIV care.",
+    "journal": "AIDS Care",
+    "pubdate": "2016 Nov;",
+    "year": 2016,
+    "doi": "10.1080/09540121.2016.1189501",
+    "pmid": "27237187",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27237187/"
+  },
+  {
+    "authors": "Sanger PC, van Ramshorst GH, Mercan E, Huang S, Hartzler AL, Armstrong CA, Lordon RJ, Lober WB, Evans HL.",
+    "title": "A Prognostic Model of Surgical Site Infection Using Daily Clinical Wound Assessment.",
+    "journal": "J Am Coll Surg",
+    "pubdate": "2016 Aug;",
+    "year": 2016,
+    "doi": "10.1016/j.jamcollsurg.2016.04.046",
+    "pmid": "27188832",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27188832/"
+  },
+  {
+    "authors": "Gibbons LE, Fredericksen R, Merrill JO, McCaul ME, Chander G, Hutton H, Lober WB, Mathews WC, Mayer K, Burkholder G, Willig JH, Mugavero MJ, Saag MS, Kitahata MM, Edwards TC, Patrick DL, Crane HM, Crane PK.",
+    "title": "Suitability of the PROMIS alcohol use short form for screening in a HIV clinical care setting.",
+    "journal": "Drug Alcohol Depend",
+    "pubdate": "2016 Jul 1;",
+    "year": 2016,
+    "doi": "10.1016/j.drugalcdep.2016.04.038",
+    "pmid": "27209223",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27209223/"
+  },
+  {
+    "authors": "Althoff KN, Rebeiro PF, Hanna DB, Padgett D, Horberg MA, Grinsztejn B, Abraham AG, Hogg R, Gill MJ, Wolff MJ, Mayor A, Rachlis A, Williams C, Sterling TR, Kitahata MM, Buchacz K, Thorne JE, Cesar C, Cordero FM, Rourke SB, Sierra-Madero J, Pape JW, Cahn P, McGowan C, North American Aids Cohort Collaboration on Research and Design (NA-ACCORD) and Caribbean, Central and South America Network for Hiv Epidemiology (CCASAnet).",
+    "title": "A picture is worth a thousand words: maps of HIV indicators to inform research, programs, and policy from NA-ACCORD and CCASAnet clinical cohorts.",
+    "journal": "J Int AIDS Soc",
+    "pubdate": "2016;",
+    "year": 2016,
+    "doi": "10.7448/IAS.19.1.20707",
+    "pmid": "27049052",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27049052/"
+  },
+  {
+    "authors": "Cesar C, Koethe JR, Giganti MJ, Rebeiro P, Althoff KN, Napravnik S, Mayor A, Grinsztejn B, Wolff M, Padgett D, Sierra-Madero J, Gotuzzo E, Sterling TR, Willig J, Levison J, Kitahata M, Rodriguez-Barradas MC, Moore RD, McGowan C, Shepherd BE, Cahn P, Caribbean, Central and South America Network for HIV epidemiology (CCASAnet) and North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD).",
+    "title": "Health outcomes among HIV-positive Latinos initiating antiretroviral therapy in North America versus Central and South America.",
+    "journal": "J Int AIDS Soc",
+    "pubdate": "2016;",
+    "year": 2016,
+    "doi": "10.7448/IAS.19.1.20684",
+    "pmid": "26996992",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/26996992/"
+  },
+  {
+    "authors": "Sanger PC, Hartzler A, Lordon RJ, Armstrong CA, Lober WB, Evans HL, Pratt W.",
+    "title": "A patient-centered system in a provider-centered world: challenges of incorporating post-discharge wound data into practice.",
+    "journal": "J Am Med Inform Assoc",
+    "pubdate": "2016 May;",
+    "year": 2016,
+    "doi": "10.1093/jamia/ocv183",
+    "pmid": "26977103",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/26977103/"
+  },
+  {
+    "authors": "Eaton J, Painter I, Olson D, Lober WB.",
+    "title": "Visualizing the quality of partially accruing data for use in decision making.",
+    "journal": "Online J Public Health Inform",
+    "pubdate": "2015;",
+    "year": 2015,
+    "doi": "10.5210/ojphi.v7i3.6096",
+    "pmid": "27252794",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/27252794/"
+  },
+  {
+    "authors": "Silverberg MJ, Lau B, Achenbach CJ, Jing Y, Althoff KN, D'Souza G, Engels EA, Hessol NA, Brooks JT, Burchell AN, Gill MJ, Goedert JJ, Hogg R, Horberg MA, Kirk GD, Kitahata MM, Korthuis PT, Mathews WC, Mayor A, Modur SP, Napravnik S, Novak RM, Patel P, Rachlis AR, Sterling TR, Willig JH, Justice AC, Moore RD, Dubrow R, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS.",
+    "title": "Cumulative Incidence of Cancer Among Persons With HIV in North America: A Cohort Study.",
+    "journal": "Ann Intern Med",
+    "pubdate": "2015 Oct 6;",
+    "year": 2015,
+    "doi": "10.7326/M14-2768",
+    "pmid": "26436616",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/26436616/"
+  },
+  {
+    "authors": "Kitahata MM, Drozd DR, Crane HM, Van Rompaey SE, Althoff KN, Gange SJ, Klein MB, Lucas GM, Abraham AG, Lo Re V 3rd, McReynolds J, Lober WB, Mendes A, Modur SP, Jing Y, Morton EJ, Griffith MA, Freeman AM, Moore RD.",
+    "title": "Ascertainment and verification of end-stage renal disease and end-stage liver disease in the north american AIDS cohort collaboration on research and design.",
+    "journal": "AIDS Res Treat",
+    "pubdate": "2015;",
+    "year": 2015,
+    "doi": "10.1155/2015/923194",
+    "pmid": "25789171",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/25789171/"
+  },
+  {
+    "authors": "Duda SN, Farr AM, Lindegren ML, Blevins M, Wester CW, Wools-Kaloustian K, Ekouevi DK, Egger M, Hemingway-Foday J, Cooper DA, Moore RD, McGowan CC, Nash D, International Epidemiologic Databases to Evaluate AIDS (IeDEA) Collaboration.",
+    "title": "Characteristics and comprehensiveness of adult HIV care and treatment programmes in Asia-Pacific, sub-Saharan Africa and the Americas: results of a site assessment conducted by the International epidemiologic Databases to Evaluate AIDS (IeDEA) Collaboration.",
+    "journal": "J Int AIDS Soc",
+    "pubdate": "2014;",
+    "year": 2014,
+    "doi": "10.7448/IAS.17.1.19045",
+    "pmid": "25516092",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/25516092/"
+  },
+  {
+    "authors": "Sanger PC, Hartzler A, Han SM, Armstrong CA, Stewart MR, Lordon RJ, Lober WB, Evans HL.",
+    "title": "Patient perspectives on post-discharge surgical site infections: towards a patient-centered mobile health solution.",
+    "journal": "PLoS One",
+    "pubdate": "2014;",
+    "year": 2014,
+    "doi": "10.1371/journal.pone.0114016",
+    "pmid": "25436912",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/25436912/"
+  },
+  {
+    "authors": "Fredericksen R, Feldman BJ, Brown T, Schmidt S, Crane PK, Harrington RD, Dhanireddy S, McReynolds J, Lober WB, Bangsberg DR, Kitahata MM, Crane HM.",
+    "title": "Unannounced telephone-based pill counts: a valid and feasible method for monitoring adherence.",
+    "journal": "AIDS Behav",
+    "pubdate": "2014 Dec;",
+    "year": 2014,
+    "doi": "10.1007/s10461-014-0916-7",
+    "pmid": "25331265",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/25331265/"
+  },
+  {
+    "authors": "Sanger P, Hartzler A, Lober WB, Evans HL, Pratt W.",
+    "title": "Design Considerations for Post-Acute Care mHealth: Patient Perspectives.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2014;",
+    "year": 2014,
+    "doi": "",
+    "pmid": "25954465",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/25954465/"
+  },
+  {
+    "authors": "Berry DL, Hong F, Halpenny B, Partridge A, Fox E, Fann JR, Wolpin S, Lober WB, Bush N, Parvathaneni U, Amtmann D, Ford R.",
+    "title": "The electronic self report assessment and intervention for cancer: promoting patient verbal reporting of symptom and quality of life issues in a randomized controlled trial.",
+    "journal": "BMC Cancer",
+    "pubdate": "2014 Jul 12;",
+    "year": 2014,
+    "doi": "10.1186/1471-2407-14-513",
+    "pmid": "25014995",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/25014995/"
+  },
+  {
+    "authors": "Edwards JK, Cole SR, Westreich D, Moore R, Mathews C, Geng E, Eron JJ, Mugavero MJ, CNICS Research Network.",
+    "title": "Loss to clinic and five-year mortality among HIV-infected antiretroviral therapy initiators.",
+    "journal": "PLoS One",
+    "pubdate": "2014;",
+    "year": 2014,
+    "doi": "10.1371/journal.pone.0102305",
+    "pmid": "25010739",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/25010739/"
+  },
+  {
+    "authors": "Crane HM, Heckbert SR, Drozd DR, Budoff MJ, Delaney JA, Rodriguez C, Paramsothy P, Lober WB, Burkholder G, Willig JH, Mugavero MJ, Mathews WC, Crane PK, Moore RD, Napravnik S, Eron JJ, Hunt P, Geng E, Hsue P, Barnes GS, McReynolds J, Peter I, Grunfeld C, Saag MS, Kitahata MM.",
+    "title": "The authors reply.",
+    "journal": "Am J Epidemiol",
+    "pubdate": "2014 Aug 15;",
+    "year": 2014,
+    "doi": "10.1093/aje/kwu167",
+    "pmid": "24989243",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/24989243/"
+  },
+  {
+    "authors": "Crane HM, Heckbert SR, Drozd DR, Budoff MJ, Delaney JA, Rodriguez C, Paramsothy P, Lober WB, Burkholder G, Willig JH, Mugavero MJ, Mathews WC, Crane PK, Moore RD, Napravnik S, Eron JJ, Hunt P, Geng E, Hsue P, Barnes GS, McReynolds J, Peter I, Grunfeld C, Saag MS, Kitahata MM, Centers for AIDS Research Network of Integrated Clinical Systems Cohort Investigators.",
+    "title": "Lessons learned from the design and implementation of myocardial infarction adjudication tailored for HIV clinical cohorts.",
+    "journal": "Am J Epidemiol",
+    "pubdate": "2014 Apr 15;",
+    "year": 2014,
+    "doi": "10.1093/aje/kwu010",
+    "pmid": "24618065",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/24618065/"
+  },
+  {
+    "authors": "Lober WB, Reeder B, Painter I, Revere D, Goldov K, Bugni PF, McReynolds J, Olson DR.",
+    "title": "Technical Description of the Distribute Project: A Community-based Syndromic Surveillance System Implementation.",
+    "journal": "Online J Public Health Inform",
+    "pubdate": "2014;",
+    "year": 2014,
+    "doi": "10.5210/ojphi.v5i3.4938",
+    "pmid": "24678377",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/24678377/"
+  },
+  {
+    "authors": "Althoff KN, Rebeiro P, Brooks JT, Buchacz K, Gebo K, Martin J, Hogg R, Thorne JE, Klein M, Gill MJ, Sterling TR, Yehia B, Silverberg MJ, Crane H, Justice AC, Gange SJ, Moore R, Kitahata MM, Horberg MA, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD).",
+    "title": "Disparities in the quality of HIV care when using US Department of Health and Human Services indicators.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2014 Apr;",
+    "year": 2014,
+    "doi": "10.1093/cid/ciu044",
+    "pmid": "24463281",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/24463281/"
+  },
+  {
+    "authors": "Wolpin SE, Halpenny B, Whitman G, McReynolds J, Stewart M, Lober WB, Berry DL.",
+    "title": "Development and usability testing of a web-based cancer symptom and quality-of-life support intervention.",
+    "journal": "Health Informatics J",
+    "pubdate": "2015 Mar;",
+    "year": 2015,
+    "doi": "10.1177/1460458213495744",
+    "pmid": "24406906",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/24406906/"
+  },
+  {
+    "authors": "Berry DL, Hong F, Halpenny B, Partridge AH, Fann JR, Wolpin S, Lober WB, Bush NE, Parvathaneni U, Back AL, Amtmann D, Ford R.",
+    "title": "Electronic self-report assessment for cancer and self-care support: results of a multicenter randomized trial.",
+    "journal": "J Clin Oncol",
+    "pubdate": "2014 Jan 20;",
+    "year": 2014,
+    "doi": "10.1200/JCO.2013.48.6662",
+    "pmid": "24344222",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/24344222/"
+  },
+  {
+    "authors": "Smith PF, Hadler JL, Stanbury M, Rolfs RT, Hopkins RS, CSTE Surveillance Strategy Group.",
+    "title": "\"Blueprint version 2.0\": updating public health surveillance for the 21st century.",
+    "journal": "J Public Health Manag Pract",
+    "pubdate": "2013 May-Jun;",
+    "year": 2013,
+    "doi": "10.1097/PHH.0b013e318262906e",
+    "pmid": "22759985",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/22759985/"
+  },
+  {
+    "authors": "Reeder B, Revere D, Hills RA, Baseman JG, Lober WB.",
+    "title": "Public Health Practice within a Health Information Exchange: Information Needs and Barriers to Disease Surveillance.",
+    "journal": "Online J Public Health Inform",
+    "pubdate": "2012;",
+    "year": 2012,
+    "doi": "10.5210/ojphi.v4i3.4277",
+    "pmid": "23569649",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/23569649/"
+  },
+  {
+    "authors": "May MT, Hogg RS, Justice AC, Shepherd BE, Costagliola D, Ledergerber B, Thi\u00e9baut R, Gill MJ, Kirk O, van Sighem A, Saag MS, Navarro G, Sobrino-Vegas P, Lampe F, Ingle S, Guest JL, Crane HM, D'Arminio Monforte A, Vehreschild JJ, Sterne JA, Antiretroviral Therapy Cohort Collaboration (ART-CC).",
+    "title": "Heterogeneity in outcomes of treated HIV-positive patients in Europe and North America: relation with patient and cohort characteristics.",
+    "journal": "Int J Epidemiol",
+    "pubdate": "2012 Dec;",
+    "year": 2012,
+    "doi": "10.1093/ije/dys164",
+    "pmid": "23148105",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/23148105/"
+  },
+  {
+    "authors": "Hills RA, Revere D, Altamore R, Abernethy NF, Lober WB.",
+    "title": "Timeliness and data element completeness of immunization data in Washington State in 2010: a comparison of data exchange methods.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2012;",
+    "year": 2012,
+    "doi": "",
+    "pmid": "23304304",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/23304304/"
+  },
+  {
+    "authors": "Matheson AI, Baseman JG, Wagner SH, O'Malley GE, Puttkammer NH, Emmanuel E, Zamor G, Fr\u00e9d\u00e9ric R, Coq NR, Lober WB.",
+    "title": "Implementation and expansion of an electronic medical record for HIV care and treatment in Haiti: an assessment of system use and the impact of large-scale disruptions.",
+    "journal": "Int J Med Inform",
+    "pubdate": "2012 Apr;",
+    "year": 2012,
+    "doi": "10.1016/j.ijmedinf.2012.01.011",
+    "pmid": "22361158",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/22361158/"
+  },
+  {
+    "authors": "Fredericksen R, Crane PK, Tufano J, Ralston J, Schmidt S, Brown T, Layman D, Harrington RD, Dhanireddy S, Stone T, Lober W, Kitahata MM, Crane HM.",
+    "title": "Integrating a web-based, patient-administered assessment into primary care for HIV-infected adults.",
+    "journal": "J AIDS HIV Res",
+    "pubdate": "2012 Feb;",
+    "year": 2012,
+    "doi": "10.5897/jahr11.046",
+    "pmid": "26561537",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/26561537/"
+  },
+  {
+    "authors": "Berry DL, Halpenny B, Hong F, Wolpin S, Lober WB, Russell KJ, Ellis WJ, Govindarajulu U, Bosco J, Davison BJ, Bennett G, Terris MK, Barsevick A, Lin DW, Yang CC, Swanson G.",
+    "title": "The Personal Patient Profile-Prostate decision support for men with localized prostate cancer: a multi-center randomized trial.",
+    "journal": "Urol Oncol",
+    "pubdate": "2013 Oct;",
+    "year": 2013,
+    "doi": "10.1016/j.urolonc.2011.10.004",
+    "pmid": "22153756",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/22153756/"
+  },
+  {
+    "authors": "Hills RA, Baseman JG, Revere D, Boge CL, Oberle MW, Doctor JN, Lober WB.",
+    "title": "Applying the XForms Standard to Public Health Case Reporting and Alerting.",
+    "journal": "Online J Public Health Inform",
+    "pubdate": "2011;",
+    "year": 2011,
+    "doi": "10.5210/ojphi.v3i2.3656",
+    "pmid": "23569609",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/23569609/"
+  },
+  {
+    "authors": "Olson DR, Paladini M, Lober WB, Buckeridge DL, ISDS Distribute Working Group.",
+    "title": "Applying a New Model for Sharing Population Health Data to National Syndromic Influenza Surveillance: DiSTRIBuTE Project Proof of Concept, 2006 to 2009.",
+    "journal": "PLoS Curr",
+    "pubdate": "2011 Aug 2;",
+    "year": 2011,
+    "doi": "10.1371/currents.RRN1251",
+    "pmid": "21894257",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/21894257/"
+  },
+  {
+    "authors": "Lober WB, Flowers JL.",
+    "title": "Consumer empowerment in health care amid the internet and social media.",
+    "journal": "Semin Oncol Nurs",
+    "pubdate": "2011 Aug;",
+    "year": 2011,
+    "doi": "10.1016/j.soncn.2011.04.002",
+    "pmid": "21783008",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/21783008/"
+  },
+  {
+    "authors": "Reeder B, Revere D, Olson DR, Lober WB.",
+    "title": "Perceived usefulness of a distributed community-based syndromic surveillance system: a pilot qualitative evaluation study.",
+    "journal": "BMC Res Notes",
+    "pubdate": "2011 Jun 14;",
+    "year": 2011,
+    "doi": "10.1186/1756-0500-4-187",
+    "pmid": "21672242",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/21672242/"
+  },
+  {
+    "authors": "Berry DL, Blumenstein BA, Halpenny B, Wolpin S, Fann JR, Austin-Seymour M, Bush N, Karras BT, Lober WB, McCorkle R.",
+    "title": "Enhancing patient-provider communication with the electronic self-report assessment for cancer: a randomized trial.",
+    "journal": "J Clin Oncol",
+    "pubdate": "2011 Mar 10;",
+    "year": 2011,
+    "doi": "10.1200/JCO.2010.30.3909",
+    "pmid": "21282548",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/21282548/"
+  },
+  {
+    "authors": "Kim EH, Coumar A, Lober WB, Kim Y.",
+    "title": "Addressing mental health epidemic among university students via web-based, self-screening, and referral system: a preliminary study.",
+    "journal": "IEEE Trans Inf Technol Biomed",
+    "pubdate": "2011 Mar;",
+    "year": 2011,
+    "doi": "10.1109/TITB.2011.2107561",
+    "pmid": "21257386",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/21257386/"
+  },
+  {
+    "authors": "Lober WB, Revere D, Hills R.",
+    "title": "A Lab-EMR interoperability profile as an eHealth architecture component for resource-constrained settings.",
+    "journal": "Stud Health Technol Inform",
+    "pubdate": "2010;",
+    "year": 2010,
+    "doi": "",
+    "pmid": "20841689",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/20841689/"
+  },
+  {
+    "authors": "Berry DL, Halpenny B, Wolpin S, Davison BJ, Ellis WJ, Lober WB, McReynolds J, Wulff J.",
+    "title": "Development and evaluation of the personal patient profile-prostate (P3P), a Web-based decision support system for men newly diagnosed with localized prostate cancer.",
+    "journal": "J Med Internet Res",
+    "pubdate": "2010 Dec 17;",
+    "year": 2010,
+    "doi": "10.2196/jmir.1576",
+    "pmid": "21169159",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/21169159/"
+  },
+  {
+    "authors": "Chapman WW, Dowling JN, Baer A, Buckeridge DL, Cochrane D, Conway MA, Elkin P, Espino J, Gunn JE, Hales CM, Hutwagner L, Keller M, Larson C, Noe R, Okhmatovskaia A, Olson K, Paladini M, Scholer M, Sniegoski C, Thompson D, Lober B.",
+    "title": "Developing syndrome definitions based on consensus and current use.",
+    "journal": "J Am Med Inform Assoc",
+    "pubdate": "2010 Sep-Oct;",
+    "year": 2010,
+    "doi": "10.1136/jamia.2010.003210",
+    "pmid": "20819870",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/20819870/"
+  },
+  {
+    "authors": "Van Eaton EG, McDonough K, Lober WB, Johnson EA, Pellegrini CA, Horvath KD.",
+    "title": "Safety of using a computerized rounding and sign-out system to reduce resident duty hours.",
+    "journal": "Acad Med",
+    "pubdate": "2010 Jul;",
+    "year": 2010,
+    "doi": "10.1097/ACM.0b013e3181e0116f",
+    "pmid": "20592514",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/20592514/"
+  },
+  {
+    "authors": "Wolpin S, Berry DL, Kurth A, Lober WB.",
+    "title": "Improving health literacy: a Web application for evaluating text-to-speech engines.",
+    "journal": "Comput Inform Nurs",
+    "pubdate": "2010 Jul-Aug;",
+    "year": 2010,
+    "doi": "10.1097/NCN.0b013e3181e1ddca",
+    "pmid": "20571370",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/20571370/"
+  },
+  {
+    "authors": "Lawrence ST, Willig JH, Crane HM, Ye J, Aban I, Lober W, Nevin CR, Batey DS, Mugavero MJ, McCullumsmith C, Wright C, Kitahata M, Raper JL, Saag MS, Schumacher JE.",
+    "title": "Routine, self-administered, touch-screen, computer-based suicidal ideation assessment linked to automated response team notification in an HIV primary care setting.",
+    "journal": "Clin Infect Dis",
+    "pubdate": "2010 Apr 15;",
+    "year": 2010,
+    "doi": "10.1086/651420",
+    "pmid": "20210646",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/20210646/"
+  },
+  {
+    "authors": "Kim EH, Stolyar A, Lober WB, Herbaugh AL, Shinstrom SE, Zierler BK, Soh CB, Kim Y.",
+    "title": "Challenges to using an electronic personal health record by a low-income elderly population.",
+    "journal": "J Med Internet Res",
+    "pubdate": "2009 Oct 27;",
+    "year": 2009,
+    "doi": "10.2196/jmir.1256",
+    "pmid": "19861298",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/19861298/"
+  },
+  {
+    "authors": "Kitahata MM, Gange SJ, Abraham AG, Merriman B, Saag MS, Justice AC, Hogg RS, Deeks SG, Eron JJ, Brooks JT, Rourke SB, Gill MJ, Bosch RJ, Martin JN, Klein MB, Jacobson LP, Rodriguez B, Sterling TR, Kirk GD, Napravnik S, Rachlis AR, Calzavara LM, Horberg MA, Silverberg MJ, Gebo KA, Goedert JJ, Benson CA, Collier AC, Van Rompaey SE, Crane HM, McKaig RG, Lau B, Freeman AM, Moore RD, NA-ACCORD Investigators.",
+    "title": "Effect of early versus deferred antiretroviral therapy for HIV on survival.",
+    "journal": "N Engl J Med",
+    "pubdate": "2009 Apr 30;",
+    "year": 2009,
+    "doi": "10.1056/NEJMoa0807252",
+    "pmid": "19339714",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/19339714/"
+  },
+  {
+    "authors": "Fann JR, Berry DL, Wolpin S, Austin-Seymour M, Bush N, Halpenny B, Lober WB, McCorkle R.",
+    "title": "Depression screening using the Patient Health Questionnaire-9 administered on a touch screen computer.",
+    "journal": "Psychooncology",
+    "pubdate": "2009 Jan;",
+    "year": 2009,
+    "doi": "10.1002/pon.1368",
+    "pmid": "18457335",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/18457335/"
+  },
+  {
+    "authors": "Lober WB, Quiles C, Wagner S, Cassagnol R, Lamothes R, Alexis DR, Joseph P, Sutton P, Puttkammer N, Kitahata MM.",
+    "title": "Three years experience with the implementation of a networked electronic medical record in Haiti.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2008 Nov 6;",
+    "year": 2008,
+    "doi": "",
+    "pmid": "18999283",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/18999283/"
+  },
+  {
+    "authors": "Painter IS, Hills RA, Lober WB, Randels KM, Sibley J, Webster E.",
+    "title": "Extending functionality of and demonstrating integrated surveillance for public health within a prototype regional health information exchange.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2008 Nov 6;",
+    "year": 2008,
+    "doi": "",
+    "pmid": "18999244",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/18999244/"
+  },
+  {
+    "authors": "Wolpin S, Berry D, Austin-Seymour M, Bush N, Fann JR, Halpenny B, Lober WB, McCorkle R.",
+    "title": "Acceptability of an Electronic Self-Report Assessment Program for patients with cancer.",
+    "journal": "Comput Inform Nurs",
+    "pubdate": "2008 Nov-Dec;",
+    "year": 2008,
+    "doi": "10.1097/01.NCN.0000336464.79692.6a",
+    "pmid": "19047882",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/19047882/"
+  },
+  {
+    "authors": "Doctor JN, Baseman JG, Lober WB, Davies J, Kobayashi J, Karras BT, Fuller S.",
+    "title": "Time-tradeoff utilities for identifying and evaluating a minimum data set for time-critical biosurveillance.",
+    "journal": "Med Decis Making",
+    "pubdate": "2008 May-Jun;",
+    "year": 2008,
+    "doi": "10.1177/0272989X08317011",
+    "pmid": "18480039",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/18480039/"
+  },
+  {
+    "authors": "Kitahata MM, Rodriguez B, Haubrich R, Boswell S, Mathews WC, Lederman MM, Lober WB, Van Rompaey SE, Crane HM, Moore RD, Bertram M, Kahn JO, Saag MS.",
+    "title": "Cohort profile: the Centers for AIDS Research Network of Integrated Clinical Systems.",
+    "journal": "Int J Epidemiol",
+    "pubdate": "2008 Oct;",
+    "year": 2008,
+    "doi": "10.1093/ije/dym231",
+    "pmid": "18263650",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/18263650/"
+  },
+  {
+    "authors": "Rodriguez CV, Lober WB, Sibley J, Webster E, Painter I, Karras BT.",
+    "title": "Integrating public health applications with commercial EMRs.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2007 Oct 11;",
+    "year": 2007,
+    "doi": "",
+    "pmid": "18694192",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/18694192/"
+  },
+  {
+    "authors": "Kim EH, Stolyar A, Lober WB, Herbaugh AL, Shinstrom SE, Zierler BK, Soh CB, Kim Y.",
+    "title": "Usage patterns of a personal health record by elderly and disabled users.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2007 Oct 11;",
+    "year": 2007,
+    "doi": "",
+    "pmid": "18693868",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/18693868/"
+  },
+  {
+    "authors": "Crane HM, Lober W, Webster E, Harrington RD, Crane PK, Davis TE, Kitahata MM.",
+    "title": "Routine collection of patient-reported outcomes in an HIV clinic setting: the first 100 patients.",
+    "journal": "Curr HIV Res",
+    "pubdate": "2007 Jan;",
+    "year": 2007,
+    "doi": "10.2174/157016207779316369",
+    "pmid": "17266562",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/17266562/"
+  },
+  {
+    "authors": "Lober WB, Zierler B, Herbaugh A, Shinstrom SE, Stolyar A, Kim EH, Kim Y.",
+    "title": "Barriers to the use of a personal health record by an elderly population.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2006;",
+    "year": 2006,
+    "doi": "",
+    "pmid": "17238394",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/17238394/"
+  },
+  {
+    "authors": "Berry DL, Wolpin SE, Lober WB, Ellis WJ, Russell KJ, Davison BJ.",
+    "title": "Actual use and perceived usefulness of a web-based, decision support program for men with prostate cancer.",
+    "journal": "Stud Health Technol Inform",
+    "pubdate": "2006;",
+    "year": 2006,
+    "doi": "",
+    "pmid": "17102377",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/17102377/"
+  },
+  {
+    "authors": "Karras BT, Wolpin S, Lober WB, Bush N, Fann JR, Berry DL.",
+    "title": "Electronic Self-report Assessment--Cancer (ESRA-C): Working towards an integrated survey system.",
+    "journal": "Stud Health Technol Inform",
+    "pubdate": "2006;",
+    "year": 2006,
+    "doi": "",
+    "pmid": "17102311",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/17102311/"
+  },
+  {
+    "authors": "Van Eaton EG, Lober WB, Pellegrini CA, Horvath KD.",
+    "title": "User-driven design of a computerized rounding and sign-out application.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2005;",
+    "year": 2005,
+    "doi": "",
+    "pmid": "16779431",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/16779431/"
+  },
+  {
+    "authors": "Tran DT, Zhang X, Stolyar A, Lober WB.",
+    "title": "Patient-centered design for a personal health record system.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2005;",
+    "year": 2005,
+    "doi": "",
+    "pmid": "16779426",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/16779426/"
+  },
+  {
+    "authors": "Stolyar A, Lober WB, Drozd DR, Sibley J.",
+    "title": "Feasibility of data exchange with a Patient-centered Health Record.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2005;",
+    "year": 2005,
+    "doi": "",
+    "pmid": "16779410",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/16779410/"
+  },
+  {
+    "authors": "Rae LJ, Lober WB, Wolpin SE, Dockrey MR, Ellis WJ, Berry DL.",
+    "title": "Acceptability of an Internet treatment decision support program for men with prostate cancer.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2005;",
+    "year": 2005,
+    "doi": "",
+    "pmid": "16779378",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/16779378/"
+  },
+  {
+    "authors": "Lumley T, Sebestyen K, Lober WB, Painter I.",
+    "title": "An open source environment for the statistical evaluation of outbreak detection methods.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2005;",
+    "year": 2005,
+    "doi": "",
+    "pmid": "16779324",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/16779324/"
+  },
+  {
+    "authors": "Drozd DR, Lober WB, Kitahata MM, Smith KI, Van Rompaey SE.",
+    "title": "Developing a relational XML schema for sharing HIV clinical data.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2005;",
+    "year": 2005,
+    "doi": "",
+    "pmid": "16779230",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/16779230/"
+  },
+  {
+    "authors": "Dockrey MR, Lober WB, Wolpin SE, Rae LJ, Berry DL.",
+    "title": "Distributed health assessment and intervention research software framework.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2005;",
+    "year": 2005,
+    "doi": "",
+    "pmid": "16779227",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/16779227/"
+  },
+  {
+    "authors": "Van Eaton EG, Horvath KD, Lober WB, Rossini AJ, Pellegrini CA.",
+    "title": "A randomized, controlled trial evaluating the impact of a computerized rounding and sign-out system on continuity of care and resident work hours.",
+    "journal": "J Am Coll Surg",
+    "pubdate": "2005 Apr;",
+    "year": 2005,
+    "doi": "10.1016/j.jamcollsurg.2004.11.009",
+    "pmid": "15804467",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/15804467/"
+  },
+  {
+    "authors": "Lober WB, Baer A, Karras BT, Duchin JS.",
+    "title": "Collection and integration of clinical data for surveillance.",
+    "journal": "Stud Health Technol Inform",
+    "pubdate": "2004;",
+    "year": 2004,
+    "doi": "",
+    "pmid": "15361005",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/15361005/"
+  },
+  {
+    "authors": "Lober WB, Trigg L, Karras B.",
+    "title": "Information system architectures for syndromic surveillance.",
+    "journal": "MMWR Suppl",
+    "pubdate": "2004 Sep 24;",
+    "year": 2004,
+    "doi": "",
+    "pmid": "15717393",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/15717393/"
+  },
+  {
+    "authors": "Berry DL, Trigg LJ, Lober WB, Karras BT, Galligan ML, Austin-Seymour M, Martin S.",
+    "title": "Computerized symptom and quality-of-life assessment for patients with cancer part I: development and pilot testing.",
+    "journal": "Oncol Nurs Forum",
+    "pubdate": "2004 Sep;",
+    "year": 2004,
+    "doi": "10.1188/04.ONF.E75-E83",
+    "pmid": "15378104",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/15378104/"
+  },
+  {
+    "authors": "Van Eaton EG, Horvath KD, Lober WB, Pellegrini CA.",
+    "title": "Organizing the transfer of patient care information: the development of a computerized resident sign-out system.",
+    "journal": "Surgery",
+    "pubdate": "2004 Jul;",
+    "year": 2004,
+    "doi": "10.1016/j.surg.2004.04.018",
+    "pmid": "15232532",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/15232532/"
+  },
+  {
+    "authors": "Lober WB, Bliss D, Dockrey MR, Davidson AJ, Karras BT.",
+    "title": "Communicable disease case entry using PDAs and public wireless networks.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2003;",
+    "year": 2003,
+    "doi": "",
+    "pmid": "14728422",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/14728422/"
+  },
+  {
+    "authors": "Payne TH, Gaster B, Mineer D, Mazurk J, Dunnington N, Zehner J, Lober B, Van Eaton E, McCormick W.",
+    "title": "Creating a note classification scheme for a multi-institutional electronic medical record.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2003;",
+    "year": 2003,
+    "doi": "",
+    "pmid": "14728472",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/14728472/"
+  },
+  {
+    "authors": "Travers DA, Waller A, Haas SW, Lober WB, Beard C.",
+    "title": "Emergency Department data for bioterrorism surveillance: electronic data availability, timeliness, sources and standards.",
+    "journal": "AMIA Annu Symp Proc",
+    "pubdate": "2003;",
+    "year": 2003,
+    "doi": "",
+    "pmid": "14728256",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/14728256/"
+  },
+  {
+    "authors": "Mandl KD, Overhage JM, Wagner MM, Lober WB, Sebastiani P, Mostashari F, Pavlin JA, Gesteland PH, Treadwell T, Koski E, Hutwagner L, Buckeridge DL, Aller RD, Grannis S.",
+    "title": "Implementing syndromic surveillance: a practical guide informed by the early experience.",
+    "journal": "J Am Med Inform Assoc",
+    "pubdate": "2004 Mar-Apr;",
+    "year": 2004,
+    "doi": "10.1197/jamia.M1356",
+    "pmid": "14633933",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/14633933/"
+  },
+  {
+    "authors": "Lober WB, Trigg LJ, Karras BT, Bliss D, Ciliberti J, Stewart L, Duchin JS.",
+    "title": "Syndromic surveillance using automated collection of computerized discharge diagnoses.",
+    "journal": "J Urban Health",
+    "pubdate": "2003 Jun;",
+    "year": 2003,
+    "doi": "10.1007/pl00022320",
+    "pmid": "12791784",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/12791784/"
+  },
+  {
+    "authors": "Karras BT, Huq SH, Bliss D, Lober WB.",
+    "title": "National Pharmaceutical Stockpile drill analysis using XML data collection on wireless Java phones.",
+    "journal": "Proc AMIA Symp",
+    "pubdate": "2002;",
+    "year": 2002,
+    "doi": "",
+    "pmid": "12463848",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/12463848/"
+  },
+  {
+    "authors": "Karras BT, O'Carroll P, Oberle MW, Masuda D, Lober WB, Robins LS, Kim S, Schaad DC, Scott CS.",
+    "title": "Development and evaluation of public health informatics at University of Washington.",
+    "journal": "J Public Health Manag Pract",
+    "pubdate": "2002 May;",
+    "year": 2002,
+    "doi": "10.1097/00124784-200205000-00006",
+    "pmid": "15156623",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/15156623/"
+  },
+  {
+    "authors": "Lober WB, Karras BT, Wagner MM, Overhage JM, Davidson AJ, Fraser H, Trigg LJ, Mandl KD, Espino JU, Tsui FC.",
+    "title": "Roundtable on bioterrorism detection: information system-based surveillance.",
+    "journal": "J Am Med Inform Assoc",
+    "pubdate": "2002 Mar-Apr;",
+    "year": 2002,
+    "doi": "10.1197/jamia.m1052",
+    "pmid": "11861622",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/11861622/"
+  },
+  {
+    "authors": "Lober WB, Trigg LJ, Bliss D, Brinkley JM.",
+    "title": "IML: An image markup language.",
+    "journal": "Proc AMIA Symp",
+    "pubdate": "2001;",
+    "year": 2001,
+    "doi": "",
+    "pmid": "11825219",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/11825219/"
+  },
+  {
+    "authors": "Bey TA, Walter FG, Lober W, Schmidt J, Spark R, Schlievert PM.",
+    "title": "Loxosceles arizonica bite associated with shock.",
+    "journal": "Ann Emerg Med",
+    "pubdate": "1997 Nov;",
+    "year": 1997,
+    "doi": "10.1016/s0196-0644(97)70092-1",
+    "pmid": "9360587",
+    "url": "https://www.ncbi.nlm.nih.gov/pubmed/9360587/"
+  }
+]
