@@ -12,15 +12,18 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_PATH = BASE_DIR / "site" / "data.json"
+NETWORK_PATH = BASE_DIR / "site" / "coauthor_network.json"
 TEMPLATE_PATH = BASE_DIR / "site" / "template.html"
 OUT_PATH = BASE_DIR / "site" / "index.html"
 
 
 def main():
     data = json.loads(DATA_PATH.read_text())
+    network = json.loads(NETWORK_PATH.read_text())
     template = TEMPLATE_PATH.read_text()
 
     html = template.replace("__PUBLICATION_DATA__", json.dumps(data))
+    html = html.replace("__COAUTHOR_NETWORK_DATA__", json.dumps(network))
     html = html.replace("__GENERATED_DATE__", date.today().isoformat())
 
     OUT_PATH.write_text(html)

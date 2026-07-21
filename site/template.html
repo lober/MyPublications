@@ -557,6 +557,129 @@
     font-size: 0.9rem;
   }
 
+  /* ---------- Co-author network ---------- */
+  .network-section { margin-bottom: 3.25rem; }
+
+  .network-card {
+    background: var(--surface);
+    border: 1px solid var(--hairline);
+    border-radius: 10px;
+    padding: 1.4rem;
+  }
+
+  .network-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .network-search {
+    position: relative;
+    flex: 1 1 220px;
+  }
+  .network-search input {
+    width: 100%;
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    padding: 0.5em 0.85em;
+    border-radius: 8px;
+    border: 1px solid var(--hairline);
+    background: var(--surface-raised);
+    color: var(--ink);
+  }
+
+  .network-slider {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.8rem;
+    color: var(--ink-secondary);
+    flex: 1 1 220px;
+  }
+  .network-slider input[type="range"] {
+    flex: 1;
+    accent-color: var(--accent);
+  }
+  .network-slider .slider-value {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+    min-width: 1.5em;
+    text-align: right;
+  }
+
+  .network-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    font-size: 0.76rem;
+    color: var(--ink-muted);
+    align-items: center;
+  }
+  .network-legend .legend-item { display: inline-flex; align-items: center; gap: 0.4em; }
+  .network-legend .swatch { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+  .network-legend .swatch.ego { background: var(--draft-border); }
+  .network-legend .swatch.coauthor { background: var(--accent); }
+
+  .network-canvas-wrap {
+    position: relative;
+    border: 1px solid var(--hairline);
+    border-radius: 8px;
+    background: var(--page-bg);
+    overflow: hidden;
+    touch-action: none;
+  }
+  .network-canvas-wrap svg { display: block; width: 100%; height: 520px; cursor: grab; }
+  .network-canvas-wrap svg:active { cursor: grabbing; }
+
+  .network-node circle {
+    stroke: var(--surface);
+    stroke-width: 2px;
+    cursor: pointer;
+  }
+  .network-node text {
+    font-family: var(--font-body);
+    fill: var(--ink-secondary);
+    pointer-events: none;
+    paint-order: stroke;
+    stroke: var(--page-bg);
+    stroke-width: 3px;
+  }
+  .network-node.dimmed { opacity: 0.12; }
+  .network-node.highlighted text { fill: var(--ink); font-weight: 600; }
+
+  .network-link { stroke: var(--ink-muted); }
+  .network-link.dimmed { opacity: 0.05; }
+  .network-link.highlighted { stroke: var(--accent); opacity: 0.9 !important; }
+
+  .network-tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--surface-raised);
+    border: 1px solid var(--hairline);
+    border-radius: 6px;
+    padding: 0.5rem 0.7rem;
+    font-size: 0.8rem;
+    line-height: 1.45;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+    max-width: 240px;
+    opacity: 0;
+    transition: opacity 0.1s ease;
+    z-index: 5;
+  }
+  .network-tooltip.visible { opacity: 1; }
+  .network-tooltip .tt-name { font-weight: 600; color: var(--ink); }
+  .network-tooltip .tt-detail { color: var(--ink-muted); font-size: 0.74rem; margin-top: 0.15rem; }
+
+  .network-footnote {
+    font-size: 0.74rem;
+    color: var(--ink-muted);
+    margin-top: 0.75rem;
+    line-height: 1.5;
+  }
+
   footer.page-footer {
     margin-top: 3.5rem;
     padding-top: 1.5rem;
@@ -642,6 +765,31 @@
     </p>
   </section>
 
+  <section class="network-section">
+    <div class="section-heading">
+      <h2>Co-author network</h2>
+    </div>
+    <div class="network-card">
+      <div class="network-controls">
+        <div class="network-search">
+          <input type="text" id="network-search-input" placeholder="Find a co-author…" aria-label="Find a co-author" />
+        </div>
+        <label class="network-slider">
+          Minimum shared papers
+          <input type="range" id="network-min-weight" min="1" max="20" value="3" />
+          <span class="slider-value" id="network-min-weight-value">3</span>
+        </label>
+        <div class="network-legend">
+          <span class="legend-item"><span class="swatch ego"></span> William Lober</span>
+          <span class="legend-item"><span class="swatch coauthor"></span> Co-author</span>
+          <span class="legend-item">Node size = papers together · Line weight = papers together</span>
+        </div>
+      </div>
+      <div class="network-canvas-wrap" id="network-canvas-wrap"></div>
+      <p class="network-footnote" id="network-footnote"></p>
+    </div>
+  </section>
+
   <section class="publications-section">
     <div class="section-heading">
       <h2>Publications</h2>
@@ -677,6 +825,7 @@
 
 <script>
 const DATA = __PUBLICATION_DATA__;
+const NETWORK_DATA = __COAUTHOR_NETWORK_DATA__;
 </script>
 <script>
 (function () {
@@ -1009,5 +1158,328 @@ const DATA = __PUBLICATION_DATA__;
   }
 
   render();
+})();
+</script>
+<script>
+(function () {
+  "use strict";
+
+  const rawNodes = NETWORK_DATA.nodes;
+  const rawLinks = NETWORK_DATA.links;
+
+  const width = 900, height = 520;
+  const wrap = document.getElementById("network-canvas-wrap");
+
+  const nodeById = {};
+  const nodes = rawNodes.map((n, i) => {
+    const angle = (i / rawNodes.length) * Math.PI * 2;
+    const r = n.is_ego ? 0 : 90 + Math.random() * 40;
+    const node = {
+      id: n.id,
+      name: n.name,
+      paperCount: n.paper_count,
+      isEgo: n.is_ego,
+      x: width / 2 + Math.cos(angle) * r,
+      y: height / 2 + Math.sin(angle) * r,
+      vx: 0, vy: 0,
+      fx: null, fy: null,
+    };
+    nodeById[n.id] = node;
+    return node;
+  });
+
+  const allLinks = rawLinks.map(l => ({
+    source: nodeById[l.source],
+    target: nodeById[l.target],
+    weight: l.weight,
+  })).filter(l => l.source && l.target);
+
+  const maxWeight = Math.max(...allLinks.map(l => l.weight));
+  const maxPapers = Math.max(...nodes.map(n => n.paperCount));
+
+  function radiusFor(n) {
+    if (n.isEgo) return 16;
+    return 5 + 11 * Math.sqrt(n.paperCount / maxPapers);
+  }
+
+  // ---------- SVG scaffold ----------
+  const svgNS = "http://www.w3.org/2000/svg";
+  const svg = document.createElementNS(svgNS, "svg");
+  svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
+  svg.setAttribute("role", "img");
+  svg.setAttribute("aria-label", "Co-author network diagram centered on William Lober");
+  wrap.appendChild(svg);
+
+  const viewport = document.createElementNS(svgNS, "g");
+  svg.appendChild(viewport);
+
+  const linkLayer = document.createElementNS(svgNS, "g");
+  const nodeLayer = document.createElementNS(svgNS, "g");
+  viewport.appendChild(linkLayer);
+  viewport.appendChild(nodeLayer);
+
+  const tooltip = document.createElement("div");
+  tooltip.className = "network-tooltip";
+  wrap.appendChild(tooltip);
+
+  // ---------- Build link + node elements ----------
+  let minWeight = 3;
+
+  const linkEls = allLinks.map(l => {
+    const el = document.createElementNS(svgNS, "line");
+    el.setAttribute("class", "network-link");
+    el.setAttribute("stroke-width", Math.max(0.6, 3 * (l.weight / maxWeight)));
+    linkLayer.appendChild(el);
+    return { data: l, el };
+  });
+
+  const nodeEls = nodes.map(n => {
+    const g = document.createElementNS(svgNS, "g");
+    g.setAttribute("class", "network-node");
+
+    const circle = document.createElementNS(svgNS, "circle");
+    circle.setAttribute("r", radiusFor(n));
+    circle.setAttribute("fill", n.isEgo ? "var(--draft-border)" : "var(--accent)");
+    g.appendChild(circle);
+
+    const label = document.createElementNS(svgNS, "text");
+    label.setAttribute("font-size", n.isEgo ? 12 : 9);
+    label.setAttribute("dy", -(radiusFor(n) + 4));
+    label.setAttribute("text-anchor", "middle");
+    label.textContent = n.isEgo || n.paperCount >= 15 ? shortName(n.name) : "";
+    g.appendChild(label);
+
+    nodeLayer.appendChild(g);
+    return { data: n, g, circle, label };
+  });
+
+  function shortName(name) {
+    return name.length > 22 ? name.slice(0, 20) + "…" : name;
+  }
+
+  // ---------- Force simulation ----------
+  let alpha = 1;
+  const alphaDecay = 0.02;
+  const alphaMin = 0.015;
+  const centerX = width / 2, centerY = height / 2;
+
+  function tick() {
+    // Repulsion (all pairs -- node count is small, so O(n^2) is fine)
+    for (let i = 0; i < nodes.length; i++) {
+      for (let j = i + 1; j < nodes.length; j++) {
+        const a = nodes[i], b = nodes[j];
+        let dx = a.x - b.x, dy = a.y - b.y;
+        let distSq = dx * dx + dy * dy || 0.01;
+        const minDist = radiusFor(a) + radiusFor(b) + 12;
+        if (distSq < minDist * minDist) distSq = minDist * minDist * 0.9;
+        const dist = Math.sqrt(distSq);
+        const force = (2200 / distSq) * alpha;
+        const fx = (dx / dist) * force, fy = (dy / dist) * force;
+        a.vx += fx; a.vy += fy;
+        b.vx -= fx; b.vy -= fy;
+      }
+    }
+
+    // Spring attraction along links
+    allLinks.forEach(l => {
+      if (l.weight < minWeight && !l.source.isEgo && !l.target.isEgo) return;
+      const dx = l.target.x - l.source.x, dy = l.target.y - l.source.y;
+      const dist = Math.sqrt(dx * dx + dy * dy) || 0.01;
+      const restLength = Math.max(50, 150 - l.weight * 2.5);
+      const force = (dist - restLength) * 0.02 * alpha;
+      const fx = (dx / dist) * force, fy = (dy / dist) * force;
+      l.source.vx += fx; l.source.vy += fy;
+      l.target.vx -= fx; l.target.vy -= fy;
+    });
+
+    // Centering
+    nodes.forEach(n => {
+      n.vx += (centerX - n.x) * 0.018 * alpha;
+      n.vy += (centerY - n.y) * 0.018 * alpha;
+    });
+
+    // Integrate
+    nodes.forEach(n => {
+      if (n.fx != null) { n.x = n.fx; n.y = n.fy; n.vx = 0; n.vy = 0; return; }
+      n.vx *= 0.82; n.vy *= 0.82;
+      n.x += n.vx; n.y += n.vy;
+      const r = radiusFor(n);
+      n.x = Math.max(r, Math.min(width - r, n.x));
+      n.y = Math.max(r, Math.min(height - r, n.y));
+    });
+
+    alpha = Math.max(alphaMin, alpha * (1 - alphaDecay));
+  }
+
+  function render() {
+    linkEls.forEach(({ data, el }) => {
+      const active = data.weight >= minWeight || data.source.isEgo || data.target.isEgo;
+      el.style.display = active ? "" : "none";
+      el.setAttribute("x1", data.source.x);
+      el.setAttribute("y1", data.source.y);
+      el.setAttribute("x2", data.target.x);
+      el.setAttribute("y2", data.target.y);
+    });
+    nodeEls.forEach(({ data, g }) => {
+      g.setAttribute("transform", `translate(${data.x},${data.y})`);
+    });
+  }
+
+  // Pre-settle synchronously so the graph paints already-organized, not scattered.
+  for (let i = 0; i < 200; i++) tick();
+  render();
+
+  let animHandle = null;
+  function animate() {
+    tick();
+    render();
+    if (alpha > alphaMin + 0.001) {
+      animHandle = requestAnimationFrame(animate);
+    } else {
+      animHandle = null;
+    }
+  }
+  animate();
+
+  function reheat(amount) {
+    alpha = Math.max(alpha, amount);
+    if (!animHandle) animHandle = requestAnimationFrame(animate);
+  }
+
+  // ---------- Highlighting ----------
+  const neighborsOf = new Map();
+  nodes.forEach(n => neighborsOf.set(n.id, new Set()));
+  allLinks.forEach(l => {
+    neighborsOf.get(l.source.id).add(l.target.id);
+    neighborsOf.get(l.target.id).add(l.source.id);
+  });
+
+  function highlight(nodeId) {
+    if (!nodeId) {
+      nodeEls.forEach(({ g }) => g.classList.remove("dimmed", "highlighted"));
+      linkEls.forEach(({ el }) => el.classList.remove("dimmed", "highlighted"));
+      return;
+    }
+    const neighbors = neighborsOf.get(nodeId) || new Set();
+    nodeEls.forEach(({ data, g }) => {
+      const isRelated = data.id === nodeId || neighbors.has(data.id);
+      g.classList.toggle("dimmed", !isRelated);
+      g.classList.toggle("highlighted", data.id === nodeId);
+    });
+    linkEls.forEach(({ data, el }) => {
+      const involved = data.source.id === nodeId || data.target.id === nodeId;
+      el.classList.toggle("dimmed", !involved);
+      el.classList.toggle("highlighted", involved);
+    });
+  }
+
+  function showTooltip(n, clientEvent) {
+    const rect = wrap.getBoundingClientRect();
+    const label = n.isEgo
+      ? `${n.paperCount} publications in this dataset`
+      : `${n.paperCount} shared paper${n.paperCount === 1 ? "" : "s"} with William Lober`;
+    tooltip.innerHTML = `<div class="tt-name">${n.name}</div><div class="tt-detail">${label}</div>`;
+    const x = clientEvent.clientX - rect.left;
+    const y = clientEvent.clientY - rect.top;
+    tooltip.style.left = (x + 14) + "px";
+    tooltip.style.top = (y + 10) + "px";
+    tooltip.classList.add("visible");
+  }
+  function hideTooltip() { tooltip.classList.remove("visible"); }
+
+  // ---------- Drag + hover ----------
+  let viewScale = 1, viewX = 0, viewY = 0;
+  function applyView() {
+    viewport.setAttribute("transform", `translate(${viewX},${viewY}) scale(${viewScale})`);
+  }
+
+  function svgPoint(clientX, clientY) {
+    const rect = svg.getBoundingClientRect();
+    const px = (clientX - rect.left) / rect.width * width;
+    const py = (clientY - rect.top) / rect.height * height;
+    return { x: (px - viewX) / viewScale, y: (py - viewY) / viewScale };
+  }
+
+  nodeEls.forEach(({ data, g, circle }) => {
+    let dragging = false;
+
+    circle.addEventListener("pointerdown", (e) => {
+      dragging = true;
+      circle.setPointerCapture(e.pointerId);
+      reheat(0.5);
+      e.stopPropagation();
+    });
+    circle.addEventListener("pointermove", (e) => {
+      if (!dragging) return;
+      const p = svgPoint(e.clientX, e.clientY);
+      data.fx = p.x; data.fy = p.y;
+      reheat(0.35);
+    });
+    function endDrag(e) {
+      if (!dragging) return;
+      dragging = false;
+      data.fx = null; data.fy = null;
+    }
+    circle.addEventListener("pointerup", endDrag);
+    circle.addEventListener("pointerleave", (e) => { if (!dragging) return; });
+
+    circle.addEventListener("mouseenter", (e) => {
+      highlight(data.id);
+      showTooltip(data, e);
+    });
+    circle.addEventListener("mousemove", (e) => showTooltip(data, e));
+    circle.addEventListener("mouseleave", () => { if (!dragging) { highlight(null); hideTooltip(); } });
+  });
+
+  // ---------- Pan + zoom on background ----------
+  let panning = false, panStart = null;
+  svg.addEventListener("pointerdown", (e) => {
+    if (e.target !== svg) return;
+    panning = true;
+    panStart = { x: e.clientX - viewX, y: e.clientY - viewY };
+  });
+  svg.addEventListener("pointermove", (e) => {
+    if (!panning) return;
+    viewX = e.clientX - panStart.x;
+    viewY = e.clientY - panStart.y;
+    applyView();
+  });
+  window.addEventListener("pointerup", () => { panning = false; });
+
+  svg.addEventListener("wheel", (e) => {
+    e.preventDefault();
+    const factor = e.deltaY < 0 ? 1.08 : 0.93;
+    const rect = svg.getBoundingClientRect();
+    const cx = (e.clientX - rect.left) / rect.width * width;
+    const cy = (e.clientY - rect.top) / rect.height * height;
+    viewX = cx - (cx - viewX) * factor;
+    viewY = cy - (cy - viewY) * factor;
+    viewScale = Math.max(0.4, Math.min(3, viewScale * factor));
+    applyView();
+  }, { passive: false });
+
+  // ---------- Min-weight slider ----------
+  const slider = document.getElementById("network-min-weight");
+  const sliderValue = document.getElementById("network-min-weight-value");
+  slider.addEventListener("input", () => {
+    minWeight = +slider.value;
+    sliderValue.textContent = minWeight;
+    reheat(0.4);
+    render();
+  });
+
+  // ---------- Search ----------
+  const netSearchInput = document.getElementById("network-search-input");
+  netSearchInput.addEventListener("input", () => {
+    const q = netSearchInput.value.trim().toLowerCase();
+    if (!q) { highlight(null); return; }
+    const match = nodes.find(n => n.name.toLowerCase().includes(q));
+    highlight(match ? match.id : "__none__");
+  });
+
+  document.getElementById("network-footnote").textContent =
+    `Showing William Lober plus ${nodes.length - 1} of his ${NETWORK_DATA.total_unique_coauthors} ` +
+    `distinct co-authors in this dataset (those with at least ${NETWORK_DATA.min_papers} shared papers). ` +
+    `Use the slider to hide weaker collaboration links, drag nodes to rearrange, and scroll to zoom.`;
 })();
 </script>

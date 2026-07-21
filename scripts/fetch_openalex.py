@@ -65,6 +65,10 @@ def simplify(work: dict) -> dict:
         doi = doi.replace("https://doi.org/", "")
 
     authors = [a["author"]["display_name"] for a in work.get("authorships", []) if a.get("author")]
+    authorships = [
+        {"id": a["author"].get("id"), "name": a["author"].get("display_name")}
+        for a in work.get("authorships", []) if a.get("author")
+    ]
 
     return {
         "id": work.get("id"),
@@ -72,6 +76,7 @@ def simplify(work: dict) -> dict:
         "doi": doi,
         "title": work.get("display_name"),
         "authors": authors,
+        "authorships": authorships,
         "venue": source.get("display_name"),
         "year": work.get("publication_year"),
         "type": work.get("type"),
