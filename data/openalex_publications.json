@@ -1,0 +1,3225 @@
+[
+  {
+    "id": "https://openalex.org/W7155047535",
+    "title": "Venous Thromboembolism Among People With HIV: Design, Implementation, and Findings of a Centralized Adjudication System in Clinical Care Sites Across the United States",
+    "venue": "UNC Libraries",
+    "year": 2026,
+    "type": "article",
+    "link": "https://doi.org/10.17615/faed-vp74",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4410038830",
+    "title": "Sharing patient technology preferences with care networks: Stakeholders\u2019 views of the \u201cLet\u2019s Talk Tech\u201d decision aid for dementia care",
+    "venue": "Journal of Alzheimer s Disease",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.1177/13872877251332659",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2026": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W4409171387",
+    "title": "Performance of Predefined Search Patterns for Identifying Documented Goals-of-Care Discussions in Inpatient Electronic Health Records",
+    "venue": "Journal of Palliative Medicine",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.1089/jpm.2024.0496",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W4409527187",
+    "title": "Approaches to Optimally Target Frailty Screening Among People With HIV in Clinical Care: Findings From the Centers for AIDS Research Network of Integrated Clinical Systems (CNICS)",
+    "venue": "JAIDS Journal of Acquired Immune Deficiency Syndromes",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.1097/qai.0000000000003688",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4414866736",
+    "title": "Assessment of a Zero-Shot Large Language Model in Measuring Documented Goals-of-Care Discussions",
+    "venue": "Journal of Pain and Symptom Management",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpainsymman.2025.09.025",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2026": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4410719061",
+    "title": "Assessment of a zero-shot large language model in measuring documented goals-of-care discussions",
+    "venue": "medRxiv",
+    "year": 2025,
+    "type": "preprint",
+    "link": "https://doi.org/10.1101/2025.05.23.25328115",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2026": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W4409782362",
+    "title": "Participant Preparedness for Lung Transplant Discussions, Self-Efficacy, and Social Support: Baseline Data from LTx READY CF 2",
+    "venue": "The Journal of Heart and Lung Transplantation",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.healun.2025.02.393",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4410561177",
+    "title": "Transforming a Pandemic Tool into a Public Health Asset: A Modified Delphi Study on Exposure Notification (Preprint)",
+    "venue": null,
+    "year": 2025,
+    "type": "preprint",
+    "link": "https://doi.org/10.2196/preprints.77763",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4411045564",
+    "title": "Incidence of AIDS-Defining Conditions Among Adults With Perinatally Acquired HIV After Transition to Adult HIV Care in the United States and Canada, 2000\u20132022",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/ciaf300",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4411615938",
+    "title": "A modular pipeline for natural language processing-screened human abstraction of a pragmatic trial outcome from electronic health records",
+    "venue": "medRxiv",
+    "year": 2025,
+    "type": "preprint",
+    "link": "https://doi.org/10.1101/2025.06.23.25330134",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4414566257",
+    "title": "Tobacco smoking and binge alcohol use are associated with incident venous thromboembolism in an HIV cohort",
+    "venue": "UNC Libraries",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.17615/ne64-2b05",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4415036335",
+    "title": "Tobacco Smoking and Pack-Years Are Associated With Frailty Among People With HIV",
+    "venue": "UNC Libraries",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.17615/99zf-6113",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4415310442",
+    "title": "Development of Frail RISC-HIV: a Risk Score for Predicting Frailty Risk in the Short-term for Care of People with HIV",
+    "venue": "UNC Libraries",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.17615/w58s-xr07",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W7118080745",
+    "title": "Sharing Patient Technology Preferences With Dementia Care Networks: The Let\u2019s Talk Tech Decision Aid",
+    "venue": "Innovation in Aging",
+    "year": 2025,
+    "type": "article",
+    "link": "https://doi.org/10.1093/geroni/igaf122.1768",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4401590308",
+    "title": "Evaluation of the effectiveness of Washington State\u2019s digital COVID-19 exposure notification system over one pandemic year",
+    "venue": "Frontiers in Public Health",
+    "year": 2024,
+    "type": "article",
+    "link": "https://doi.org/10.3389/fpubh.2024.1408178",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2026": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4391320075",
+    "title": "Use of Digital COVID-19 Exposure Notifications at a Large Gathering: Survey Analysis of Public Health Conference Attendees",
+    "venue": "JMIR Formative Research",
+    "year": 2024,
+    "type": "article",
+    "link": "https://doi.org/10.2196/50716",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4377194724",
+    "title": "Intervention to Promote Communication About Goals of Care for Hospitalized Patients With Serious Illness",
+    "venue": "JAMA",
+    "year": 2023,
+    "type": "article",
+    "link": "https://doi.org/10.1001/jama.2023.8812",
+    "cited_by_count": 89,
+    "counts_by_year": {
+      "2026": 12,
+      "2025": 36,
+      "2024": 28,
+      "2023": 13
+    }
+  },
+  {
+    "id": "https://openalex.org/W4322757661",
+    "title": "Assessment of Natural Language Processing of Electronic Health Records to Measure Goals-of-Care Discussions as a Clinical Trial Outcome",
+    "venue": "JAMA Network Open",
+    "year": 2023,
+    "type": "article",
+    "link": "https://doi.org/10.1001/jamanetworkopen.2023.1204",
+    "cited_by_count": 75,
+    "counts_by_year": {
+      "2026": 13,
+      "2025": 28,
+      "2024": 32,
+      "2023": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W4323044994",
+    "title": "Preliminary Efficacy of Let\u2019s Talk Tech: Technology Use Planning for Dementia Care Dyads",
+    "venue": "Innovation in Aging",
+    "year": 2023,
+    "type": "article",
+    "link": "https://doi.org/10.1093/geroni/igad018",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 3,
+      "2024": 2,
+      "2023": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4317358856",
+    "title": "Validity Properties of a Self-reported Modified Frailty Phenotype Among People With HIV in Clinical Care in the United States",
+    "venue": "Journal of the Association of Nurses in AIDS Care",
+    "year": 2023,
+    "type": "article",
+    "link": "https://doi.org/10.1097/jnc.0000000000000389",
+    "cited_by_count": 11,
+    "counts_by_year": {
+      "2025": 4,
+      "2024": 3,
+      "2023": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W4388868483",
+    "title": "Venous Thromboembolism Among People With HIV: Design, Implementation, and Findings of a Centralized Adjudication System in Clinical Care Sites Across the United States",
+    "venue": "JAIDS Journal of Acquired Immune Deficiency Syndromes",
+    "year": 2023,
+    "type": "article",
+    "link": "https://doi.org/10.1097/qai.0000000000003339",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3,
+      "2024": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W4382203134",
+    "title": "Tobacco Smoking and Pack-Years Are Associated With Frailty Among People With HIV",
+    "venue": "JAIDS Journal of Acquired Immune Deficiency Syndromes",
+    "year": 2023,
+    "type": "article",
+    "link": "https://doi.org/10.1097/qai.0000000000003242",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2025": 5,
+      "2024": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4322719683",
+    "title": "Associations between alcohol and cigarette use and type 1 and 2 myocardial infarction among people with <scp>HIV</scp>",
+    "venue": "HIV Medicine",
+    "year": 2023,
+    "type": "article",
+    "link": "https://doi.org/10.1111/hiv.13466",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2024": 3,
+      "2023": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4318755503",
+    "title": "Development of Frail RISC-HIV: a Risk Score for Predicting Frailty Risk in the Short-term for Care of People with HIV",
+    "venue": "AIDS",
+    "year": 2023,
+    "type": "article",
+    "link": "https://doi.org/10.1097/qad.0000000000003501",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4367608346",
+    "title": "Predictors of Documented Goals-of-Care Discussions for Hospitalized Patients With Chronic Illness",
+    "venue": null,
+    "year": 2023,
+    "type": "conference-abstract",
+    "link": "https://doi.org/10.1164/ajrccm-conference.2023.207.1_meetingabstracts.a2816",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2025": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4367600145",
+    "title": "A Pragmatic Randomized Trial of the Jumpstart Intervention to Promote Communication About Goals of Care for Hospitalized Patients With Serious Illness",
+    "venue": null,
+    "year": 2023,
+    "type": "conference-abstract",
+    "link": "https://doi.org/10.1164/ajrccm-conference.2023.207.1_meetingabstracts.a2836",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4367609349",
+    "title": "Timing and Predictors of Documented Goals-of-Care Discussions for Patients With Acute Respiratory Failure Requiring Mechanical Ventilation",
+    "venue": null,
+    "year": 2023,
+    "type": "conference-abstract",
+    "link": "https://doi.org/10.1164/ajrccm-conference.2023.207.1_meetingabstracts.a2817",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4392911960",
+    "title": "Use of Digital COVID-19 Exposure Notifications at a Large Gathering: Survey Analysis of Public Health Conference Attendees (Preprint)",
+    "venue": null,
+    "year": 2023,
+    "type": "preprint",
+    "link": "https://doi.org/10.2196/preprints.50716",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4309726409",
+    "title": "Predictors of Documented Goals-of-Care Discussion for Hospitalized Patients With Chronic Illness",
+    "venue": "Journal of Pain and Symptom Management",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpainsymman.2022.11.012",
+    "cited_by_count": 41,
+    "counts_by_year": {
+      "2026": 10,
+      "2025": 15,
+      "2024": 10,
+      "2023": 6
+    }
+  },
+  {
+    "id": "https://openalex.org/W4206931751",
+    "title": "Utility and Impact of the Implementation of Same-Day, Self-administered Electronic Patient-Reported Outcomes Assessments in Routine HIV Care in two North American Clinics",
+    "venue": "AIDS and Behavior",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.1007/s10461-022-03585-w",
+    "cited_by_count": 25,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 5,
+      "2024": 6,
+      "2023": 11,
+      "2022": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W4212982930",
+    "title": "Mixed-methods evaluation of three natural language processing modeling approaches for measuring documented goals-of-care discussions in the electronic health record",
+    "venue": "Journal of Pain and Symptom Management",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpainsymman.2022.02.006",
+    "cited_by_count": 21,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 9,
+      "2024": 3,
+      "2023": 3,
+      "2022": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W4296786893",
+    "title": "Changes in on-time vaccination following the introduction of an electronic immunization registry, Tanzania 2016-2018: interrupted time-series analysis",
+    "venue": "BMC Health Services Research",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.1186/s12913-022-08504-2",
+    "cited_by_count": 18,
+    "counts_by_year": {
+      "2026": 4,
+      "2025": 6,
+      "2024": 6,
+      "2023": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W4294591908",
+    "title": "Risk Factors for Suboptimal Adherence Identified by Patient-Reported Outcomes Assessments in Routine HIV Care at 2 North American Clinics",
+    "venue": "Patient Preference and Adherence",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.2147/ppa.s378335",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 7,
+      "2023": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4312346678",
+    "title": "Integration of a Digital Health Intervention Into Immunization Clinic Workflows in Kenya: Qualitative, Realist Evaluation of Technology Usability",
+    "venue": "JMIR Formative Research",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.2196/39775",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 3,
+      "2024": 1,
+      "2023": 2,
+      "2022": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4312669680",
+    "title": "Time Utilization Among Immunization Clinics Using an Electronic Immunization Registry (Part 2): Time and Motion Study of Modified User Workflows",
+    "venue": "JMIR Formative Research",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.2196/39777",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3,
+      "2024": 3,
+      "2023": 1,
+      "2022": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4297965375",
+    "title": "Take on transplant: human-centered design of a patient education tool to facilitate informed discussions about lung transplant among people with cystic fibrosis",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.1093/jamia/ocac176",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 3,
+      "2024": 5
+    }
+  },
+  {
+    "id": "https://openalex.org/W4303446524",
+    "title": "Trading-off privacy and utility: the Washington State experience assessing the performance of a public health digital exposure notification system for coronavirus disease 2019",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.1093/jamia/ocac178",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 3,
+      "2024": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W4220654660",
+    "title": "Tobacco smoking and binge alcohol use are associated with incident venous thromboembolism in an HIV cohort",
+    "venue": "HIV Medicine",
+    "year": 2022,
+    "type": "article",
+    "link": "https://doi.org/10.1111/hiv.13309",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2025": 2,
+      "2022": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4281682804",
+    "title": "Time Utilization Among Immunization Clinics Using an Electronic Immunization Registry (Part 2): Time and Motion Study of Modified User Workflows (Preprint)",
+    "venue": null,
+    "year": 2022,
+    "type": "preprint",
+    "link": "https://doi.org/10.2196/preprints.39777",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2022": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W4281651291",
+    "title": "Integration of a Digital Health Intervention Into Immunization Clinic Workflows in Kenya: Qualitative, Realist Evaluation of Technology Usability (Preprint)",
+    "venue": null,
+    "year": 2022,
+    "type": "preprint",
+    "link": "https://doi.org/10.2196/preprints.39775",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W3121156648",
+    "title": "Drug and alcohol use among people living with HIV in care in the United States by geographic region",
+    "venue": "AIDS Care",
+    "year": 2021,
+    "type": "article",
+    "link": "https://doi.org/10.1080/09540121.2021.1874274",
+    "cited_by_count": 31,
+    "counts_by_year": {
+      "2026": 5,
+      "2025": 7,
+      "2024": 8,
+      "2023": 2,
+      "2022": 5,
+      "2021": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W3202513722",
+    "title": "Discrimination and Calibration of the Veterans Aging Cohort Study Index 2.0 for Predicting Mortality Among People With Human Immunodeficiency Virus in North America",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2021,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/ciab883",
+    "cited_by_count": 28,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 8,
+      "2024": 12,
+      "2023": 3,
+      "2022": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W3133940665",
+    "title": "A learning health systems approach to integrating electronic <scp>patient\u2010reported</scp> outcomes across the health care organization",
+    "venue": "Learning Health Systems",
+    "year": 2021,
+    "type": "article",
+    "link": "https://doi.org/10.1002/lrh2.10263",
+    "cited_by_count": 27,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3,
+      "2024": 14,
+      "2023": 3,
+      "2022": 4,
+      "2021": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3186740875",
+    "title": "Feasibility of implementing a same-day electronic screening tool for clinical assessment to measure patient-reported outcomes for eliciting actionable information on adherence to HIV medication and related factors in a busy Canadian urban HIV clinic",
+    "venue": "International Journal of STD & AIDS",
+    "year": 2021,
+    "type": "article",
+    "link": "https://doi.org/10.1177/09564624211032796",
+    "cited_by_count": 14,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3,
+      "2024": 3,
+      "2023": 2,
+      "2022": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W3134633091",
+    "title": "Types of Stroke Among People Living With HIV in the United States",
+    "venue": "JAIDS Journal of Acquired Immune Deficiency Syndromes",
+    "year": 2021,
+    "type": "article",
+    "link": "https://doi.org/10.1097/qai.0000000000002598",
+    "cited_by_count": 15,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 2,
+      "2024": 4,
+      "2023": 3,
+      "2022": 2,
+      "2021": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W3204113096",
+    "title": "Blueprint for aligned data exchange for research and public health",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": 2021,
+    "type": "article",
+    "link": "https://doi.org/10.1093/jamia/ocab210",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 1,
+      "2024": 2,
+      "2023": 6,
+      "2022": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W3150458942",
+    "title": "StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool",
+    "venue": "Online Journal of Public Health Informatics",
+    "year": 2021,
+    "type": "article",
+    "link": "https://doi.org/10.5210/ojphi.v13i1.11462",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 1,
+      "2024": 3,
+      "2023": 4,
+      "2022": 2,
+      "2021": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3166559093",
+    "title": "WA Notify: the planning and implementation of a Bluetooth exposure notification tool for COVID-19 pandemic response in Washington State",
+    "venue": "Online Journal of Public Health Informatics",
+    "year": 2021,
+    "type": "article",
+    "link": "https://doi.org/10.5210/ojphi.v13i1.11694",
+    "cited_by_count": 11,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 4,
+      "2023": 1,
+      "2022": 4,
+      "2021": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3006061322",
+    "title": "Association of Physician Orders for Life-Sustaining Treatment With ICU Admission Among Patients Hospitalized Near the End of Life",
+    "venue": "JAMA",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.1001/jama.2019.22523",
+    "cited_by_count": 121,
+    "counts_by_year": {
+      "2026": 4,
+      "2025": 10,
+      "2024": 21,
+      "2023": 17,
+      "2022": 16,
+      "2021": 32,
+      "2020": 21
+    }
+  },
+  {
+    "id": "https://openalex.org/W3036406130",
+    "title": "How patient-generated health data and patient-reported outcomes affect patient\u2013clinician relationships: A systematic review",
+    "venue": "Health Informatics Journal",
+    "year": 2020,
+    "type": "review",
+    "link": "https://doi.org/10.1177/1460458220928184",
+    "cited_by_count": 96,
+    "counts_by_year": {
+      "2026": 7,
+      "2025": 20,
+      "2024": 16,
+      "2023": 25,
+      "2022": 15,
+      "2021": 12,
+      "2020": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3081151838",
+    "title": "Identifying Goals of Care Conversations in the Electronic Health Record Using Natural Language Processing and Machine Learning",
+    "venue": "Journal of Pain and Symptom Management",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpainsymman.2020.08.024",
+    "cited_by_count": 81,
+    "counts_by_year": {
+      "2026": 10,
+      "2025": 21,
+      "2024": 18,
+      "2023": 11,
+      "2022": 11,
+      "2021": 8,
+      "2020": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W3094555698",
+    "title": "Hospitalization Rates and Causes Among Persons With HIV in the United States and Canada, 2005\u20132015",
+    "venue": "The Journal of Infectious Diseases",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.1093/infdis/jiaa661",
+    "cited_by_count": 35,
+    "counts_by_year": {
+      "2026": 6,
+      "2025": 9,
+      "2024": 8,
+      "2023": 4,
+      "2022": 5,
+      "2021": 2,
+      "2020": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3103414719",
+    "title": "Patient acceptability and usability of a self-administered electronic patient-reported outcome assessment in HIV care: relationship with health behaviors and outcomes",
+    "venue": "AIDS Care",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.1080/09540121.2020.1845288",
+    "cited_by_count": 20,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 2,
+      "2024": 8,
+      "2023": 3,
+      "2022": 4,
+      "2021": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3093584534",
+    "title": "The Association of Advance Care Planning Documentation and End-of-Life Healthcare Use Among Patients With Multimorbidity",
+    "venue": "American Journal of Hospice and Palliative Medicine\u00ae",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.1177/1049909120968527",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 3,
+      "2024": 5,
+      "2023": 3,
+      "2022": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3035394028",
+    "title": "Capturing Relevant Patient Data in Clinical Encounters Through Integration of an Electronic Patient-Reported Outcome System Into Routine Primary Care in a Boston Community Health Center: Development and Implementation Study",
+    "venue": "Journal of Medical Internet Research",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.2196/16778",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2026": 1,
+      "2023": 4,
+      "2022": 1,
+      "2021": 1,
+      "2020": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3113544144",
+    "title": "Current and Past Immunodeficiency Are Associated With Higher Hospitalization Rates Among Persons on Virologically Suppressive Antiretroviral Therapy for up to 11 Years",
+    "venue": "The Journal of Infectious Diseases",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.1093/infdis/jiaa786",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2026": 2,
+      "2023": 1,
+      "2022": 1,
+      "2021": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W3113470921",
+    "title": "CD4 Count at Entry into Care and at Antiretroviral Therapy Prescription among Adults with Human Immunodeficiency Virus in the United States, 2005-2018",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/ciaa1904",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 2,
+      "2024": 1,
+      "2023": 3,
+      "2021": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W3096985214",
+    "title": "Controlling for Confounding Variables: Accounting for Dataset Bias in Classifying Patient-Provider Interactions",
+    "venue": "Studies in computational intelligence",
+    "year": 2020,
+    "type": "book-chapter",
+    "link": "https://doi.org/10.1007/978-3-030-53352-6_25",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2025": 1,
+      "2022": 1,
+      "2020": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W4300124835",
+    "title": "Types of Myocardial Infarction Among Human Immunodeficiency Virus\u2013Infected Individuals in the United States",
+    "venue": "UNC Libraries",
+    "year": 2020,
+    "type": "article",
+    "link": "https://doi.org/10.17615/gz50-8787",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2915081447",
+    "title": "Association of immunosuppression and HIV viraemia with non-Hodgkin lymphoma risk overall and by subtype in people living with HIV in Canada and the USA: a multicentre cohort study",
+    "venue": "The Lancet HIV",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1016/s2352-3018(18)30360-6",
+    "cited_by_count": 65,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 10,
+      "2024": 5,
+      "2023": 7,
+      "2022": 13,
+      "2021": 16,
+      "2020": 9,
+      "2019": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W2975529192",
+    "title": "Association of Immunosuppression and Human Immunodeficiency Virus (HIV) Viremia With Anal Cancer Risk in Persons Living With HIV in the United States and Canada",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/ciz329",
+    "cited_by_count": 40,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 4,
+      "2024": 8,
+      "2023": 8,
+      "2022": 6,
+      "2021": 6,
+      "2020": 6,
+      "2019": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2966741099",
+    "title": "Mortality following myocardial infarction among HIV-infected persons: the Center for AIDS Research Network Of Integrated Clinical Systems (CNICS)",
+    "venue": "BMC Medicine",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1186/s12916-019-1385-7",
+    "cited_by_count": 33,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 7,
+      "2024": 4,
+      "2023": 4,
+      "2022": 6,
+      "2021": 5,
+      "2020": 6
+    }
+  },
+  {
+    "id": "https://openalex.org/W2969803373",
+    "title": "Engaging Patients in Co-Design of Mobile Health Tools for Surgical Site Infection Surveillance: Implications for Research and Implementation",
+    "venue": "Surgical Infections",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/sur.2019.148",
+    "cited_by_count": 29,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 5,
+      "2024": 2,
+      "2023": 12,
+      "2022": 4,
+      "2021": 3,
+      "2020": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2969608461",
+    "title": "A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images",
+    "venue": "Surgical Infections",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/sur.2019.154",
+    "cited_by_count": 21,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 7,
+      "2022": 3,
+      "2021": 7,
+      "2020": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2971028154",
+    "title": "Artificial Intelligence Methods for Surgical Site Infection: Impacts on Detection, Monitoring, and Decision Making",
+    "venue": "Surgical Infections",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/sur.2019.150",
+    "cited_by_count": 16,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 1,
+      "2024": 3,
+      "2023": 4,
+      "2021": 4,
+      "2020": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2938587256",
+    "title": "The Influence of Multimorbidity on Health Care Utilization at the End of Life for Patients with Chronic Conditions",
+    "venue": "Journal of Palliative Medicine",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/jpm.2018.0349",
+    "cited_by_count": 21,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 5,
+      "2024": 1,
+      "2023": 2,
+      "2022": 5,
+      "2021": 5,
+      "2020": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2979242392",
+    "title": "Wound Care Follow-Up From the Emergency Department Using a Mobile Application: A Pilot Study",
+    "venue": "Journal of Emergency Medicine",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jemermed.2019.07.017",
+    "cited_by_count": 18,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 3,
+      "2024": 1,
+      "2023": 5,
+      "2022": 3,
+      "2021": 2,
+      "2020": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W2970472396",
+    "title": "Identification of Important Features in Mobile Health Applications for Surgical Site Infection Surveillance",
+    "venue": "Surgical Infections",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/sur.2019.155",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 1,
+      "2024": 1,
+      "2023": 3,
+      "2021": 5,
+      "2020": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2969528045",
+    "title": "Implementing Mobile Health Interventions to Capture Post-Operative Patient-Generated Health Data",
+    "venue": "Surgical Infections",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/sur.2019.151",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 1,
+      "2023": 1,
+      "2022": 2,
+      "2020": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W2978742255",
+    "title": "Patient-Generated Health Data in Surgical Site Infection: Changing Clinical Workflow and Care Delivery",
+    "venue": "Surgical Infections",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/sur.2019.195",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2023": 4,
+      "2022": 1,
+      "2021": 1,
+      "2020": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W2964134821",
+    "title": "Executive Summary of the Assessing Surgical Site Infection Surveillance Technologies (ASSIST) Project",
+    "venue": "Surgical Infections",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/sur.2019.171",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2024": 2,
+      "2023": 3,
+      "2021": 2,
+      "2020": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2963331687",
+    "title": "Predictors of Advance Care Planning Documentation in Patients With Underlying Chronic Illness Who Died of Traumatic Injury",
+    "venue": "Journal of Pain and Symptom Management",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpainsymman.2019.07.015",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2023": 2,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2964807328",
+    "title": "A Stakeholder-Driven Framework for Evaluating Surgical Site Infection Surveillance Technologies",
+    "venue": "Surgical Infections",
+    "year": 2019,
+    "type": "article",
+    "link": "https://doi.org/10.1089/sur.2019.146",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2023": 1,
+      "2021": 1,
+      "2020": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2971032093",
+    "title": "Identifying Goals-of-Care Conversations in the Electronic Health Record Using Machine Learning and Natural Language Processing",
+    "venue": null,
+    "year": 2019,
+    "type": "conference-abstract",
+    "link": "https://doi.org/10.1164/ajrccm-conference.2019.199.1_meetingabstracts.a1089",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2024": 2,
+      "2021": 2,
+      "2020": 5
+    }
+  },
+  {
+    "id": "https://openalex.org/W4248167956",
+    "title": "Capturing Relevant Patient Data in Clinical Encounters Through Integration of an Electronic Patient-Reported Outcome System Into Routine Primary Care in a Boston Community Health Center: Development and Implementation Study (Preprint)",
+    "venue": null,
+    "year": 2019,
+    "type": "preprint",
+    "link": "https://doi.org/10.2196/preprints.16778",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2808711051",
+    "title": "Race/Ethnicity, Socioeconomic Status, and Healthcare Intensity at the End of Life",
+    "venue": "Journal of Palliative Medicine",
+    "year": 2018,
+    "type": "article",
+    "link": "https://doi.org/10.1089/jpm.2018.0011",
+    "cited_by_count": 98,
+    "counts_by_year": {
+      "2026": 5,
+      "2025": 10,
+      "2024": 18,
+      "2023": 17,
+      "2022": 15,
+      "2021": 17,
+      "2020": 8,
+      "2019": 7
+    }
+  },
+  {
+    "id": "https://openalex.org/W2900490187",
+    "title": "Evaluation of Wound Photography for Remote Postoperative Assessment of Surgical Site Infections",
+    "venue": "JAMA Surgery",
+    "year": 2018,
+    "type": "article",
+    "link": "https://doi.org/10.1001/jamasurg.2018.3861",
+    "cited_by_count": 54,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 10,
+      "2024": 2,
+      "2023": 7,
+      "2022": 10,
+      "2021": 9,
+      "2020": 7,
+      "2019": 7,
+      "2018": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2795174451",
+    "title": "A Controlled Pilot Trial of PainTracker Self-Manager, a Web-Based Platform Combined With Patient Coaching, to Support Patients' Self-Management of Chronic Pain",
+    "venue": "Journal of Pain",
+    "year": 2018,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpain.2018.03.009",
+    "cited_by_count": 29,
+    "counts_by_year": {
+      "2026": 2,
+      "2024": 8,
+      "2023": 4,
+      "2022": 2,
+      "2021": 6,
+      "2020": 4,
+      "2019": 1,
+      "2018": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2888943083",
+    "title": "One Size Fits (n)One: The Influence of Sex, Age, and Sexual Human Immunodeficiency Virus (HIV) Acquisition Risk on Racial/Ethnic Disparities in the HIV Care Continuum in the United States",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2018,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/ciy556",
+    "cited_by_count": 20,
+    "counts_by_year": {
+      "2026": 1,
+      "2024": 5,
+      "2023": 2,
+      "2022": 2,
+      "2021": 6,
+      "2020": 3,
+      "2019": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2805823854",
+    "title": "Development and Content Validation of a Patient-Reported Sexual Risk Measure for Use in Primary Care",
+    "venue": "Journal of General Internal Medicine",
+    "year": 2018,
+    "type": "article",
+    "link": "https://doi.org/10.1007/s11606-018-4496-5",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 1,
+      "2024": 1,
+      "2023": 1,
+      "2022": 3,
+      "2021": 3,
+      "2018": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2760552132",
+    "title": "Predictors of Death in the Hospital for Patients with Chronic Serious Illness",
+    "venue": "Journal of Palliative Medicine",
+    "year": 2018,
+    "type": "article",
+    "link": "https://doi.org/10.1089/jpm.2017.0127",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2025": 1,
+      "2023": 2,
+      "2022": 2,
+      "2020": 1,
+      "2019": 1,
+      "2017": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2941949180",
+    "title": "What do patients and experts want in a smartphone-based application to support tuberculosis treatment completion?",
+    "venue": "AMIA",
+    "year": 2018,
+    "type": "article",
+    "link": "http://knowledge.amia.org/67852-amia-1.4259402/t007-1.4262189/t007-1.4262190/2974026-1.4262848/2976344-1.4262845",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2770825776",
+    "title": "Using Electronic Health Records for Quality Measurement and Accountability in Care of the Seriously Ill: Opportunities and Challenges",
+    "venue": "Journal of Palliative Medicine",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1089/jpm.2017.0542",
+    "cited_by_count": 91,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 5,
+      "2024": 25,
+      "2023": 7,
+      "2022": 11,
+      "2021": 13,
+      "2020": 16,
+      "2019": 7,
+      "2018": 4,
+      "2017": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2725361041",
+    "title": "Cancer-Attributable Mortality Among People With Treated Human Immunodeficiency Virus Infection in North America",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/cix392",
+    "cited_by_count": 89,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 6,
+      "2024": 12,
+      "2023": 11,
+      "2022": 10,
+      "2021": 13,
+      "2020": 13,
+      "2019": 13,
+      "2018": 8
+    }
+  },
+  {
+    "id": "https://openalex.org/W2568867106",
+    "title": "Types of Myocardial Infarction Among Human Immunodeficiency Virus\u2013Infected Individuals in the United States",
+    "venue": "JAMA Cardiology",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1001/jamacardio.2016.5139",
+    "cited_by_count": 72,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 4,
+      "2024": 4,
+      "2023": 12,
+      "2022": 7,
+      "2021": 6,
+      "2020": 7,
+      "2019": 9,
+      "2018": 10,
+      "2017": 10
+    }
+  },
+  {
+    "id": "https://openalex.org/W2615529999",
+    "title": "Comparison of Kaposi Sarcoma Risk in Human Immunodeficiency Virus-Positive Adults Across 5 Continents: A Multiregional Multicohort Study",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/cix480",
+    "cited_by_count": 62,
+    "counts_by_year": {
+      "2026": 4,
+      "2025": 6,
+      "2024": 3,
+      "2023": 14,
+      "2022": 10,
+      "2021": 9,
+      "2020": 9,
+      "2019": 3,
+      "2018": 3,
+      "2017": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2588015308",
+    "title": "HIV Provider Documentation and Actions Following Patient Reports of At-risk Behaviors and Conditions When Identified by a Web-Based Point-of-Care Assessment",
+    "venue": "AIDS and Behavior",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1007/s10461-017-1718-5",
+    "cited_by_count": 35,
+    "counts_by_year": {
+      "2025": 3,
+      "2024": 7,
+      "2023": 5,
+      "2022": 7,
+      "2021": 4,
+      "2020": 1,
+      "2019": 4,
+      "2018": 3,
+      "2017": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2607188592",
+    "title": "A Pilot Use of Patient-Generated Wound Data to Improve Postdischarge Surgical Site Infection Monitoring",
+    "venue": "JAMA Surgery",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1001/jamasurg.2017.0568",
+    "cited_by_count": 32,
+    "counts_by_year": {
+      "2025": 3,
+      "2024": 2,
+      "2023": 4,
+      "2022": 5,
+      "2021": 2,
+      "2020": 5,
+      "2019": 6,
+      "2018": 2,
+      "2017": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W2737132745",
+    "title": "Identification of adults with congenital heart disease of moderate or great complexity from administrative data",
+    "venue": "Congenital Heart Disease",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1111/chd.12524",
+    "cited_by_count": 27,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 1,
+      "2023": 7,
+      "2022": 7,
+      "2021": 5,
+      "2020": 3,
+      "2018": 1,
+      "2017": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2614081812",
+    "title": "Effect of Psychiatric Illness on Acute Care Utilization at End of Life From Serious Medical Illness",
+    "venue": "Journal of Pain and Symptom Management",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpainsymman.2017.04.003",
+    "cited_by_count": 33,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 4,
+      "2024": 1,
+      "2023": 6,
+      "2022": 6,
+      "2021": 2,
+      "2020": 5,
+      "2019": 3,
+      "2018": 3,
+      "2017": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2737258108",
+    "title": "CHI: A contemporaneous health index for degenerative disease monitoring using longitudinal measurements",
+    "venue": "Journal of Biomedical Informatics",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jbi.2017.07.003",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2023": 1,
+      "2019": 4,
+      "2018": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2750673344",
+    "title": "Temporal Trends Between 2010 and 2015 in Intensity of Care at End-of-Life for Patients With Chronic Illness: Influence of Age Under vs. Over 65\u00a0Years",
+    "venue": "Journal of Pain and Symptom Management",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpainsymman.2017.08.032",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2024": 1,
+      "2023": 2,
+      "2022": 3,
+      "2021": 2,
+      "2020": 2,
+      "2019": 1,
+      "2017": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2765612146",
+    "title": "Use of the Mobile Post-Operative Wound Evaluator in the Management of Deep Surgical Site Infection after Abdominal Wall Reconstruction",
+    "venue": "Surgical Infections Case Reports",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1089/crsi.2017.0022",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2023": 3,
+      "2022": 1,
+      "2021": 3,
+      "2020": 1,
+      "2019": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2765935397",
+    "title": "Implementation of an mHealth Postoperative Wound Management Program",
+    "venue": "Journal of the American College of Surgeons",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2017.07.761",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2022": 1,
+      "2019": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2787115480",
+    "title": "Electronic Surveillance For Catheter-Associated Urinary Tract Infection Using Natural Language Processing.",
+    "venue": "PubMed",
+    "year": 2017,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29854220",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 3,
+      "2023": 1,
+      "2022": 1,
+      "2021": 2,
+      "2020": 2,
+      "2019": 1,
+      "2018": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2773337315",
+    "title": "Utilizing Standard Data Transactions and Public-Private Partnerships to Support Healthy Weight Within the Community",
+    "venue": "eGEMs (Generating Evidence & Methods to improve patient outcomes)",
+    "year": 2017,
+    "type": "article",
+    "link": "https://doi.org/10.5334/egems.242",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2787704068",
+    "title": "Enabling Collaboration for Building High Quality, Sustainable and Scalable National Health Information Systems in Resource-limited Settings.",
+    "venue": "AMIA",
+    "year": 2017,
+    "type": "article",
+    "link": "https://dblp.uni-trier.de/db/conf/amia/amia2017.html#BrandtFL17",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2512371825",
+    "title": "Risk of End-Stage Liver Disease in HIV-Viral Hepatitis Coinfected Persons in North America From the Early to Modern Antiretroviral Therapy Eras",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/ciw531",
+    "cited_by_count": 111,
+    "counts_by_year": {
+      "2025": 11,
+      "2024": 14,
+      "2023": 11,
+      "2022": 13,
+      "2021": 17,
+      "2020": 17,
+      "2019": 12,
+      "2018": 11,
+      "2017": 5
+    }
+  },
+  {
+    "id": "https://openalex.org/W2299566523",
+    "title": "A patient-centered system in a provider-centered world: challenges of incorporating post-discharge wound data into practice",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1093/jamia/ocv183",
+    "cited_by_count": 77,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 6,
+      "2024": 4,
+      "2023": 7,
+      "2022": 9,
+      "2021": 7,
+      "2020": 11,
+      "2019": 9,
+      "2018": 10,
+      "2017": 8,
+      "2016": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W2350657927",
+    "title": "A Prognostic Model of Surgical Site Infection Using Daily Clinical Wound Assessment",
+    "venue": "Journal of the American College of Surgeons",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2016.04.046",
+    "cited_by_count": 57,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 4,
+      "2024": 2,
+      "2023": 5,
+      "2022": 4,
+      "2021": 6,
+      "2020": 8,
+      "2019": 11,
+      "2018": 10,
+      "2017": 3,
+      "2016": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2538683837",
+    "title": "Diagnosing Surgical Site Infection Using Wound Photography: A Scenario-Based Study",
+    "venue": "Journal of the American College of Surgeons",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2016.10.027",
+    "cited_by_count": 45,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 4,
+      "2024": 6,
+      "2023": 6,
+      "2022": 4,
+      "2021": 7,
+      "2020": 8,
+      "2019": 4,
+      "2018": 4,
+      "2017": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2412963569",
+    "title": "Provider perceptions of the value of same-day, electronic patient-reported measures for use in clinical HIV care",
+    "venue": "AIDS Care",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1080/09540121.2016.1189501",
+    "cited_by_count": 36,
+    "counts_by_year": {
+      "2025": 4,
+      "2024": 7,
+      "2023": 7,
+      "2022": 4,
+      "2021": 4,
+      "2020": 2,
+      "2019": 3,
+      "2018": 3,
+      "2017": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2523486462",
+    "title": "A national standards-based assessment on functionality of electronic medical records systems used in Kenyan public-Sector health facilities",
+    "venue": "International Journal of Medical Informatics",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.ijmedinf.2016.09.013",
+    "cited_by_count": 34,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2023": 4,
+      "2022": 3,
+      "2021": 8,
+      "2020": 9,
+      "2019": 3,
+      "2018": 2,
+      "2017": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W2347095373",
+    "title": "Suitability of the PROMIS alcohol use short form for screening in a HIV clinical care setting",
+    "venue": "Drug and Alcohol Dependence",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.drugalcdep.2016.04.038",
+    "cited_by_count": 18,
+    "counts_by_year": {
+      "2024": 3,
+      "2022": 6,
+      "2021": 4,
+      "2020": 2,
+      "2019": 1,
+      "2018": 1,
+      "2017": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2529203108",
+    "title": "A Comparison of Adherence Timeframes Using Missed Dose Items and Their Associations with Viral Load in Routine Clinical Care: Is Longer Better?",
+    "venue": "AIDS and Behavior",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1007/s10461-016-1566-8",
+    "cited_by_count": 11,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 1,
+      "2022": 1,
+      "2021": 1,
+      "2020": 3,
+      "2019": 1,
+      "2018": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2528742921",
+    "title": "A Randomized Controlled Trial Protocol to Evaluate the Effectiveness of an Integrated Care Management Approach to Improve Adherence Among HIV-Infected Patients in Routine Clinical Care: Rationale and Design",
+    "venue": "JMIR Research Protocols",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.2196/resprot.5492",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2021": 3,
+      "2020": 1,
+      "2019": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2304106221",
+    "title": "(122) Prevalence of post-traumatic stress disorder and its association with outcome measures in a general chronic pain population",
+    "venue": "Journal of Pain",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpain.2016.01.025",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2021": 1,
+      "2019": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2530547674",
+    "title": "Pilot Implementation of a Patient-Centered App: Mobile Postoperative Wound Evaluator (mPOWEr)",
+    "venue": "Journal of the American College of Surgeons",
+    "year": 2016,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2016.08.438",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2065569595",
+    "title": "Ascertainment and Verification of End-Stage Renal Disease and End-Stage Liver Disease in the North American AIDS Cohort Collaboration on Research and Design",
+    "venue": "AIDS Research and Treatment",
+    "year": 2015,
+    "type": "article",
+    "link": "https://doi.org/10.1155/2015/923194",
+    "cited_by_count": 14,
+    "counts_by_year": {
+      "2023": 1,
+      "2021": 2,
+      "2020": 2,
+      "2019": 3,
+      "2018": 1,
+      "2017": 3,
+      "2016": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2257304024",
+    "title": "Visualizing the quality of partially accruing data for use in decision making",
+    "venue": "Online Journal of Public Health Informatics",
+    "year": 2015,
+    "type": "article",
+    "link": "https://doi.org/10.5210/ojphi.v7i3.6096",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2022": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1836147009",
+    "title": "Automated Collection of Electronic Health Record Healthy Weight Data for Surveillance",
+    "venue": "Online Journal of Public Health Informatics",
+    "year": 2015,
+    "type": "article",
+    "link": "https://doi.org/10.5210/ojphi.v7i1.5754",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2080781244",
+    "title": "(188) PainTracker: development and implementation of a web-based pain assessment and outcomes tracking tool for primary and specialty clinical care",
+    "venue": "Journal of Pain",
+    "year": 2015,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jpain.2015.01.102",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2574922734",
+    "title": "Mapping workflows in a surgical clinic to guide implementation of a patient-centered postoperative mHealth wound assessment system.",
+    "venue": "AMIA",
+    "year": 2015,
+    "type": "article",
+    "link": "https://dblp.uni-trier.de/db/conf/amia/amia2015.html#LordonEHAWSL15",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W1969373663",
+    "title": "Patient Perspectives on Post-Discharge Surgical Site Infections: Towards a Patient-Centered Mobile Health Solution",
+    "venue": "PLoS ONE",
+    "year": 2014,
+    "type": "article",
+    "link": "https://doi.org/10.1371/journal.pone.0114016",
+    "cited_by_count": 144,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 10,
+      "2024": 16,
+      "2023": 16,
+      "2022": 10,
+      "2021": 15,
+      "2020": 18,
+      "2019": 16,
+      "2018": 14,
+      "2017": 13,
+      "2016": 10,
+      "2015": 4,
+      "2014": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2119016591",
+    "title": "Disparities in the Quality of HIV Care When Using US Department of Health and Human Services Indicators",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2014,
+    "type": "article",
+    "link": "https://doi.org/10.1093/cid/ciu044",
+    "cited_by_count": 75,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 6,
+      "2023": 1,
+      "2022": 2,
+      "2021": 5,
+      "2020": 3,
+      "2019": 5,
+      "2018": 9,
+      "2017": 11,
+      "2016": 14,
+      "2015": 11,
+      "2014": 6
+    }
+  },
+  {
+    "id": "https://openalex.org/W2129196314",
+    "title": "The electronic self report assessment and intervention for cancer: promoting patient verbal reporting of symptom and quality of life issues in a randomized controlled trial",
+    "venue": "BMC Cancer",
+    "year": 2014,
+    "type": "article",
+    "link": "https://doi.org/10.1186/1471-2407-14-513",
+    "cited_by_count": 70,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 7,
+      "2024": 3,
+      "2023": 5,
+      "2022": 3,
+      "2021": 5,
+      "2020": 9,
+      "2019": 8,
+      "2018": 8,
+      "2017": 9,
+      "2016": 3,
+      "2015": 7,
+      "2014": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2116558875",
+    "title": "Lessons Learned From the Design and Implementation of Myocardial Infarction Adjudication Tailored for HIV Clinical Cohorts",
+    "venue": "American Journal of Epidemiology",
+    "year": 2014,
+    "type": "article",
+    "link": "https://doi.org/10.1093/aje/kwu010",
+    "cited_by_count": 47,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 5,
+      "2024": 1,
+      "2023": 5,
+      "2022": 6,
+      "2021": 2,
+      "2020": 2,
+      "2019": 7,
+      "2018": 7,
+      "2017": 4,
+      "2016": 3,
+      "2015": 2,
+      "2014": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2066013520",
+    "title": "Unannounced Telephone-Based Pill Counts: A Valid and Feasible Method for Monitoring Adherence",
+    "venue": "AIDS and Behavior",
+    "year": 2014,
+    "type": "article",
+    "link": "https://doi.org/10.1007/s10461-014-0916-7",
+    "cited_by_count": 35,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 4,
+      "2024": 3,
+      "2023": 4,
+      "2022": 6,
+      "2020": 2,
+      "2019": 4,
+      "2018": 4,
+      "2017": 2,
+      "2016": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W1989375785",
+    "title": "Technical Description of the Distribute Project: A Community-based Syndromic Surveillance System Implementation",
+    "venue": "Online Journal of Public Health Informatics",
+    "year": 2014,
+    "type": "article",
+    "link": "https://doi.org/10.5210/ojphi.v5i3.4938",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2020": 1,
+      "2018": 1,
+      "2017": 1,
+      "2015": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2418899316",
+    "title": "Design Considerations for Post-Acute Care mHealth: Patient Perspectives",
+    "venue": "PubMed",
+    "year": 2014,
+    "type": "conference-paper",
+    "link": "https://doi.org/10.13140/rg.2.1.1946.5769",
+    "cited_by_count": 19,
+    "counts_by_year": {
+      "2024": 2,
+      "2023": 1,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2,
+      "2019": 2,
+      "2018": 3,
+      "2017": 4,
+      "2016": 2,
+      "2014": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2153226990",
+    "title": "Accrued \u2013 An R Package for Visualizing Data Quality for Aggregate Surveillance Data",
+    "venue": "Online Journal of Public Health Informatics",
+    "year": 2014,
+    "type": "article",
+    "link": "https://doi.org/10.5210/ojphi.v6i1.5018",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2464125264",
+    "title": "Healthy Weight Surveillance: Demonstrating Standards and Technology in a National Forum",
+    "venue": "2014 CSTE Annual Conference",
+    "year": 2014,
+    "type": "conference-paper",
+    "link": "https://cste.confex.com/cste/2014/webprogram/Paper3786.html",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W4233750965",
+    "title": "The Authors Reply",
+    "venue": "American Journal of Epidemiology",
+    "year": 2014,
+    "type": "letter",
+    "link": "https://doi.org/10.1093/aje/kwu167",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2082448078",
+    "title": "Electronic Self-Report Assessment for Cancer and Self-Care Support: Results of a Multicenter Randomized Trial",
+    "venue": "Journal of Clinical Oncology",
+    "year": 2013,
+    "type": "article",
+    "link": "https://doi.org/10.1200/jco.2013.48.6662",
+    "cited_by_count": 222,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 15,
+      "2024": 13,
+      "2023": 33,
+      "2022": 15,
+      "2021": 22,
+      "2020": 21,
+      "2019": 18,
+      "2018": 20,
+      "2017": 20,
+      "2016": 13,
+      "2015": 16,
+      "2014": 11
+    }
+  },
+  {
+    "id": "https://openalex.org/W2395122756",
+    "title": "Provider Needs Assessment for mPOWEr: a Mobile tool for Post-Operative Wound Evaluation.",
+    "venue": "AMIA",
+    "year": 2013,
+    "type": "article",
+    "link": "http://dblp.uni-trier.de/db/conf/amia/amia2013.html#SangerHLE13",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2021": 1,
+      "2018": 1,
+      "2016": 1,
+      "2014": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2405799291",
+    "title": "Open Source Computerized Patient Reported Outcomes: Research and Practice across Three Domains.",
+    "venue": "AMIA",
+    "year": 2013,
+    "type": "article",
+    "link": "http://dblp.uni-trier.de/db/conf/amia/amia2013.html#McRynoldsCBL13",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2408306265",
+    "title": "Integrating Touchscreen Laboratory Order-Entry with OpenELIS: An Exercise in Interoperability.",
+    "venue": "AMIA",
+    "year": 2013,
+    "type": "article",
+    "link": "http://dblp.uni-trier.de/db/conf/amia/amia2013.html#EspinoDL13",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W1982899707",
+    "title": "Implementation and expansion of an electronic medical record for HIV care and treatment in Haiti: An assessment of system use and the impact of large-scale disruptions",
+    "venue": "International Journal of Medical Informatics",
+    "year": 2012,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.ijmedinf.2012.01.011",
+    "cited_by_count": 48,
+    "counts_by_year": {
+      "2024": 1,
+      "2023": 3,
+      "2022": 2,
+      "2021": 3,
+      "2020": 8,
+      "2019": 3,
+      "2018": 3,
+      "2017": 6,
+      "2016": 4,
+      "2015": 5,
+      "2014": 7,
+      "2013": 2,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2137322272",
+    "title": "Public Health Practice within a Health Information Exchange: Information Needs and Barriers to Disease Surveillance",
+    "venue": "Online Journal of Public Health Informatics",
+    "year": 2012,
+    "type": "article",
+    "link": "https://doi.org/10.5210/ojphi.v4i3.4277",
+    "cited_by_count": 27,
+    "counts_by_year": {
+      "2025": 2,
+      "2023": 4,
+      "2021": 1,
+      "2020": 2,
+      "2018": 1,
+      "2017": 3,
+      "2016": 5,
+      "2015": 1,
+      "2014": 5,
+      "2013": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W1579432901",
+    "title": "Timeliness and data element completeness of immunization data in Washington State in 2010: a comparison of data exchange methods.",
+    "venue": "PubMed",
+    "year": 2012,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/23304304",
+    "cited_by_count": 15,
+    "counts_by_year": {
+      "2024": 2,
+      "2023": 2,
+      "2022": 1,
+      "2021": 1,
+      "2020": 1,
+      "2019": 1,
+      "2016": 3,
+      "2014": 2,
+      "2013": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2242571056",
+    "title": "Electronic self-report assessment for cancer: Results of a multisite randomized trial.",
+    "venue": "Journal of Clinical Oncology",
+    "year": 2012,
+    "type": "conference-abstract",
+    "link": "https://doi.org/10.1200/jco.2012.30.15_suppl.9008",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2014": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2056173717",
+    "title": "Enhancing Patient-Provider Communication With the Electronic Self-Report Assessment for Cancer: A Randomized Trial",
+    "venue": "Journal of Clinical Oncology",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.1200/jco.2010.30.3909",
+    "cited_by_count": 372,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 16,
+      "2024": 31,
+      "2023": 26,
+      "2022": 24,
+      "2021": 27,
+      "2020": 38,
+      "2019": 22,
+      "2018": 27,
+      "2017": 28,
+      "2016": 17,
+      "2015": 26,
+      "2014": 34,
+      "2013": 19,
+      "2012": 18
+    }
+  },
+  {
+    "id": "https://openalex.org/W2029359558",
+    "title": "Consumer Empowerment in Health Care Amid the Internet and Social Media",
+    "venue": "Seminars in Oncology Nursing",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.soncn.2011.04.002",
+    "cited_by_count": 127,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 6,
+      "2023": 9,
+      "2022": 9,
+      "2021": 13,
+      "2020": 7,
+      "2019": 9,
+      "2018": 11,
+      "2017": 14,
+      "2016": 14,
+      "2015": 11,
+      "2014": 11,
+      "2013": 8,
+      "2012": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2042355566",
+    "title": "The Personal Patient Profile-Prostate decision support for men with localized prostate cancer: A multi-center randomized trial",
+    "venue": "Urologic Oncology Seminars and Original Investigations",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.urolonc.2011.10.004",
+    "cited_by_count": 113,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 2,
+      "2024": 4,
+      "2023": 5,
+      "2022": 8,
+      "2021": 15,
+      "2020": 5,
+      "2019": 12,
+      "2018": 9,
+      "2017": 13,
+      "2016": 8,
+      "2015": 16,
+      "2014": 7,
+      "2013": 4,
+      "2012": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W2111361989",
+    "title": "Addressing Mental Health Epidemic Among University Students via Web-based, Self-Screening, and Referral System: A Preliminary Study",
+    "venue": "IEEE Transactions on Information Technology in Biomedicine",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.1109/titb.2011.2107561",
+    "cited_by_count": 66,
+    "counts_by_year": {
+      "2024": 8,
+      "2023": 8,
+      "2022": 9,
+      "2021": 3,
+      "2020": 5,
+      "2019": 7,
+      "2018": 7,
+      "2017": 5,
+      "2016": 1,
+      "2015": 1,
+      "2014": 7,
+      "2013": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W2078419353",
+    "title": "Applying a New Model for Sharing Population Health Data to National Syndromic Influenza Surveillance: DiSTRIBuTE Project Proof of Concept, 2006 to 2009",
+    "venue": "PLoS Currents",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.1371/currents.rrn1251",
+    "cited_by_count": 23,
+    "counts_by_year": {
+      "2020": 1,
+      "2019": 2,
+      "2018": 1,
+      "2016": 1,
+      "2015": 4,
+      "2014": 5,
+      "2013": 4,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2022660565",
+    "title": "Perceived usefulness of a distributed community-based syndromic surveillance system: a pilot qualitative evaluation study",
+    "venue": "BMC Research Notes",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.1186/1756-0500-4-187",
+    "cited_by_count": 17,
+    "counts_by_year": {
+      "2022": 2,
+      "2020": 2,
+      "2019": 1,
+      "2018": 1,
+      "2016": 1,
+      "2015": 3,
+      "2014": 2,
+      "2013": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W2153199925",
+    "title": "Applying the XForms Standard to Public Health Case Reporting and Alerting",
+    "venue": "Online Journal of Public Health Informatics",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.5210/ojphi.v3i2.3656",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2020": 1,
+      "2017": 1,
+      "2014": 1,
+      "2013": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1986662296",
+    "title": "1001 DECISIONAL CONFLICT VARIES BY INSTITUTION FOR MEN MAKING TREATMENT DECISIONS FOR LOCALIZED PROSTATE CANCER",
+    "venue": "The Journal of Urology",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.juro.2011.02.1034",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2022": 1,
+      "2020": 1,
+      "2014": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1979304676",
+    "title": "How good is your data?",
+    "venue": "Emerging Health Threats Journal",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.3402/ehtj.v4i0.11142",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2015": 1,
+      "2013": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2313236817",
+    "title": "Visualizing data quality: tools and views",
+    "venue": "Emerging Health Threats Journal",
+    "year": 2011,
+    "type": "article",
+    "link": "https://doi.org/10.3402/ehtj.v4i0.11144",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2162973837",
+    "title": "Routine, Self\u2010Administered, Touch\u2010Screen, Computer\u2010Based Suicidal Ideation Assessment Linked to Automated Response Team Notification in an HIV Primary Care Setting",
+    "venue": "Clinical Infectious Diseases",
+    "year": 2010,
+    "type": "article",
+    "link": "https://doi.org/10.1086/651420",
+    "cited_by_count": 104,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 2,
+      "2024": 4,
+      "2023": 11,
+      "2022": 7,
+      "2021": 10,
+      "2020": 2,
+      "2019": 1,
+      "2018": 9,
+      "2017": 7,
+      "2016": 10,
+      "2015": 9,
+      "2014": 7,
+      "2013": 7,
+      "2012": 11
+    }
+  },
+  {
+    "id": "https://openalex.org/W1968725781",
+    "title": "Safety of Using a Computerized Rounding and Sign-Out System to Reduce Resident Duty Hours",
+    "venue": "Academic Medicine",
+    "year": 2010,
+    "type": "article",
+    "link": "https://doi.org/10.1097/acm.0b013e3181e0116f",
+    "cited_by_count": 55,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 1,
+      "2022": 3,
+      "2021": 1,
+      "2019": 1,
+      "2018": 3,
+      "2017": 3,
+      "2016": 7,
+      "2015": 9,
+      "2014": 3,
+      "2013": 7,
+      "2012": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W2023602552",
+    "title": "Development and Evaluation of the Personal Patient Profile-Prostate (P3P), a Web-Based Decision Support System for Men Newly Diagnosed With Localized Prostate Cancer",
+    "venue": "Journal of Medical Internet Research",
+    "year": 2010,
+    "type": "article",
+    "link": "https://doi.org/10.2196/jmir.1576",
+    "cited_by_count": 48,
+    "counts_by_year": {
+      "2023": 1,
+      "2022": 4,
+      "2021": 5,
+      "2020": 1,
+      "2019": 3,
+      "2018": 2,
+      "2017": 3,
+      "2016": 6,
+      "2015": 3,
+      "2014": 6,
+      "2013": 3,
+      "2012": 6
+    }
+  },
+  {
+    "id": "https://openalex.org/W2015902529",
+    "title": "Improving Health Literacy",
+    "venue": "CIN Computers Informatics Nursing",
+    "year": 2010,
+    "type": "article",
+    "link": "https://doi.org/10.1097/ncn.0b013e3181e1ddca",
+    "cited_by_count": 26,
+    "counts_by_year": {
+      "2024": 1,
+      "2023": 14,
+      "2022": 3,
+      "2021": 1,
+      "2017": 2,
+      "2015": 1,
+      "2013": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W178359258",
+    "title": "A Lab-EMR Interoperability Profile as an eHealth Architecture Component for Resource-Constrained Settings",
+    "venue": "Studies in health technology and informatics",
+    "year": 2010,
+    "type": "book-chapter",
+    "link": "https://doi.org/10.3233/978-1-60750-588-4-257",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2015": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2138083816",
+    "title": "Development and implementation of a loosely coupled, multi-site, networked and replicated electronic medical record in Haiti",
+    "venue": "ACM SIGOPS Operating Systems Review",
+    "year": 2010,
+    "type": "article",
+    "link": "https://doi.org/10.1145/1713254.1713272",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2019": 1,
+      "2016": 1,
+      "2015": 1,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2083655631",
+    "title": "Immunization information and population data sources",
+    "venue": null,
+    "year": 2010,
+    "type": "conference-paper",
+    "link": "https://doi.org/10.1145/1882992.1883063",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2013": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2078449858",
+    "title": "Challenges to Using an Electronic Personal Health Record by a Low-Income Elderly Population",
+    "venue": "Journal of Medical Internet Research",
+    "year": 2009,
+    "type": "article",
+    "link": "https://doi.org/10.2196/jmir.1256",
+    "cited_by_count": 187,
+    "counts_by_year": {
+      "2025": 3,
+      "2024": 6,
+      "2023": 6,
+      "2022": 10,
+      "2021": 17,
+      "2020": 18,
+      "2019": 13,
+      "2018": 11,
+      "2017": 21,
+      "2016": 9,
+      "2015": 11,
+      "2014": 13,
+      "2013": 14,
+      "2012": 9
+    }
+  },
+  {
+    "id": "https://openalex.org/W2102062612",
+    "title": "Cohort profile: the Centers for AIDS Research Network of Integrated Clinical Systems",
+    "venue": "International Journal of Epidemiology",
+    "year": 2008,
+    "type": "article",
+    "link": "https://doi.org/10.1093/ije/dym231",
+    "cited_by_count": 295,
+    "counts_by_year": {
+      "2026": 8,
+      "2025": 23,
+      "2024": 19,
+      "2023": 24,
+      "2022": 21,
+      "2021": 27,
+      "2020": 18,
+      "2019": 23,
+      "2018": 27,
+      "2017": 22,
+      "2016": 18,
+      "2015": 15,
+      "2014": 14,
+      "2013": 14,
+      "2012": 7
+    }
+  },
+  {
+    "id": "https://openalex.org/W2101875245",
+    "title": "Depression screening using the Patient Health Questionnaire\u20109 administered on a touch screen computer",
+    "venue": "Psycho-Oncology",
+    "year": 2008,
+    "type": "article",
+    "link": "https://doi.org/10.1002/pon.1368",
+    "cited_by_count": 142,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 5,
+      "2024": 4,
+      "2023": 3,
+      "2022": 8,
+      "2021": 9,
+      "2020": 11,
+      "2019": 4,
+      "2018": 4,
+      "2017": 12,
+      "2016": 10,
+      "2015": 13,
+      "2014": 11,
+      "2013": 12,
+      "2012": 8
+    }
+  },
+  {
+    "id": "https://openalex.org/W2092067003",
+    "title": "Acceptability of an Electronic Self-report Assessment Program for Patients With Cancer",
+    "venue": "CIN Computers Informatics Nursing",
+    "year": 2008,
+    "type": "article",
+    "link": "https://doi.org/10.1097/01.ncn.0000336464.79692.6a",
+    "cited_by_count": 51,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 4,
+      "2023": 2,
+      "2022": 4,
+      "2021": 3,
+      "2020": 2,
+      "2019": 1,
+      "2018": 4,
+      "2017": 1,
+      "2016": 1,
+      "2015": 2,
+      "2014": 1,
+      "2013": 3,
+      "2012": 4
+    }
+  },
+  {
+    "id": "https://openalex.org/W2105510505",
+    "title": "Time-Tradeoff Utilities for Identifying and Evaluating a Minimum Data Set for Time-Critical Biosurveillance",
+    "venue": "Medical Decision Making",
+    "year": 2008,
+    "type": "article",
+    "link": "https://doi.org/10.1177/0272989x08317011",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2017": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1569306290",
+    "title": "Three years experience with the implementation of a networked electronic medical record in Haiti.",
+    "venue": "PubMed",
+    "year": 2008,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/18999283",
+    "cited_by_count": 19,
+    "counts_by_year": {
+      "2025": 1,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2,
+      "2018": 1,
+      "2017": 2,
+      "2016": 2,
+      "2015": 1,
+      "2014": 2,
+      "2012": 5
+    }
+  },
+  {
+    "id": "https://openalex.org/W143163891",
+    "title": "Biosurveillance, Case Reporting, and Decision Support: Public Health Interactions with a Health Information Exchange",
+    "venue": "Lecture notes in computer science",
+    "year": 2008,
+    "type": "conference-paper",
+    "link": "https://doi.org/10.1007/978-3-540-89746-0_2",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2022": 1,
+      "2020": 2,
+      "2017": 1,
+      "2015": 1,
+      "2014": 2,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2266616180",
+    "title": "Electronic self-report assessment for cancer (ESRA-C): Results of a randomized clinical trial",
+    "venue": "Journal of Clinical Oncology",
+    "year": 2008,
+    "type": "conference-abstract",
+    "link": "https://doi.org/10.1200/jco.2008.26.15_suppl.9519",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2014": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2406211924",
+    "title": "Extending functionality of and demonstrating integrated surveillance for public health within a prototype regional health information exchange.",
+    "venue": "PubMed",
+    "year": 2008,
+    "type": "conference-abstract",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/18999244",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2014": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2093501385",
+    "title": "465: Priority Concerns of Patients Receiving Autologous or Allogeneic Stem Cell Transplants at the Seattle Cancer Care Alliance",
+    "venue": "Biology of Blood and Marrow Transplantation",
+    "year": 2008,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.bbmt.2007.12.475",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W1723600901",
+    "title": "Usage patterns of a personal health record by elderly and disabled users.",
+    "venue": "PubMed",
+    "year": 2007,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/18693868",
+    "cited_by_count": 30,
+    "counts_by_year": {
+      "2023": 1,
+      "2022": 1,
+      "2019": 1,
+      "2018": 1,
+      "2017": 4,
+      "2016": 2,
+      "2015": 6,
+      "2014": 5,
+      "2013": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W2258283719",
+    "title": "Integration of Clinical Data to Support HIV Research",
+    "venue": "Medinfo 2007: Proceedings of the 12th World Congress on Health (Medical) Informatics; Building Sustainable Health Systems",
+    "year": 2007,
+    "type": "article",
+    "link": "http://search.informit.com.au/documentSummary;subject=Arts;dn=797062018259525;res=IELHEA",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2115760457",
+    "title": "Routine Collection of Patient-Reported Outcomes in an HIV Clinic Setting:The First 100 Patients",
+    "venue": "Current HIV Research",
+    "year": 2006,
+    "type": "article",
+    "link": "https://doi.org/10.2174/157016207779316369",
+    "cited_by_count": 155,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 6,
+      "2024": 16,
+      "2023": 8,
+      "2022": 13,
+      "2021": 16,
+      "2020": 12,
+      "2019": 6,
+      "2018": 15,
+      "2017": 13,
+      "2016": 11,
+      "2015": 4,
+      "2014": 6,
+      "2013": 6,
+      "2012": 9
+    }
+  },
+  {
+    "id": "https://openalex.org/W2171596623",
+    "title": "Barriers to the use of a personal health record by an elderly population.",
+    "venue": "PubMed",
+    "year": 2006,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/17238394",
+    "cited_by_count": 182,
+    "counts_by_year": {
+      "2025": 4,
+      "2024": 3,
+      "2023": 4,
+      "2022": 6,
+      "2021": 7,
+      "2020": 10,
+      "2019": 12,
+      "2018": 14,
+      "2017": 20,
+      "2016": 10,
+      "2015": 17,
+      "2014": 15,
+      "2013": 9,
+      "2012": 18
+    }
+  },
+  {
+    "id": "https://openalex.org/W1872740255",
+    "title": "Improving Healthcare Quality through Distributed Diagnosis and Home Healthcare (D/sub 2/H/sub 2/)",
+    "venue": null,
+    "year": 2006,
+    "type": "conference-paper",
+    "link": "https://doi.org/10.1109/ddhh.2006.1624823",
+    "cited_by_count": 20,
+    "counts_by_year": {
+      "2019": 1,
+      "2016": 2,
+      "2015": 3,
+      "2014": 1,
+      "2013": 4,
+      "2012": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2166173129",
+    "title": "Web-Based Personal-Centered Electronic Health Record for Elderly Population",
+    "venue": null,
+    "year": 2006,
+    "type": "conference-paper",
+    "link": "https://doi.org/10.1109/ddhh.2006.1624817",
+    "cited_by_count": 11,
+    "counts_by_year": {
+      "2016": 1,
+      "2015": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2136795650",
+    "title": "A Patient-Centered Health Record in a Demonstration Regional Health Information Network",
+    "venue": null,
+    "year": 2006,
+    "type": "conference-paper",
+    "link": "https://doi.org/10.1109/ddhh.2006.1624821",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2014": 2,
+      "2012": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W2171748316",
+    "title": "Implementation of Electronic Self-Report Assessment-Cancer (ESRA-C): Symptom and quality of life screening/monitoring in Transplant Ambulatory Care",
+    "venue": "Biology of Blood and Marrow Transplantation",
+    "year": 2006,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.bbmt.2005.11.449",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2065138371",
+    "title": "A randomized, controlled trial evaluating the impact of a computerized rounding and sign-out system on continuity of care and resident work hours",
+    "venue": "Journal of the American College of Surgeons",
+    "year": 2005,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2004.11.009",
+    "cited_by_count": 267,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 3,
+      "2023": 5,
+      "2022": 4,
+      "2021": 6,
+      "2020": 1,
+      "2019": 4,
+      "2018": 8,
+      "2017": 6,
+      "2016": 12,
+      "2015": 17,
+      "2014": 11,
+      "2013": 25,
+      "2012": 28
+    }
+  },
+  {
+    "id": "https://openalex.org/W1519905624",
+    "title": "Patient-centered design for a personal health record system.",
+    "venue": "PubMed",
+    "year": 2005,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779426",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2025": 1,
+      "2017": 2,
+      "2015": 1,
+      "2013": 1,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1480409344",
+    "title": "Feasibility of data exchange with a Patient-centered Health Record.",
+    "venue": "PubMed",
+    "year": 2005,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779410",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2015": 1,
+      "2013": 1,
+      "2012": 2
+    }
+  },
+  {
+    "id": "https://openalex.org/W2224707736",
+    "title": "Distributed health assessment and intervention research software framework.",
+    "venue": "PubMed",
+    "year": 2005,
+    "type": "conference-abstract",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779227",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2014": 2,
+      "2013": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1509331716",
+    "title": "Acceptability of an Internet treatment decision support program for men with prostate cancer.",
+    "venue": "PubMed",
+    "year": 2005,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779378",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2013": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W75353830",
+    "title": "An open source environment for the statistical evaluation of outbreak detection methods.",
+    "venue": "PubMed",
+    "year": 2005,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779324",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2018": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1495201944",
+    "title": "Developing a relational XML schema for sharing HIV clinical data.",
+    "venue": "PubMed",
+    "year": 2005,
+    "type": "conference-abstract",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779230",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2019": 1,
+      "2016": 1,
+      "2014": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2038003010",
+    "title": "Organizing the transfer of patient care information: the development of a computerized resident sign-out system",
+    "venue": "Surgery",
+    "year": 2004,
+    "type": "article",
+    "link": "https://doi.org/10.1016/j.surg.2004.04.018",
+    "cited_by_count": 117,
+    "counts_by_year": {
+      "2026": 1,
+      "2022": 3,
+      "2021": 1,
+      "2020": 2,
+      "2019": 1,
+      "2018": 2,
+      "2017": 2,
+      "2016": 3,
+      "2015": 6,
+      "2014": 4,
+      "2013": 6,
+      "2012": 6
+    }
+  },
+  {
+    "id": "https://openalex.org/W2018401122",
+    "title": "Computerized Symptom and Quality-of-Life Assessment for Patients With Cancer Part I: Development and Pilot Testing",
+    "venue": "Oncology nursing forum",
+    "year": 2004,
+    "type": "article",
+    "link": "https://doi.org/10.1188/04.onf.e75-e83",
+    "cited_by_count": 62,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 1,
+      "2023": 1,
+      "2022": 2,
+      "2021": 1,
+      "2018": 3,
+      "2017": 3,
+      "2015": 4,
+      "2014": 6,
+      "2013": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W98871895",
+    "title": "Collection and integration of clinical data for surveillance.",
+    "venue": "PubMed",
+    "year": 2004,
+    "type": "article",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/15361005",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2020": 1,
+      "2013": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W201600916",
+    "title": "Information System Architectures for Syndromic Surveillance",
+    "venue": "PsycEXTRA Dataset",
+    "year": 2004,
+    "type": "dataset",
+    "link": "https://doi.org/10.1037/e307182005-035",
+    "cited_by_count": 22,
+    "counts_by_year": {
+      "2024": 1,
+      "2019": 2,
+      "2016": 1,
+      "2014": 2,
+      "2013": 1,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1536244615",
+    "title": "Syndromic surveillance using automated collection of computerized discharge diagnoses",
+    "venue": "Journal of Urban Health",
+    "year": 2003,
+    "type": "article",
+    "link": "https://doi.org/10.1007/pl00022320",
+    "cited_by_count": 47,
+    "counts_by_year": {
+      "2021": 2,
+      "2020": 1,
+      "2018": 1,
+      "2016": 1,
+      "2014": 3,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W64830885",
+    "title": "Emergency Department data for bioterrorism surveillance: electronic data availability, timeliness, sources and standards.",
+    "venue": "PubMed",
+    "year": 2003,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/14728256",
+    "cited_by_count": 18,
+    "counts_by_year": {
+      "2014": 1,
+      "2013": 2,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2175055124",
+    "title": "Communicable disease case entry using PDAs and public wireless networks.",
+    "venue": "PubMed",
+    "year": 2003,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/14728422",
+    "cited_by_count": 3,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2565731337",
+    "title": "On the Edge: Statistics &amp; Computing",
+    "venue": "CHANCE",
+    "year": 2003,
+    "type": "article",
+    "link": "https://doi.org/10.1080/09332480.2003.10554838",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2290088315",
+    "title": "Roundtable on Bioterrorism Detection",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": 2002,
+    "type": "article",
+    "link": "https://doi.org/10.1197/jamia.m1052",
+    "cited_by_count": 134,
+    "counts_by_year": {
+      "2026": 1,
+      "2024": 1,
+      "2021": 1,
+      "2020": 3,
+      "2019": 1,
+      "2018": 1,
+      "2017": 2,
+      "2016": 1,
+      "2015": 1,
+      "2014": 7,
+      "2013": 3,
+      "2012": 5
+    }
+  },
+  {
+    "id": "https://openalex.org/W200199795",
+    "title": "SuML: A Survey Markup Language for Generalized Survey Encoding",
+    "venue": "PubMed Central",
+    "year": 2002,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244339",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2014": 3
+    }
+  },
+  {
+    "id": "https://openalex.org/W1971180393",
+    "title": "Development and Evaluation of Public Health Informatics at University of Washington",
+    "venue": "Journal of Public Health Management and Practice",
+    "year": 2002,
+    "type": "article",
+    "link": "https://doi.org/10.1097/00124784-200205000-00006",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2019": 1,
+      "2016": 1,
+      "2014": 1,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1436100098",
+    "title": "Iterative Development of a Web Application to Support Teleconferencing of a Distributed Tumor Board",
+    "venue": "PubMed Central",
+    "year": 2002,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244459",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2014": 1,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W60422275",
+    "title": "National Pharmaceutical Stockpile drill analysis using XML data collection on wireless Java phones.",
+    "venue": "PubMed",
+    "year": 2002,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/12463848",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2020": 2,
+      "2016": 1,
+      "2015": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2193165156",
+    "title": "An Information System for 911 Dispatch Monitoring and Analysis.",
+    "venue": "American Medical Informatics Association Annual Symposium",
+    "year": 2002,
+    "type": "conference-paper",
+    "link": "http://europepmc.org/articles/PMC2244357",
+    "cited_by_count": 3,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W1746298555",
+    "title": "Syndromic Surveillance for Bioterrorism Using Automated Collection of Computerized Discharge Diagnoses",
+    "venue": "PubMed Central",
+    "year": 2002,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244452",
+    "cited_by_count": 1,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2184116158",
+    "title": "Development of a Wireless Web-based Infrastructure to Support Collection of Patient Self-reported QoL and Symptom Information in a Clinical Setting.",
+    "venue": "Europe PMC (PubMed Central)",
+    "year": 2002,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244567",
+    "cited_by_count": 1,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W343837055",
+    "title": "Cancer Electronic Quality of Life Project: Delivering Wireless Web-based Technology at the Point of Care",
+    "venue": "PubMed Central",
+    "year": 2002,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244376",
+    "cited_by_count": 1,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W1025318861",
+    "title": "Proposed Design of a Clinical Information System for the Management of Bronchial Asthma",
+    "venue": "PubMed Central",
+    "year": 2002,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244427",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2096647992",
+    "title": "Applying Social Network Analysis Techniques to Measure the Efficacy of Computerized Medication Records.",
+    "venue": "PubMed Central",
+    "year": 2002,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244134",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W144546763",
+    "title": "Syndromic Surveillance for Bioterrorism Using Computerized Discharge Diagnosis Databases",
+    "venue": "Europe PMC (PubMed Central)",
+    "year": 2001,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243670",
+    "cited_by_count": 7,
+    "counts_by_year": {
+      "2014": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W276309862",
+    "title": "IML: An image markup language.",
+    "venue": "PubMed",
+    "year": 2001,
+    "type": "conference-paper",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/11825219",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2016": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W191834341",
+    "title": "Web Tools for Distributed Clinical Case Conferencing",
+    "venue": "Europe PMC (PubMed Central)",
+    "year": 2001,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243542",
+    "cited_by_count": 1,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W997264154",
+    "title": "Tumor Conferencing Tools for Regional Collaborative Cancer Care Using the Next Generation Internet",
+    "venue": "Europe PMC (PubMed Central)",
+    "year": 2001,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243454",
+    "cited_by_count": 1,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W1917421287",
+    "title": "CISweb: Dynamically Generated Reference for a Clinical Information System.",
+    "venue": "Europe PMC (PubMed Central)",
+    "year": 2001,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243638",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W288560397",
+    "title": "An Infrastructure for Storage and Retrieval of GEM Guidelines",
+    "venue": "Europe PMC (PubMed Central)",
+    "year": 2001,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243635",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W299524793",
+    "title": "A Practical Lab Exercise for Teaching Medical Informatics in a Biomedical Engineering Graduate Program",
+    "venue": "Europe PMC (PubMed Central)",
+    "year": 2001,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243531",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W332805199",
+    "title": "A Personal Annotated Image Server",
+    "venue": null,
+    "year": 2000,
+    "type": "conference-paper",
+    "link": "http://sigpubs.biostr.washington.edu/archive/00000063/",
+    "cited_by_count": 5,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W193506328",
+    "title": "Development of a Multi-axial Taxonomy for Clinical Documents.",
+    "venue": "Europe PMC (PubMed Central)",
+    "year": 2000,
+    "type": "article",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243748",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W923888276",
+    "title": "XML-Based Image Annotation: PAIS - a Personal Annotated Image Server",
+    "venue": null,
+    "year": 2000,
+    "type": "conference-abstract",
+    "link": "http://sigpubs.biostr.washington.edu/archive/00000064/",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W1511284861",
+    "title": "A Portable Image Annotation Tool for Web-based Anatomy Atlases",
+    "venue": null,
+    "year": 1999,
+    "type": "conference-abstract",
+    "link": "http://sigpubs.biostr.washington.edu/archive/00000062/",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W2092469818",
+    "title": "Loxosceles arizonica Bite Associated With Shock",
+    "venue": "Annals of Emergency Medicine",
+    "year": 1997,
+    "type": "article",
+    "link": "https://doi.org/10.1016/s0196-0644(97)70092-1",
+    "cited_by_count": 37,
+    "counts_by_year": {
+      "2024": 1,
+      "2017": 1,
+      "2015": 2,
+      "2014": 1,
+      "2013": 1,
+      "2012": 1
+    }
+  },
+  {
+    "id": "https://openalex.org/W1858404830",
+    "title": "48. Age, Sex, Ethanol Levels, and Helmet Use Among Injured Motorcyclists",
+    "venue": "Prehospital and Disaster Medicine",
+    "year": 1996,
+    "type": "conference-abstract",
+    "link": "https://doi.org/10.1017/s1049023x00045696",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2050687447",
+    "title": "Mechanical ventilation may not be essential for initial cardiopulmonary resuscitation",
+    "venue": "Annals of Emergency Medicine",
+    "year": 1996,
+    "type": "article",
+    "link": "https://doi.org/10.1016/s0196-0644(96)80088-6",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2606342104",
+    "title": "Signal Processing of Ventricular Fibrillation Waveform Collected by Urban First-Responders Utilizing Semi-Automatic External Defibrillators",
+    "venue": "Prehospital and Disaster Medicine",
+    "year": 1993,
+    "type": "conference-abstract",
+    "link": "https://doi.org/10.1017/s1049023x0004989x",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W583923939",
+    "title": "Prediction of Cardiac Arrest Outcomes Using Digital Signal Processing of Initial Electrocardiograms",
+    "venue": "eScholarship (California Digital Library)",
+    "year": 1992,
+    "type": "article",
+    "link": "https://escholarship.org/uc/item/6qf5f3mc",
+    "cited_by_count": 1,
+    "counts_by_year": {}
+  },
+  {
+    "id": "https://openalex.org/W2767342147",
+    "title": "Prediction of Cardiac Arrest Outcomes Using Digital Signal Processing of Initial Electrocardiograms - eScholarship",
+    "venue": null,
+    "year": 1992,
+    "type": "article",
+    "link": "https://escholarship.org/content/qt6qf5f3mc/qt6qf5f3mc.pdf",
+    "cited_by_count": 0,
+    "counts_by_year": {}
+  }
+]
