@@ -1,0 +1,3525 @@
+[
+  {
+    "citation": "Mohamed NE, Berry DL, McReynolds J, Korn T, Kata H, Benn E, Scharp D, Sfakianos J, Mehrazin R, Wiklund P, Lober WB. Development and Evaluation of the Personal Patient Profile-Bladder Cancer (P3-BC): A Web-Based Decision Support System for Patients Considering Cystectomy and Urinary Diversion. Cancers (Basel) 2026 May 7;",
+    "year": 2026,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/42192863/",
+    "in_summary": ""
+  },
+  {
+    "citation": "D'Amore JD, Vallapu ER, Samal L, Karras BT, Lober WB. From Pandemic Response to Kill the Clipboard: Patient-Controlled Sharing of Health Data Using International Patient Summary (IPS) and QR codes. Appl Clin Inform 2026 May;",
+    "year": 2026,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/42372787/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Dai M, Fredericksen R, Drumright LN, Mayer KH, Fleming JG, Cachay ER, Bamford L, Christopoulos K, Botero V, Safren SA, Rodriguez AE, Yendewa G, Willis B, Han K, LeBlanc S, Moore RD, Keruly JC, Chander G, Napravnik S, Webel A, Willig AL, Batey DS, Burkholder G, Heath SL, McReynolds JR, Mixson LS, Whitney BM, Nance RM, Saag MS, Kitahata MM, Delaney JAC, Lober WB. Routine collection of patient-reported outcomes in HIV clinics: lessons learned after more than 130 000 assessments have been completed. AIDS 2026 Jul 1;",
+    "year": 2026,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/41729041/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee RY, Li KS, Sibley J, Cohen T, Lober WB, O'Brien J, LeDuc N, Mallon Andrews K, Ungar A, Walsh J, Nielsen EL, Dotolo DG, Kross EK. A modular pipeline for natural language processing-screened human abstraction of a pragmatic trial outcome from electronic health records. Clin Trials 2026 Apr;",
+    "year": 2026,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1101/2025.06.23.25330134",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee RY, Li KS, Sibley J, Cohen T, Lober WB, Dotolo DG, Kross EK. Assessment of a Zero-Shot Large Language Model in Measuring Documented Goals-of-Care Discussions. J Pain Symptom Manage 2026 Jan;",
+    "year": 2026,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2026": 1
+    },
+    "link": "https://doi.org/10.1016/j.jpainsymman.2025.09.025",
+    "in_summary": ""
+  },
+  {
+    "citation": "Venous Thromboembolism Among People With HIV: Design, Implementation, and Findings of a Centralized Adjudication System in Clinical Care Sites Across the United States. UNC Libraries. 2026",
+    "year": 2026,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.17615/faed-vp74",
+    "in_summary": ""
+  },
+  {
+    "citation": "Haw NJL, Lesko CR, Ng DK, Lam JO, Gebo K, Sterling TR, Rabkin CS, Li J, Buchacz K, Agwu A, Althoff K, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD). Incidence of AIDS-Defining Conditions Among Adults With Perinatally Acquired HIV After Transition to Adult HIV Care in the United States and Canada, 2000-2022. Clin Infect Dis 2025 Dec 24;",
+    "year": 2025,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1093/cid/ciaf300",
+    "in_summary": ""
+  },
+  {
+    "citation": "Davy-Mendez T, Napravnik S, Hogan BC, Eron JJ, Gebo KA, Althoff KN, Moore RD, Silverberg MJ, Horberg MA, Gill MJ, Colasanti JA, Nijhawan A, Karris MY, Klein MB, Lang R, Lesko CR, Yendewa GA, Kirk GD, McGinnis KA, Berry SA, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of the International Epidemiology Databases to Evaluate AIDS (IeDEA). Changes in the Prevalence of Non-AIDS Conditions Among Hospitalized Persons With HIV in the United States and Canada, 2008-2018. Clin Infect Dis 2025 Nov 6;",
+    "year": 2025,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/40178532/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee RY, Li KS, Sibley J, Cohen T, Lober WB, O'Brien J, LeDuc N, Andrews KM, Ungar A, Walsh J, Nielsen EL, Dotolo DG, Kross EK. A modular pipeline for natural language processing-screened human abstraction of a pragmatic trial outcome from electronic health records. medRxiv 2025 Sep 26;",
+    "year": 2025,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1101/2025.06.23.25330134",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee RY, Li KS, Sibley J, Cohen T, Lober WB, Dotolo DG, Kross EK. Assessment of a zero-shot large language model in measuring documented goals-of-care discussions. medRxiv 2025 Sep 26;",
+    "year": 2025,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2026": 2
+    },
+    "link": "https://doi.org/10.1101/2025.05.23.25328115",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lang R, Coburn SB, Gill MJ, Grossman J, Mayor A, Horberg MA, Silverberg MJ, Rabkin CS, Moore RD, Kirk GD, Karris MY, Justice AC, Althoff KN, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of the International Epidemiologic Databases to Evaluate AIDS (IeDEA). The Association of Anemia on Non-AIDS-Defining Cancer and Subsequent Survival Among People With HIV After Antiretroviral Initiation. J Acquir Immune Defic Syndr 2025 Jun 1;",
+    "year": 2025,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/39972549/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berridge C, Turner NR, Lober WB, Demiris G, Kaye J. Sharing patient technology preferences with care networks: Stakeholders' views of the \"Let's Talk Tech\" decision aid for dementia care. J Alzheimers Dis 2025 Jun;",
+    "year": 2025,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2026": 2
+    },
+    "link": "https://doi.org/10.1177/13872877251332659",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Ruderman SA, Nance RM, Drumright LN, Whitney BM, Mixson LS, Mayer KH, Eron JJ, Napravnik S, Christopoulos K, Cachay ER, Bamford L, Chander G, Webel A, Saag MS, Willig AL, Burkholder G, Pandya C, Cartujano-Barrera F, Kamen C, Hahn AW, Ma J, Kitahata MM, Lober WB, Delaney JA. Approaches to optimally target frailty screening among people with HIV in clinical care: findings from the Centers for AIDS Research Network of Integrated Clinical Systems (CNICS). J Acquir Immune Defic Syndr 2025 Apr 17;",
+    "year": 2025,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 1
+    },
+    "link": "https://doi.org/10.1097/qai.0000000000003688",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee RY, Uyeda AM, Li KS, Sibley J, Cohen T, Lober WB, Dotolo DG, Engelberg RA, Kross EK. Performance of Predefined Search Patterns for Identifying Documented Goals-of-Care Discussions in Inpatient Electronic Health Records. J Palliat Med 2025 Jul;",
+    "year": 2025,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3
+    },
+    "link": "https://doi.org/10.1089/jpm.2024.0496",
+    "in_summary": ""
+  },
+  {
+    "citation": "Participant Preparedness for Lung Transplant Discussions, Self-Efficacy, and Social Support: Baseline Data from LTx READY CF 2. The Journal of Heart and Lung Transplantation. 2025",
+    "year": 2025,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1016/j.healun.2025.02.393",
+    "in_summary": ""
+  },
+  {
+    "citation": "Transforming a Pandemic Tool into a Public Health Asset: A Modified Delphi Study on Exposure Notification (Preprint). 2025",
+    "year": 2025,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.2196/preprints.77763",
+    "in_summary": ""
+  },
+  {
+    "citation": "Tobacco smoking and binge alcohol use are associated with incident venous thromboembolism in an HIV cohort. UNC Libraries. 2025",
+    "year": 2025,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.17615/ne64-2b05",
+    "in_summary": ""
+  },
+  {
+    "citation": "Tobacco Smoking and Pack-Years Are Associated With Frailty Among People With HIV. UNC Libraries. 2025",
+    "year": 2025,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.17615/99zf-6113",
+    "in_summary": ""
+  },
+  {
+    "citation": "Development of Frail RISC-HIV: a Risk Score for Predicting Frailty Risk in the Short-term for Care of People with HIV. UNC Libraries. 2025",
+    "year": 2025,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.17615/w58s-xr07",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sharing Patient Technology Preferences With Dementia Care Networks: The Let\u2019s Talk Tech Decision Aid. Innovation in Aging. 2025",
+    "year": 2025,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1093/geroni/igaf122.1768",
+    "in_summary": ""
+  },
+  {
+    "citation": "Elder AS, Arrouzet CJ, Miljacic L, Karras BT, Higgins A, West LM, Lorigan D, Revere D, Polissar N, Segal CD, Lober WB, Baseman JG. Evaluation of the effectiveness of Washington State's digital COVID-19 exposure notification system over one pandemic year. Front Public Health 2024;",
+    "year": 2024,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2026": 1
+    },
+    "link": "https://doi.org/10.3389/fpubh.2024.1408178",
+    "in_summary": ""
+  },
+  {
+    "citation": "Coburn SB, Pimentel N, Leyden W, Kitahata MM, Moore RD, Althoff KN, Gill MJ, Lang R, Horberg MA, D'Souza G, Hussain SK, Dubrow R, Novak RM, Rabkin CS, Park LS, Sterling TR, Neugebauer RS, Silverberg MJ, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS. Brief Report: Protease Inhibitors Versus Nonnucleoside Reverse Transcriptase Inhibitors and the Risk of Cancer Among People With HIV. J Acquir Immune Defic Syndr 2024 Aug;",
+    "year": 2024,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/39720558/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Drover CM, Elder AS, Guthrie BL, Revere D, Briggs NL, West LM, Higgins A, Lober WB, Karras BT, Baseman JG. Use of Digital COVID-19 Exposure Notifications at a Large Gathering: Survey Analysis of Public Health Conference Attendees. JMIR Form Res 2024 Mar 18;",
+    "year": 2024,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.2196/50716",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Nance RM, Ruderman SA, Haidar L, Tenforde MW, Heckbert SR, Budoff MJ, Hahn AW, Drumright LN, Ma J, Mixson LS, Lober WB, Barnes GS, McReynolds J, Attia EF, Peter I, Moges T, Bamford L, Cachay E, Mathews WC, Christopolous K, Hunt PW, Napravnik S, Keruly J, Moore RD, Burkholder G, Willig AL, Lindstrom S, Whitney BM, Saag MS, Kitahata MM, Crothers KA, Delaney JAC. Venous Thromboembolism Among People With HIV: Design, Implementation, and Findings of a Centralized Adjudication System in Clinical Care Sites Across the United States. J Acquir Immune Defic Syndr 2024 Feb 1;",
+    "year": 2024,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3,
+      "2024": 3
+    },
+    "link": "https://doi.org/10.1097/qai.0000000000003339",
+    "in_summary": ""
+  },
+  {
+    "citation": "Ruderman SA, Odden MC, Webel AR, Fitzpatrick AL, Crane PK, Nance RM, Drumright LN, Whitney BM, Mixson LS, Ma J, Willig AL, Haidar L, Eltonsy S, Mayer KH, O'Cleirigh C, Cropsey KL, Eron JJ, Napravnik S, Greene M, McCaul M, Chander G, Cachay E, Lober WB, Kritchevsky SB, Austad S, Landay A, Pandya C, Cartujano-Barrera F, Saag MS, Kamen C, Hahn AW, Kitahata MM, Delaney JAC, Crane HM. Tobacco Smoking and Pack-Years Are Associated With Frailty Among People With HIV. J Acquir Immune Defic Syndr 2023 Oct 1;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2025": 5,
+      "2024": 1
+    },
+    "link": "https://doi.org/10.1097/qai.0000000000003242",
+    "in_summary": ""
+  },
+  {
+    "citation": "Curtis JR, Lee RY, Brumback LC, Kross EK, Downey L, Torrence J, LeDuc N, Mallon Andrews K, Im J, Heywood J, Brown CE, Sibley J, Lober WB, Cohen T, Weiner BJ, Khandelwal N, Abedini NC, Engelberg RA. Intervention to Promote Communication About Goals of Care for Hospitalized Patients With Serious Illness: A Randomized Clinical Trial. JAMA 2023 Jun 20;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 89,
+    "counts_by_year": {
+      "2026": 12,
+      "2025": 36,
+      "2024": 28,
+      "2023": 13
+    },
+    "link": "https://doi.org/10.1001/jama.2023.8812",
+    "in_summary": ""
+  },
+  {
+    "citation": "Dolan SB, Wittenauer R, Njoroge A, Onyango P, Owiso G, Shearer JC, Lober WB, Liu S, Puttkammer N, Rabinowitz P. Time Utilization Among Immunization Clinics Using an Electronic Immunization Registry (Part 2): Time and Motion Study of Modified User Workflows. JMIR Form Res 2023 Mar 16;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3,
+      "2024": 3,
+      "2023": 1,
+      "2022": 1
+    },
+    "link": "https://doi.org/10.2196/39777",
+    "in_summary": ""
+  },
+  {
+    "citation": "Dolan SB, Wittenauer R, Shearer JC, Njoroge A, Onyango P, Owiso G, Lober WB, Liu S, Puttkammer N, Rabinowitz P. Integration of a Digital Health Intervention Into Immunization Clinic Workflows in Kenya: Qualitative, Realist Evaluation of Technology Usability. JMIR Form Res 2023 Mar 14;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 3,
+      "2024": 1,
+      "2023": 2,
+      "2022": 1
+    },
+    "link": "https://doi.org/10.2196/39775",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berridge C, Turner NR, Liu L, Fredriksen-Goldsen KI, Lyons KS, Demiris G, Kaye J, Lober WB. Preliminary Efficacy of Let's Talk Tech: Technology Use Planning for Dementia Care Dyads. Innov Aging 2023;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 3,
+      "2024": 2,
+      "2023": 1
+    },
+    "link": "https://doi.org/10.1093/geroni/igad018",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee RY, Kross EK, Torrence J, Li KS, Sibley J, Cohen T, Lober WB, Engelberg RA, Curtis JR. Assessment of Natural Language Processing of Electronic Health Records to Measure Goals-of-Care Discussions as a Clinical Trial Outcome. JAMA Netw Open 2023 Mar 1;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 75,
+    "counts_by_year": {
+      "2026": 13,
+      "2025": 28,
+      "2024": 32,
+      "2023": 2
+    },
+    "link": "https://doi.org/10.1001/jamanetworkopen.2023.1204",
+    "in_summary": ""
+  },
+  {
+    "citation": "Drumright LN, Nance RM, Ruderman SA, Ma J, Whitney BM, Hahn A, Fredericksen RJ, Luu B, Lober WB, Moore RD, Budoff MJ, Keruly JC, Christopoulos K, Puryear S, Willig A, Cropsey K, Mathews WC, Cachay E, Bamford L, Eron JJ, Napravnik S, Mayer KH, O'Cleirigh C, Mccaul ME, Chander G, Feinstein MJ, Saag MS, Kitahata MM, Heckbert SR, Crane HM, Delaney JAC. Associations between alcohol and cigarette use and type 1 and 2 myocardial infarction among people with HIV. HIV Med 2023 Jun;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2024": 3,
+      "2023": 1
+    },
+    "link": "https://doi.org/10.1111/hiv.13466",
+    "in_summary": ""
+  },
+  {
+    "citation": "Ruderman SA, Nance RM, Drumright LN, Whitney BM, Hahn AW, Ma J, Haidar L, Eltonsy S, Mayer KH, Eron JJ, Greene M, Mathews WC, Webel A, Saag MS, Willig AL, Kamen C, McCaul M, Chander G, Cachay E, Lober WB, Pandya C, Cartujano-Barrera F, Kritchevsky SB, Austad SN, Landay A, Kitahata MM, Crane HM, Delaney JAC. Development of Frail RISC-HIV: a Risk Score for Predicting Frailty Risk in the Short-term for Care of People with HIV. AIDS 2023 May 1;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 1
+    },
+    "link": "https://doi.org/10.1097/qad.0000000000003501",
+    "in_summary": ""
+  },
+  {
+    "citation": "Ruderman SA, Webel AR, Willig AL, Drumright LN, Fitzpatrick AL, Odden MC, Cleveland JD, Burkholder G, Davey CH, Fleming J, Buford TW, Jones R, Nance RM, Whitney BM, Mixson LS, Hahn AW, Mayer KH, Greene M, Saag MS, Kamen C, Pandya C, Lober WB, Kitahata MM, Crane PK, Crane HM, Delaney JAC. Validity Properties of a Self-reported Modified Frailty Phenotype Among People With HIV in Clinical Care in the United States. J Assoc Nurses AIDS Care 2023 Mar-Apr 01;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 11,
+    "counts_by_year": {
+      "2025": 4,
+      "2024": 3,
+      "2023": 4
+    },
+    "link": "https://doi.org/10.1097/jnc.0000000000000389",
+    "in_summary": ""
+  },
+  {
+    "citation": "Uyeda AM, Lee RY, Pollack LR, Paul SR, Downey L, Brumback LC, Engelberg RA, Sibley J, Lober WB, Cohen T, Torrence J, Kross EK, Curtis JR. Predictors of Documented Goals-of-Care Discussion for Hospitalized Patients With Chronic Illness. J Pain Symptom Manage 2023 Mar;",
+    "year": 2023,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 41,
+    "counts_by_year": {
+      "2026": 10,
+      "2025": 15,
+      "2024": 10,
+      "2023": 6
+    },
+    "link": "https://doi.org/10.1016/j.jpainsymman.2022.11.012",
+    "in_summary": ""
+  },
+  {
+    "citation": "Predictors of Documented Goals-of-Care Discussions for Hospitalized Patients With Chronic Illness. 2023",
+    "year": 2023,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2025": 1
+    },
+    "link": "https://doi.org/10.1164/ajrccm-conference.2023.207.1_meetingabstracts.a2816",
+    "in_summary": ""
+  },
+  {
+    "citation": "A Pragmatic Randomized Trial of the Jumpstart Intervention to Promote Communication About Goals of Care for Hospitalized Patients With Serious Illness. 2023",
+    "year": 2023,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1164/ajrccm-conference.2023.207.1_meetingabstracts.a2836",
+    "in_summary": ""
+  },
+  {
+    "citation": "Timing and Predictors of Documented Goals-of-Care Discussions for Patients With Acute Respiratory Failure Requiring Mechanical Ventilation. 2023",
+    "year": 2023,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1164/ajrccm-conference.2023.207.1_meetingabstracts.a2817",
+    "in_summary": ""
+  },
+  {
+    "citation": "Use of Digital COVID-19 Exposure Notifications at a Large Gathering: Survey Analysis of Public Health Conference Attendees (Preprint). 2023",
+    "year": 2023,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.2196/preprints.50716",
+    "in_summary": ""
+  },
+  {
+    "citation": "Hartzler AL, Bartlett LE, Hobler MR, Reid N, Pryor JB, Kapnadak SG, Berry DL, Lober WB, Goss CH, Ramos KJ, Take on Transplant Study Group. Take on transplant: human-centered design of a patient education tool to facilitate informed discussions about lung transplant among people with cystic fibrosis. J Am Med Inform Assoc 2022 Dec 13;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 3,
+      "2024": 5
+    },
+    "link": "https://doi.org/10.1093/jamia/ocac176",
+    "in_summary": ""
+  },
+  {
+    "citation": "Segal CD, Lober WB, Revere D, Lorigan D, Karras BT, Baseman JG. Trading-off privacy and utility: the Washington State experience assessing the performance of a public health digital exposure notification system for coronavirus disease 2019. J Am Med Inform Assoc 2022 Nov 14;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 3,
+      "2024": 2
+    },
+    "link": "https://doi.org/10.1093/jamia/ocac178",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Ruderman SA, Whitney BM, Nance RM, Drumright LN, Webel AR, Willig AL, Saag MS, Christopoulos K, Greene M, Hahn AW, Eron JJ, Napravnik S, Mathews WC, Chander G, McCaul ME, Cachay ER, Mayer KH, Landay A, Austad S, Ma J, Kritchevsky SB, Pandya C, Achenbach C, Cartujano-Barrera F, Kitahata M, Delaney JA, Kamen C, Centers for AIDS Research Network of Integrated Clinical Systems (CNICS) Cohort Study. Associations between drug and alcohol use, smoking, and frailty among people with HIV across the United States in the current era of antiretroviral treatment. Drug Alcohol Depend 2022 Nov 1;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/36215811/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Dolan SB, Burstein R, Shearer JC, Bulula N, Lyons H, Carnahan E, Beylerian E, Thompson J, Puttkammer N, Lober WB, Liu S, Gilbert SS, Werner L, Ryman TK. Changes in on-time vaccination following the introduction of an electronic immunization registry, Tanzania 2016-2018: interrupted time-series analysis. BMC Health Serv Res 2022 Sep 20;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 18,
+    "counts_by_year": {
+      "2026": 4,
+      "2025": 6,
+      "2024": 6,
+      "2023": 2
+    },
+    "link": "https://doi.org/10.1186/s12913-022-08504-2",
+    "in_summary": ""
+  },
+  {
+    "citation": "Short D, Wang X, Suri S, Hsu TK, Jones B, Fredericksen RJ, Crane HM, Musten A, Bacon J, Wang Y, Gough KA, Ramgopal M, Berry J, Lober WB. Risk Factors for Suboptimal Adherence Identified by Patient-Reported Outcomes Assessments in Routine HIV Care at 2 North American Clinics. Patient Prefer Adherence 2022;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 7,
+      "2023": 1
+    },
+    "link": "https://doi.org/10.2147/ppa.s378335",
+    "in_summary": ""
+  },
+  {
+    "citation": "McGinnis KA, Justice AC, Moore RD, Silverberg MJ, Althoff KN, Karris M, Lima VD, Crane HM, Horberg MA, Klein MB, Gange SJ, Gebo KA, Mayor A, Tate JP, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD)a of the International Epidemiologic Databases to Evaluate AIDS (IeDEA) and Veterans Aging Cohort Study (VACS). Discrimination and Calibration of the Veterans Aging Cohort Study Index 2.0 for Predicting Mortality Among People With Human Immunodeficiency Virus in North America. Clin Infect Dis 2022 Aug 25;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 28,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 8,
+      "2024": 12,
+      "2023": 3,
+      "2022": 2
+    },
+    "link": "https://doi.org/10.1093/cid/ciab883",
+    "in_summary": ""
+  },
+  {
+    "citation": "Dolan S, Wittenauer R, Shearer J, Njoroge A, Onyango P, Owiso G, Lober W, Liu S, Puttkammer N, Rabinowitz P. Integration of a Digital Health Intervention Into Immunization Clinic Workflows in Kenya: Qualitative, Realist Evaluation of Technology Usability (Preprint). 2022 May.",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.2196/preprints.39775",
+    "in_summary": ""
+  },
+  {
+    "citation": "Dolan S, Wittenauer R, Njoroge A, Onyango P, Owiso G, Shearer J, Lober W, Liu S, Puttkammer N, Rabinowitz P. Time Utilization Among Immunization Clinics Using an Electronic Immunization Registry (Part 2): Time and Motion Study of Modified User Workflows (Preprint). 2022 May.",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2022": 1
+    },
+    "link": "https://doi.org/10.2196/preprints.39777",
+    "in_summary": ""
+  },
+  {
+    "citation": "Luu B, Ruderman S, Nance R, Delaney JAC, Ma J, Hahn A, Heckbert SR, Budoff MJ, Crothers K, Mathews WC, Christopolous K, Hunt PW, Eron J, Moore R, Keruly J, Lober WB, Burkholder GA, Willig A, Chander G, McCaul ME, Cropsey K, O'Cleirigh C, Peter I, Feinstein M, Tsui JI, Lindstroem S, Saag M, Kitahata MM, Crane HM, Drumright LN, Whitney BM. Tobacco smoking and binge alcohol use are associated with incident venous thromboembolism in an HIV cohort. HIV Med 2022 Nov;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2025": 2,
+      "2022": 1
+    },
+    "link": "https://doi.org/10.1111/hiv.13309",
+    "in_summary": ""
+  },
+  {
+    "citation": "Uyeda AM, Curtis JR, Engelberg RA, Brumback LC, Guo Y, Sibley J, Lober WB, Cohen T, Torrence J, Heywood J, Paul SR, Kross EK, Lee RY. Mixed-methods evaluation of three natural language processing modeling approaches for measuring documented goals-of-care discussions in the electronic health record. J Pain Symptom Manage 2022 Jun;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 21,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 9,
+      "2024": 3,
+      "2023": 3,
+      "2022": 4
+    },
+    "link": "https://doi.org/10.1016/j.jpainsymman.2022.02.006",
+    "in_summary": ""
+  },
+  {
+    "citation": "Short D, Fredericksen RJ, Crane HM, Fitzsimmons E, Suri S, Bacon J, Musten A, Gough K, Ramgopal M, Berry J, McReynolds J, Kroch A, Jacobs B, Hodge V, Korlipara D, Lober W. Utility and Impact of the Implementation of Same-Day, Self-administered Electronic Patient-Reported Outcomes Assessments in Routine HIV Care in two North American Clinics. AIDS Behav 2022 Jul;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 25,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 5,
+      "2024": 6,
+      "2023": 11,
+      "2022": 2
+    },
+    "link": "https://doi.org/10.1007/s10461-022-03585-w",
+    "in_summary": ""
+  },
+  {
+    "citation": "Suri S, Yoong D, Short D, Tan DH, Naccarato M, Crane HM, Musten A, Fredericksen RJ, Lober WB, Gough K. Feasibility of implementing a same-day electronic screening tool for clinical assessment to measure patient-reported outcomes for eliciting actionable information on adherence to HIV medication and related factors in a busy Canadian urban HIV clinic. Int J STD AIDS 2022 Mar;",
+    "year": 2022,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 14,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3,
+      "2024": 3,
+      "2023": 2,
+      "2022": 4
+    },
+    "link": "https://doi.org/10.1177/09564624211032796",
+    "in_summary": ""
+  },
+  {
+    "citation": "Howell K, Barnes M, Randall Curtis J, Engelberg R, Lee R, Lober W, Sibley J, Cohen T. Studies in Computational Intelligence\n              \n                [Internet] 2021.",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "",
+    "in_summary": ""
+  },
+  {
+    "citation": "Michaels M, Syed S, Lober WB. Blueprint for aligned data exchange for research and public health. J Am Med Inform Assoc 2021 Nov 25;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 1,
+      "2024": 2,
+      "2023": 6,
+      "2022": 3
+    },
+    "link": "https://doi.org/10.1093/jamia/ocab210",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee JS, Humes EA, Hogan BC, Buchacz K, Eron JJ, Gill MJ, Sterling TR, Rebeiro PF, Lima VD, Mayor A, Silverberg MJ, Horberg MA, Moore RD, Althoff KN, North American AIDS Cohort Collaboration on Research and Design. CD4 Count at Entry into Care and at Antiretroviral Therapy Prescription among Adults with Human Immunodeficiency Virus in the United States, 2005-2018. Clin Infect Dis 2021 Oct 5;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 2,
+      "2024": 1,
+      "2023": 3,
+      "2021": 3
+    },
+    "link": "https://doi.org/10.1093/cid/ciaa1904",
+    "in_summary": ""
+  },
+  {
+    "citation": "Castilho J, Bian A, Jenkins C, Shepherd B, Sigel K, Gill M, Kitahata M, Silverberg M, Mayor A, Coburn S, Wiley D, Achenbach C, Marconi V, Bosch R, Horberg M, Rabkin C, Napravnik S, Novak R, Mathews W, Thorne J, Sun J, Althoff K, Moore R, Sterling T, Sudenga S. Low CD4/CD8 ratio predicts cancer risk among adults with HIV. 2021 July.",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "",
+    "in_summary": ""
+  },
+  {
+    "citation": "Davy-Mendez T, Napravnik S, Hogan BC, Althoff KN, Gebo KA, Moore RD, Horberg MA, Silverberg MJ, Gill MJ, Crane HM, Marconi VC, Bosch RJ, Colasanti JA, Sterling TR, Mathews WC, Mayor AM, Nanditha NGA, Buchacz K, Li J, Rebeiro PF, Thorne JE, Nijhawan A, van Duin D, Wohl DA, Eron JJ, Berry SA, North American AIDS Cohort Collaboration on Research and Design of IeDEA. Hospitalization Rates and Causes Among Persons With HIV in the United States and Canada, 2005-2015. J Infect Dis 2021 Jun 15;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 35,
+    "counts_by_year": {
+      "2026": 6,
+      "2025": 9,
+      "2024": 8,
+      "2023": 4,
+      "2022": 5,
+      "2021": 2,
+      "2020": 1
+    },
+    "link": "https://doi.org/10.1093/infdis/jiaa661",
+    "in_summary": ""
+  },
+  {
+    "citation": "Chen T, Baseman J, Lober WB, Revere D, Hills R, Klemfuss N, Karras BT. WA Notify: the planning and implementation of a Bluetooth exposure notification tool for COVID-19 pandemic response in Washington State. Online J Public Health Inform 2021;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 11,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 4,
+      "2023": 1,
+      "2022": 4,
+      "2021": 1
+    },
+    "link": "https://doi.org/10.5210/ojphi.v13i1.11694",
+    "in_summary": ""
+  },
+  {
+    "citation": "Coburn SB, Shiels MS, Silverberg MJ, Horberg MA, Gill MJ, Brown TT, Visvanathan K, Connor AE, Napravnik S, Marcus JL, Moore RD, Mathews WC, Mayor AM, Sterling TR, Li J, Rabkin CS, D'Souza G, Lau B, Althoff KN, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of the International Epidemiology Databases to Evaluate AIDS. Secular Trends in Breast Cancer Risk Among Women With HIV Initiating ART in North America. J Acquir Immune Defic Syndr 2021 May 1;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/33492023/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Nance RM, Avoundjian T, Harding BN, Whitney BM, Chow FC, Becker KJ, Marra CM, Zunt JR, Ho EL, Kalani R, Huffer A, Burkholder GA, Willig AL, Moore RD, Mathews WC, Eron JJ, Napravnik S, Lober WB, Barnes GS, McReynolds J, Feinstein MJ, Heckbert SR, Saag MS, Kitahata MM, Delaney JAC, Tirschwell DL. Types of Stroke Among People Living With HIV in the United States. J Acquir Immune Defic Syndr 2021 Apr 15;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 15,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 2,
+      "2024": 4,
+      "2023": 3,
+      "2022": 2,
+      "2021": 2
+    },
+    "link": "https://doi.org/10.1097/qai.0000000000002598",
+    "in_summary": ""
+  },
+  {
+    "citation": "Burkhardt HA, Brandt PS, Lee JR, Karras SW, Bugni PF, Cvitkovic I, Chen AY, Lober WB. StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool. Online J Public Health Inform 2021;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 1,
+      "2024": 3,
+      "2023": 4,
+      "2022": 2,
+      "2021": 1
+    },
+    "link": "https://doi.org/10.5210/ojphi.v13i1.11462",
+    "in_summary": ""
+  },
+  {
+    "citation": "Austin EJ, LeRouge C, Lee JR, Segal C, Sangameswaran S, Heim J, Lober WB, Hartzler AL, Lavallee DC. A learning health systems approach to integrating electronic patient-reported outcomes across the health care organization. Learn Health Syst 2021 Oct;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 27,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 3,
+      "2024": 14,
+      "2023": 3,
+      "2022": 4,
+      "2021": 1
+    },
+    "link": "https://doi.org/10.1002/lrh2.10263",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Nance RM, Whitney BM, Ruderman S, Tsui JI, Chander G, McCaul ME, Lau B, Mayer KH, Batey DS, Safren SA, Moore RD, Eron JJ, Napravnik S, Mathews WC, Fredericksen RJ, Hahn AW, Mugavero MJ, Lober WB, Saag MS, Kitahata MM, Delaney JAC. Drug and alcohol use among people living with HIV in care in the United States by geographic region. AIDS Care 2021 Dec;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 31,
+    "counts_by_year": {
+      "2026": 5,
+      "2025": 7,
+      "2024": 8,
+      "2023": 2,
+      "2022": 5,
+      "2021": 4
+    },
+    "link": "https://doi.org/10.1080/09540121.2021.1874274",
+    "in_summary": ""
+  },
+  {
+    "citation": "Davy-Mendez T, Napravnik S, Eron JJ, Cole SR, van Duin D, Wohl DA, Hogan BC, Althoff KN, Gebo KA, Moore RD, Silverberg MJ, Horberg MA, Gill MJ, Mathews WC, Klein MB, Colasanti JA, Sterling TR, Mayor AM, Rebeiro PF, Buchacz K, Li J, Nanditha NGA, Thorne JE, Nijhawan A, Berry SA, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of the International Epidemiology Databases to Evaluate AIDS (IeDEA). Current and Past Immunodeficiency Are Associated With Higher Hospitalization Rates Among Persons on Virologically Suppressive Antiretroviral Therapy for up to 11 Years. J Infect Dis 2021 Aug 16;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2026": 2,
+      "2023": 1,
+      "2022": 1,
+      "2021": 1
+    },
+    "link": "https://doi.org/10.1093/infdis/jiaa786",
+    "in_summary": ""
+  },
+  {
+    "citation": "Fredericksen RJ, Harding BN, Ruderman SA, McReynolds J, Barnes G, Lober WB, Fitzsimmons E, Nance RM, Whitney BM, Delaney JAC, Mathews WC, Willig J, Crane PK, Crane HM. Patient acceptability and usability of a self-administered electronic patient-reported outcome assessment in HIV care: relationship with health behaviors and outcomes. AIDS Care 2021 Sep;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 20,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 2,
+      "2024": 8,
+      "2023": 3,
+      "2022": 4,
+      "2021": 1
+    },
+    "link": "https://doi.org/10.1080/09540121.2020.1845288",
+    "in_summary": ""
+  },
+  {
+    "citation": "McDermott CL, Engelberg RA, Khandelwal N, Steiner JM, Feemster LC, Sibley J, Lober WB, Curtis JR. The Association of Advance Care Planning Documentation and End-of-Life Healthcare Use Among Patients With Multimorbidity. Am J Hosp Palliat Care 2021 Aug;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 3,
+      "2024": 5,
+      "2023": 3,
+      "2022": 1
+    },
+    "link": "https://doi.org/10.1177/1049909120968527",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee RY, Brumback LC, Lober WB, Sibley J, Nielsen EL, Treece PD, Kross EK, Loggers ET, Fausto JA, Lindvall C, Engelberg RA, Curtis JR. Identifying Goals of Care Conversations in the Electronic Health Record Using Natural Language Processing and Machine Learning. J Pain Symptom Manage 2021 Jan;",
+    "year": 2021,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 81,
+    "counts_by_year": {
+      "2026": 10,
+      "2025": 21,
+      "2024": 18,
+      "2023": 11,
+      "2022": 11,
+      "2021": 8,
+      "2020": 2
+    },
+    "link": "https://doi.org/10.1016/j.jpainsymman.2020.08.024",
+    "in_summary": ""
+  },
+  {
+    "citation": "Loo S, Grasso C, Glushkina J, McReynolds J, Lober W, Crane H, Mayer KH. Capturing Relevant Patient Data in Clinical Encounters Through Integration of an Electronic Patient-Reported Outcome System Into Routine Primary Care in a Boston Community Health Center: Development and Implementation Study. J Med Internet Res 2020 Aug 19;",
+    "year": 2020,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2026": 1,
+      "2023": 4,
+      "2022": 1,
+      "2021": 1,
+      "2020": 1
+    },
+    "link": "https://doi.org/10.2196/16778",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lordon RJ, Mikles SP, Kneale L, Evans HL, Munson SA, Backonja U, Lober WB. How patient-generated health data and patient-reported outcomes affect patient-clinician relationships: A systematic review. Health Informatics J 2020 Dec;",
+    "year": 2020,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 96,
+    "counts_by_year": {
+      "2026": 7,
+      "2025": 20,
+      "2024": 16,
+      "2023": 25,
+      "2022": 15,
+      "2021": 12,
+      "2020": 1
+    },
+    "link": "https://doi.org/10.1177/1460458220928184",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee RY, Brumback LC, Sathitratanacheewin S, Lober WB, Modes ME, Lynch YT, Ambrose CI, Sibley J, Vranas KC, Sullivan DR, Engelberg RA, Curtis JR, Kross EK. Association of Physician Orders for Life-Sustaining Treatment With ICU Admission Among Patients Hospitalized Near the End of Life. JAMA 2020 Mar 10;",
+    "year": 2020,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 121,
+    "counts_by_year": {
+      "2026": 4,
+      "2025": 10,
+      "2024": 21,
+      "2023": 17,
+      "2022": 16,
+      "2021": 32,
+      "2020": 21
+    },
+    "link": "https://doi.org/10.1001/jama.2019.22523",
+    "in_summary": ""
+  },
+  {
+    "citation": "Hern\u00e1ndez-Ram\u00edrez RU, Qin L, Lin H, Leyden W, Neugebauer RS, Althoff KN, Hessol NA, Achenbach CJ, Brooks JT, Gill MJ, Grover S, Horberg MA, Li J, Mathews WC, Mayor AM, Patel P, Rabkin CS, Rachlis A, Justice AC, Moore RD, Engels EA, Silverberg MJ, Dubrow R, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS. Association of Immunosuppression and Human Immunodeficiency Virus (HIV) Viremia With Anal Cancer Risk in Persons Living With HIV in the United States and Canada. Clin Infect Dis 2020 Mar 3;",
+    "year": 2020,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 40,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 4,
+      "2024": 8,
+      "2023": 8,
+      "2022": 6,
+      "2021": 6,
+      "2020": 6,
+      "2019": 1
+    },
+    "link": "https://doi.org/10.1093/cid/ciz329",
+    "in_summary": ""
+  },
+  {
+    "citation": "Controlling for Confounding Variables: Accounting for Dataset Bias in Classifying Patient-Provider Interactions. Studies in computational intelligence. 2020",
+    "year": 2020,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2025": 1,
+      "2022": 1,
+      "2020": 2
+    },
+    "link": "https://doi.org/10.1007/978-3-030-53352-6_25",
+    "in_summary": ""
+  },
+  {
+    "citation": "Types of Myocardial Infarction Among Human Immunodeficiency Virus\u2013Infected Individuals in the United States. UNC Libraries. 2020",
+    "year": 2020,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.17615/gz50-8787",
+    "in_summary": ""
+  },
+  {
+    "citation": "Loo S, Grasso C, Glushkina J, McReynolds J, Lober W, Crane H, Mayer K. Capturing Relevant Patient Data in Clinical Encounters Through Integration of an Electronic Patient-Reported Outcome System Into Routine Primary Care in a Boston Community Health Center: Development and Implementation Study (Preprint). 2019 October.",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.2196/preprints.16778",
+    "in_summary": ""
+  },
+  {
+    "citation": "Tolins ML, Hippe DS, Morse SC, Evans HL, Lober WB, Vrablik MC. Wound Care Follow-Up From the Emergency Department Using a Mobile Application: A Pilot Study. J Emerg Med 2019 Nov;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 18,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 3,
+      "2024": 1,
+      "2023": 5,
+      "2022": 3,
+      "2021": 2,
+      "2020": 3
+    },
+    "link": "https://doi.org/10.1016/j.jemermed.2019.07.017",
+    "in_summary": ""
+  },
+  {
+    "citation": "Chernetsky Tejedor S, Sharma J, Lavallee DC, Lober WB, Evans HL. Identification of Important Features in Mobile Health Applications for Surgical Site Infection Surveillance. Surg Infect (Larchmt) 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 1,
+      "2024": 1,
+      "2023": 3,
+      "2021": 5,
+      "2020": 1
+    },
+    "link": "https://doi.org/10.1089/sur.2019.155",
+    "in_summary": ""
+  },
+  {
+    "citation": "Samareh A, Chang X, Lober WB, Evans HL, Wang Z, Qian X, Huang S. Artificial Intelligence Methods for Surgical Site Infection: Impacts on Detection, Monitoring, and Decision Making. Surg Infect (Larchmt) 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 16,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 1,
+      "2024": 3,
+      "2023": 4,
+      "2021": 4,
+      "2020": 2
+    },
+    "link": "https://doi.org/10.1089/sur.2019.150",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lavallee DC, Lee JR, Semple JL, Lober WB, Evans HL. Engaging Patients in Co-Design of Mobile Health Tools for Surgical Site Infection Surveillance: Implications for Research and Implementation. Surg Infect (Larchmt) 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 29,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 5,
+      "2024": 2,
+      "2023": 12,
+      "2022": 4,
+      "2021": 3,
+      "2020": 1
+    },
+    "link": "https://doi.org/10.1089/sur.2019.148",
+    "in_summary": ""
+  },
+  {
+    "citation": "Semple JL, Evans HL, Lober WB, Lavallee DC. Implementing Mobile Health Interventions to Capture Post-Operative Patient-Generated Health Data. Surg Infect (Larchmt) 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 10,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 1,
+      "2023": 1,
+      "2022": 2,
+      "2020": 4
+    },
+    "link": "https://doi.org/10.1089/sur.2019.151",
+    "in_summary": ""
+  },
+  {
+    "citation": "Jiang Z, Ardywibowo R, Samereh A, Evans HL, Lober WB, Chang X, Qian X, Wang Z, Huang S. A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images. Surg Infect (Larchmt) 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 21,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 7,
+      "2022": 3,
+      "2021": 7,
+      "2020": 1
+    },
+    "link": "https://doi.org/10.1089/sur.2019.154",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Evans HL. Patient-Generated Health Data in Surgical Site Infection: Changing Clinical Workflow and Care Delivery. Surg Infect (Larchmt) 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2023": 4,
+      "2022": 1,
+      "2021": 1,
+      "2020": 4
+    },
+    "link": "https://doi.org/10.1089/sur.2019.195",
+    "in_summary": ""
+  },
+  {
+    "citation": "Feinstein MJ, Nance RM, Delaney JAC, Heckbert SR, Budoff MJ, Drozd DR, Burkholder GA, Willig JH, Mugavero MJ, Mathews WC, Moore RD, Eron JJ, Napravnik S, Hunt PW, Geng E, Hsue P, Peter I, Lober WB, Crothers K, Grunfeld C, Saag MS, Kitahata MM, Lloyd-Jones DM, Crane HM. Mortality following myocardial infarction among HIV-infected persons: the Center for AIDS Research Network Of Integrated Clinical Systems (CNICS). BMC Med 2019 Jul 31;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 33,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 7,
+      "2024": 4,
+      "2023": 4,
+      "2022": 6,
+      "2021": 5,
+      "2020": 6
+    },
+    "link": "https://doi.org/10.1186/s12916-019-1385-7",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lee JR, Evans HL, Lober WB, Lavallee DC, ASSIST Investigators. A Stakeholder-Driven Framework for Evaluating Surgical Site Infection Surveillance Technologies. Surg Infect (Larchmt) 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2023": 1,
+      "2021": 1,
+      "2020": 2
+    },
+    "link": "https://doi.org/10.1089/sur.2019.146",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kim J, Engelberg RA, Downey L, Lee RY, Powelson E, Sibley J, Lober WB, Curtis JR, Khandelwal N. Predictors of Advance Care Planning Documentation in Patients With Underlying Chronic Illness Who Died of Traumatic Injury. J Pain Symptom Manage 2019 Nov;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2023": 2,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2
+    },
+    "link": "https://doi.org/10.1016/j.jpainsymman.2019.07.015",
+    "in_summary": ""
+  },
+  {
+    "citation": "Evans HL, ASSIST Investigators. Executive Summary of the Assessing Surgical Site Infection Surveillance Technologies (ASSIST) Project. Surg Infect (Larchmt) 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2024": 2,
+      "2023": 3,
+      "2021": 2,
+      "2020": 2
+    },
+    "link": "https://doi.org/10.1089/sur.2019.171",
+    "in_summary": ""
+  },
+  {
+    "citation": "Wagner E, Patrick DL, Khandelwal N, Brumback L, Starks H, Fausto J, Dunlap BS, Lober W, Sibley J, Loggers ET, Curtis JR, Engelberg RA. The Influence of Multimorbidity on Health Care Utilization at the End of Life for Patients with Chronic Conditions. J Palliat Med 2019 Oct;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 21,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 5,
+      "2024": 1,
+      "2023": 2,
+      "2022": 5,
+      "2021": 5,
+      "2020": 2
+    },
+    "link": "https://doi.org/10.1089/jpm.2018.0349",
+    "in_summary": ""
+  },
+  {
+    "citation": "Hern\u00e1ndez-Ram\u00edrez RU, Qin L, Lin H, Leyden W, Neugebauer RS, Althoff KN, Achenbach CJ, Hessol NA, D'Souza G, Gebo KA, Gill MJ, Grover S, Horberg MA, Li J, Mathews WC, Mayor AM, Park LS, Rabkin CS, Salters K, Justice AC, Moore RD, Engels EA, Silverberg MJ, Dubrow R, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS. Association of immunosuppression and HIV viraemia with non-Hodgkin lymphoma risk overall and by subtype in people living with HIV in Canada and the USA: a multicentre cohort study. Lancet HIV 2019 Apr;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 65,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 10,
+      "2024": 5,
+      "2023": 7,
+      "2022": 13,
+      "2021": 16,
+      "2020": 9,
+      "2019": 3
+    },
+    "link": "https://doi.org/10.1016/s2352-3018(18)30360-6",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kummerow Broman K, Gaskill CE, Faqih A, Feng M, Phillips SE, Lober WB, Pierce RA, Holzman MD, Evans HL, Poulose BK. Evaluation of Wound Photography for Remote Postoperative Assessment of Surgical Site Infections. JAMA Surg 2019 Feb 1;",
+    "year": 2019,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 54,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 10,
+      "2024": 2,
+      "2023": 7,
+      "2022": 10,
+      "2021": 9,
+      "2020": 7,
+      "2019": 7,
+      "2018": 1
+    },
+    "link": "https://doi.org/10.1001/jamasurg.2018.3861",
+    "in_summary": ""
+  },
+  {
+    "citation": "Identifying Goals-of-Care Conversations in the Electronic Health Record Using Machine Learning and Natural Language Processing. 2019",
+    "year": 2019,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2024": 2,
+      "2021": 2,
+      "2020": 5
+    },
+    "link": "https://doi.org/10.1164/ajrccm-conference.2019.199.1_meetingabstracts.a1089",
+    "in_summary": ""
+  },
+  {
+    "citation": "Iribarren S, Demiris G, Lober B, Chirico C. What Do Patients and Experts Want in a Smartphone-Based Application to Support Tuberculosis Treatment Completion?. Stud Health Technol Inform 2018;",
+    "year": 2018,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "http://knowledge.amia.org/67852-amia-1.4259402/t007-1.4262189/t007-1.4262190/2974026-1.4262848/2976344-1.4262845",
+    "in_summary": ""
+  },
+  {
+    "citation": "Brown CE, Engelberg RA, Sharma R, Downey L, Fausto JA, Sibley J, Lober W, Khandelwal N, Loggers ET, Curtis JR. Race/Ethnicity, Socioeconomic Status, and Healthcare Intensity at the End of Life. J Palliat Med 2018 Sep;",
+    "year": 2018,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 98,
+    "counts_by_year": {
+      "2026": 5,
+      "2025": 10,
+      "2024": 18,
+      "2023": 17,
+      "2022": 15,
+      "2021": 17,
+      "2020": 8,
+      "2019": 7
+    },
+    "link": "https://doi.org/10.1089/jpm.2018.0011",
+    "in_summary": ""
+  },
+  {
+    "citation": "Fredericksen RJ, Mayer KH, Gibbons LE, Edwards TC, Yang FM, Walcott M, Brown S, Dant L, Loo S, Gutierrez C, Paez E, Fitzsimmons E, Wu AW, Mugavero MJ, Mathews WC, Lober WB, Kitahata MM, Patrick DL, Crane PK, Crane HM. Development and Content Validation of a Patient-Reported Sexual Risk Measure for Use in Primary Care. J Gen Intern Med 2018 Oct;",
+    "year": 2018,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 1,
+      "2024": 1,
+      "2023": 1,
+      "2022": 3,
+      "2021": 3,
+      "2018": 2
+    },
+    "link": "https://doi.org/10.1007/s11606-018-4496-5",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sullivan M, Langford DJ, Davies PS, Tran C, Vilardaga R, Cheung G, Yoo D, McReynolds J, Lober WB, Tauben D, Vowles KE. A Controlled Pilot Trial of PainTracker Self-Manager, a Web-Based Platform Combined With Patient Coaching, to Support Patients' Self-Management of Chronic Pain. J Pain 2018 Sep;",
+    "year": 2018,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 29,
+    "counts_by_year": {
+      "2026": 2,
+      "2024": 8,
+      "2023": 4,
+      "2022": 2,
+      "2021": 6,
+      "2020": 4,
+      "2019": 1,
+      "2018": 2
+    },
+    "link": "https://doi.org/10.1016/j.jpain.2018.03.009",
+    "in_summary": ""
+  },
+  {
+    "citation": "Curtis JR, Sathitratanacheewin S, Starks H, Lee RY, Kross EK, Downey L, Sibley J, Lober W, Loggers ET, Fausto JA, Lindvall C, Engelberg RA. Using Electronic Health Records for Quality Measurement and Accountability in Care of the Seriously Ill: Opportunities and Challenges. J Palliat Med 2018 Mar;",
+    "year": 2018,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 91,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 5,
+      "2024": 25,
+      "2023": 7,
+      "2022": 11,
+      "2021": 13,
+      "2020": 16,
+      "2019": 7,
+      "2018": 4,
+      "2017": 1
+    },
+    "link": "https://doi.org/10.1089/jpm.2017.0542",
+    "in_summary": ""
+  },
+  {
+    "citation": "Hicks K, Downey L, Engelberg RA, Fausto JA, Starks H, Dunlap B, Sibley J, Lober W, Khandelwal N, Loggers ET, Curtis JR. Predictors of Death in the Hospital for Patients with Chronic Serious Illness. J Palliat Med 2018 Mar;",
+    "year": 2018,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2025": 1,
+      "2023": 2,
+      "2022": 2,
+      "2020": 1,
+      "2019": 1,
+      "2017": 2
+    },
+    "link": "https://doi.org/10.1089/jpm.2017.0127",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sathitratanacheewin S, Engelberg RA, Downey L, Lee RY, Fausto JA, Starks H, Dunlap B, Sibley J, Lober W, Loggers ET, Khandelwal N, Curtis JR. Temporal Trends Between 2010 and 2015 in Intensity of Care at End-of-Life for Patients With Chronic Illness: Influence of Age Under vs. Over 65\u00a0Years. J Pain Symptom Manage 2018 Jan;",
+    "year": 2018,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2024": 1,
+      "2023": 2,
+      "2022": 3,
+      "2021": 2,
+      "2020": 2,
+      "2019": 1,
+      "2017": 1
+    },
+    "link": "https://doi.org/10.1016/j.jpainsymman.2017.08.032",
+    "in_summary": ""
+  },
+  {
+    "citation": "Steiner JM, Kirkpatrick JN, Heckbert SR, Habib A, Sibley J, Lober W, Randall Curtis J. Identification of adults with congenital heart disease of moderate or great complexity from administrative data. Congenit Heart Dis 2018 Jan;",
+    "year": 2018,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 27,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 1,
+      "2023": 7,
+      "2022": 7,
+      "2021": 5,
+      "2020": 3,
+      "2018": 1,
+      "2017": 1
+    },
+    "link": "https://doi.org/10.1111/chd.12524",
+    "in_summary": ""
+  },
+  {
+    "citation": "One Size Fits (n)One: The Influence of Sex, Age, and Sexual Human Immunodeficiency Virus (HIV) Acquisition Risk on Racial/Ethnic Disparities in the HIV Care Continuum in the United States. Clinical Infectious Diseases. 2018",
+    "year": 2018,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 20,
+    "counts_by_year": {
+      "2026": 1,
+      "2024": 5,
+      "2023": 2,
+      "2022": 2,
+      "2021": 6,
+      "2020": 3,
+      "2019": 1
+    },
+    "link": "https://doi.org/10.1093/cid/ciy556",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sanger PC, Granich M, Olsen-Scribner R, Jain R, Lober WB, Stapleton A, Pottinger PS. Electronic Surveillance For Catheter-Associated Urinary Tract Infection Using Natural Language Processing. AMIA Annu Symp Proc 2017;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 3,
+      "2023": 1,
+      "2022": 1,
+      "2021": 2,
+      "2020": 2,
+      "2019": 1,
+      "2018": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/29854220",
+    "in_summary": ""
+  },
+  {
+    "citation": "Mikles SP, Wiltz JL, Reed-Fourquet L, Painter IS, Lober WB. Utilizing Standard Data Transactions and Public-Private Partnerships to Support Healthy Weight Within the Community. EGEMS (Wash DC) 2017 Dec 6;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.5334/egems.242",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Crane PK, Tufano JT, Ralston JD, Wilson IB, Brown TD, Davis TE, Smith LF, Lober WB, McReynolds J, Dhanireddy S, Harrington RD, Rodriguez CV, Nance RM, Delaney JAC, Safren SA, Kitahata MM, Fredericksen RJ. HIV Provider Documentation and Actions Following Patient Reports of At-risk Behaviors and Conditions When Identified by a Web-Based Point-of-Care Assessment. AIDS Behav 2017 Nov;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 35,
+    "counts_by_year": {
+      "2025": 3,
+      "2024": 7,
+      "2023": 5,
+      "2022": 7,
+      "2021": 4,
+      "2020": 1,
+      "2019": 4,
+      "2018": 3,
+      "2017": 1
+    },
+    "link": "https://doi.org/10.1007/s10461-017-1718-5",
+    "in_summary": ""
+  },
+  {
+    "citation": "Engels EA, Yanik EL, Wheeler W, Gill MJ, Shiels MS, Dubrow R, Althoff KN, Silverberg MJ, Brooks JT, Kitahata MM, Goedert JJ, Grover S, Mayor AM, Moore RD, Park LS, Rachlis A, Sigel K, Sterling TR, Thorne JE, Pfeiffer RM, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS. Cancer-Attributable Mortality Among People With Treated Human Immunodeficiency Virus Infection in North America. Clin Infect Dis 2017 Aug 15;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 89,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 6,
+      "2024": 12,
+      "2023": 11,
+      "2022": 10,
+      "2021": 13,
+      "2020": 13,
+      "2019": 13,
+      "2018": 8
+    },
+    "link": "https://doi.org/10.1093/cid/cix392",
+    "in_summary": ""
+  },
+  {
+    "citation": "Huang Y, Meng Q, Evans H, Lober W, Cheng Y, Qian X, Liu J, Huang S. CHI: A contemporaneous health index for degenerative disease monitoring using longitudinal measurements. J Biomed Inform 2017 Sep;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2023": 1,
+      "2019": 4,
+      "2018": 1
+    },
+    "link": "https://doi.org/10.1016/j.jbi.2017.07.003",
+    "in_summary": ""
+  },
+  {
+    "citation": "Evans HL, Lober WB. A Pilot Use of Patient-Generated Wound Data to Improve Postdischarge Surgical Site Infection Monitoring. JAMA Surg 2017 Jun 1;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 32,
+    "counts_by_year": {
+      "2025": 3,
+      "2024": 2,
+      "2023": 4,
+      "2022": 5,
+      "2021": 2,
+      "2020": 5,
+      "2019": 6,
+      "2018": 2,
+      "2017": 3
+    },
+    "link": "https://doi.org/10.1001/jamasurg.2017.0568",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lavin K, Davydow DS, Downey L, Engelberg RA, Dunlap B, Sibley J, Lober WB, Okimoto K, Khandelwal N, Loggers ET, Teno JM, Curtis JR. Effect of Psychiatric Illness on Acute Care Utilization at End of Life From Serious Medical Illness. J Pain Symptom Manage 2017 Aug;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 33,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 4,
+      "2024": 1,
+      "2023": 6,
+      "2022": 6,
+      "2021": 2,
+      "2020": 5,
+      "2019": 3,
+      "2018": 3,
+      "2017": 2
+    },
+    "link": "https://doi.org/10.1016/j.jpainsymman.2017.04.003",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Paramsothy P, Drozd DR, Nance RM, Delaney JA, Heckbert SR, Budoff MJ, Burkholder GA, Willig JH, Mugavero MJ, Mathews WC, Crane PK, Moore RD, Eron JJ, Napravnik S, Hunt PW, Geng E, Hsue P, Rodriguez C, Peter I, Barnes GS, McReynolds J, Lober WB, Crothers K, Feinstein MJ, Grunfeld C, Saag MS, Kitahata MM, Centers for AIDS Research Network of Integrated Clinical Systems (CNICS) Cohort. Types of Myocardial Infarction Among Human Immunodeficiency Virus-Infected Individuals in the United States. JAMA Cardiol 2017 Mar 1;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 72,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 4,
+      "2024": 4,
+      "2023": 12,
+      "2022": 7,
+      "2021": 6,
+      "2020": 7,
+      "2019": 9,
+      "2018": 10,
+      "2017": 10
+    },
+    "link": "https://doi.org/10.1001/jamacardio.2016.5139",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Nance RM, Delaney JA, Fredericksen RJ, Church A, Simoni JM, Harrington RD, Dhanireddy S, Safren SA, McCaul ME, Lober WB, Crane PK, Wilson IB, Mugavero MJ, Kitahata MM. A Comparison of Adherence Timeframes Using Missed Dose Items and Their Associations with Viral Load in Routine Clinical Care: Is Longer Better?. AIDS Behav 2017 Feb;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 11,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 1,
+      "2022": 1,
+      "2021": 1,
+      "2020": 3,
+      "2019": 1,
+      "2018": 2
+    },
+    "link": "https://doi.org/10.1007/s10461-016-1566-8",
+    "in_summary": ""
+  },
+  {
+    "citation": "Ke C, Jin Y, Evans H, Lober B, Qian X, Liu J, Huang S. Prognostics of surgical site infections using dynamic health data. J Biomed Inform 2017 Jan;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/27825798/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sanger PC, Simianu VV, Gaskill CE, Armstrong CA, Hartzler AL, Lordon RJ, Lober WB, Evans HL. Diagnosing Surgical Site Infection Using Wound Photography: A Scenario-Based Study. J Am Coll Surg 2017 Jan;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 45,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 4,
+      "2024": 6,
+      "2023": 6,
+      "2022": 4,
+      "2021": 7,
+      "2020": 8,
+      "2019": 4,
+      "2018": 4,
+      "2017": 1
+    },
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2016.10.027",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kang'a S, Puttkammer N, Wanyee S, Kimanga D, Madrano J, Muthee V, Odawo P, Sharma A, Oluoch T, Robinson K, Kwach J, Lober WB. A national standards-based assessment on functionality of electronic medical records systems used in Kenyan public-Sector health facilities. Int J Med Inform 2017 Jan;",
+    "year": 2017,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 34,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2023": 4,
+      "2022": 3,
+      "2021": 8,
+      "2020": 9,
+      "2019": 3,
+      "2018": 2,
+      "2017": 3
+    },
+    "link": "https://doi.org/10.1016/j.ijmedinf.2016.09.013",
+    "in_summary": ""
+  },
+  {
+    "citation": "Comparison of Kaposi Sarcoma Risk in Human Immunodeficiency Virus-Positive Adults Across 5 Continents: A Multiregional Multicohort Study. Clinical Infectious Diseases. 2017",
+    "year": 2017,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 62,
+    "counts_by_year": {
+      "2026": 4,
+      "2025": 6,
+      "2024": 3,
+      "2023": 14,
+      "2022": 10,
+      "2021": 9,
+      "2020": 9,
+      "2019": 3,
+      "2018": 3,
+      "2017": 1
+    },
+    "link": "https://doi.org/10.1093/cid/cix480",
+    "in_summary": ""
+  },
+  {
+    "citation": "Use of the Mobile Post-Operative Wound Evaluator in the Management of Deep Surgical Site Infection after Abdominal Wall Reconstruction. Surgical Infections Case Reports. 2017",
+    "year": 2017,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 1,
+      "2023": 3,
+      "2022": 1,
+      "2021": 3,
+      "2020": 1,
+      "2019": 2
+    },
+    "link": "https://doi.org/10.1089/crsi.2017.0022",
+    "in_summary": ""
+  },
+  {
+    "citation": "Implementation of an mHealth Postoperative Wound Management Program. Journal of the American College of Surgeons. 2017",
+    "year": 2017,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2022": 1,
+      "2019": 1
+    },
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2017.07.761",
+    "in_summary": ""
+  },
+  {
+    "citation": "Enabling Collaboration for Building High Quality, Sustainable and Scalable National Health Information Systems in Resource-limited Settings.. AMIA. 2017",
+    "year": 2017,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://dblp.uni-trier.de/db/conf/amia/amia2017.html#BrandtFL17",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Fredericksen RJ, Church A, Harrington A, Ciechanowski P, Magnani J, Nasby K, Brown T, Dhanireddy S, Harrington RD, Lober WB, Simoni J, Safren SA, Edwards TC, Patrick DL, Saag MS, Crane PK, Kitahata MM. A Randomized Controlled Trial Protocol to Evaluate the Effectiveness of an Integrated Care Management Approach to Improve Adherence Among HIV-Infected Patients in Routine Clinical Care: Rationale and Design. JMIR Res Protoc 2016 Oct 5;",
+    "year": 2016,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2021": 3,
+      "2020": 1,
+      "2019": 1
+    },
+    "link": "https://doi.org/10.2196/resprot.5492",
+    "in_summary": ""
+  },
+  {
+    "citation": "Klein MB, Althoff KN, Jing Y, Lau B, Kitahata M, Lo Re V 3rd, Kirk GD, Hull M, Kim HN, Sebastiani G, Moodie EE, Silverberg MJ, Sterling TR, Thorne JE, Cescon A, Napravnik S, Eron J, Gill MJ, Justice A, Peters MG, Goedert JJ, Mayor A, Thio CL, Cachay ER, Moore R, North American AIDS Cohort Collaboration on Research and Design of IeDEA, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD) of IeDEA. Risk of End-Stage Liver Disease in HIV-Viral Hepatitis Coinfected Persons in North America From the Early to Modern Antiretroviral Therapy Eras. Clin Infect Dis 2016 Nov 1;",
+    "year": 2016,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 111,
+    "counts_by_year": {
+      "2025": 11,
+      "2024": 14,
+      "2023": 11,
+      "2022": 13,
+      "2021": 17,
+      "2020": 17,
+      "2019": 12,
+      "2018": 11,
+      "2017": 5
+    },
+    "link": "https://doi.org/10.1093/cid/ciw531",
+    "in_summary": ""
+  },
+  {
+    "citation": "Fredericksen RJ, Tufano J, Ralston J, McReynolds J, Stewart M, Lober WB, Mayer KH, Mathews WC, Mugavero MJ, Crane PK, Crane HM. Provider perceptions of the value of same-day, electronic patient-reported measures for use in clinical HIV care. AIDS Care 2016 Nov;",
+    "year": 2016,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 36,
+    "counts_by_year": {
+      "2025": 4,
+      "2024": 7,
+      "2023": 7,
+      "2022": 4,
+      "2021": 4,
+      "2020": 2,
+      "2019": 3,
+      "2018": 3,
+      "2017": 2
+    },
+    "link": "https://doi.org/10.1080/09540121.2016.1189501",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sanger PC, van Ramshorst GH, Mercan E, Huang S, Hartzler AL, Armstrong CA, Lordon RJ, Lober WB, Evans HL. A Prognostic Model of Surgical Site Infection Using Daily Clinical Wound Assessment. J Am Coll Surg 2016 Aug;",
+    "year": 2016,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 57,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 4,
+      "2024": 2,
+      "2023": 5,
+      "2022": 4,
+      "2021": 6,
+      "2020": 8,
+      "2019": 11,
+      "2018": 10,
+      "2017": 3,
+      "2016": 2
+    },
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2016.04.046",
+    "in_summary": ""
+  },
+  {
+    "citation": "Gibbons LE, Fredericksen R, Merrill JO, McCaul ME, Chander G, Hutton H, Lober WB, Mathews WC, Mayer K, Burkholder G, Willig JH, Mugavero MJ, Saag MS, Kitahata MM, Edwards TC, Patrick DL, Crane HM, Crane PK. Suitability of the PROMIS alcohol use short form for screening in a HIV clinical care setting. Drug Alcohol Depend 2016 Jul 1;",
+    "year": 2016,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 18,
+    "counts_by_year": {
+      "2024": 3,
+      "2022": 6,
+      "2021": 4,
+      "2020": 2,
+      "2019": 1,
+      "2018": 1,
+      "2017": 1
+    },
+    "link": "https://doi.org/10.1016/j.drugalcdep.2016.04.038",
+    "in_summary": ""
+  },
+  {
+    "citation": "Althoff KN, Rebeiro PF, Hanna DB, Padgett D, Horberg MA, Grinsztejn B, Abraham AG, Hogg R, Gill MJ, Wolff MJ, Mayor A, Rachlis A, Williams C, Sterling TR, Kitahata MM, Buchacz K, Thorne JE, Cesar C, Cordero FM, Rourke SB, Sierra-Madero J, Pape JW, Cahn P, McGowan C, North American Aids Cohort Collaboration on Research and Design (NA-ACCORD) and Caribbean, Central and South America Network for Hiv Epidemiology (CCASAnet). A picture is worth a thousand words: maps of HIV indicators to inform research, programs, and policy from NA-ACCORD and CCASAnet clinical cohorts. J Int AIDS Soc 2016;",
+    "year": 2016,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/27049052/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Cesar C, Koethe JR, Giganti MJ, Rebeiro P, Althoff KN, Napravnik S, Mayor A, Grinsztejn B, Wolff M, Padgett D, Sierra-Madero J, Gotuzzo E, Sterling TR, Willig J, Levison J, Kitahata M, Rodriguez-Barradas MC, Moore RD, McGowan C, Shepherd BE, Cahn P, Caribbean, Central and South America Network for HIV epidemiology (CCASAnet) and North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD). Health outcomes among HIV-positive Latinos initiating antiretroviral therapy in North America versus Central and South America. J Int AIDS Soc 2016;",
+    "year": 2016,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/26996992/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sanger PC, Hartzler A, Lordon RJ, Armstrong CA, Lober WB, Evans HL, Pratt W. A patient-centered system in a provider-centered world: challenges of incorporating post-discharge wound data into practice. J Am Med Inform Assoc 2016 May;",
+    "year": 2016,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 77,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 6,
+      "2024": 4,
+      "2023": 7,
+      "2022": 9,
+      "2021": 7,
+      "2020": 11,
+      "2019": 9,
+      "2018": 10,
+      "2017": 8,
+      "2016": 4
+    },
+    "link": "https://doi.org/10.1093/jamia/ocv183",
+    "in_summary": ""
+  },
+  {
+    "citation": "(122) Prevalence of post-traumatic stress disorder and its association with outcome measures in a general chronic pain population. Journal of Pain. 2016",
+    "year": 2016,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2021": 1,
+      "2019": 1
+    },
+    "link": "https://doi.org/10.1016/j.jpain.2016.01.025",
+    "in_summary": ""
+  },
+  {
+    "citation": "Pilot Implementation of a Patient-Centered App: Mobile Postoperative Wound Evaluator (mPOWEr). Journal of the American College of Surgeons. 2016",
+    "year": 2016,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2016.08.438",
+    "in_summary": ""
+  },
+  {
+    "citation": "Eaton J, Painter I, Olson D, Lober WB. Visualizing the quality of partially accruing data for use in decision making. Online J Public Health Inform 2015;",
+    "year": 2015,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2022": 1
+    },
+    "link": "https://doi.org/10.5210/ojphi.v7i3.6096",
+    "in_summary": ""
+  },
+  {
+    "citation": "Silverberg MJ, Lau B, Achenbach CJ, Jing Y, Althoff KN, D'Souza G, Engels EA, Hessol NA, Brooks JT, Burchell AN, Gill MJ, Goedert JJ, Hogg R, Horberg MA, Kirk GD, Kitahata MM, Korthuis PT, Mathews WC, Mayor A, Modur SP, Napravnik S, Novak RM, Patel P, Rachlis AR, Sterling TR, Willig JH, Justice AC, Moore RD, Dubrow R, North American AIDS Cohort Collaboration on Research and Design of the International Epidemiologic Databases to Evaluate AIDS. Cumulative Incidence of Cancer Among Persons With HIV in North America: A Cohort Study. Ann Intern Med 2015 Oct 6;",
+    "year": 2015,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/26436616/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kitahata MM, Drozd DR, Crane HM, Van Rompaey SE, Althoff KN, Gange SJ, Klein MB, Lucas GM, Abraham AG, Lo Re V 3rd, McReynolds J, Lober WB, Mendes A, Modur SP, Jing Y, Morton EJ, Griffith MA, Freeman AM, Moore RD. Ascertainment and verification of end-stage renal disease and end-stage liver disease in the north american AIDS cohort collaboration on research and design. AIDS Res Treat 2015;",
+    "year": 2015,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 14,
+    "counts_by_year": {
+      "2023": 1,
+      "2021": 2,
+      "2020": 2,
+      "2019": 3,
+      "2018": 1,
+      "2017": 3,
+      "2016": 2
+    },
+    "link": "https://doi.org/10.1155/2015/923194",
+    "in_summary": ""
+  },
+  {
+    "citation": "Wolpin SE, Halpenny B, Whitman G, McReynolds J, Stewart M, Lober WB, Berry DL. Development and usability testing of a web-based cancer symptom and quality-of-life support intervention. Health Informatics J 2015 Mar;",
+    "year": 2015,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/24406906/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Automated Collection of Electronic Health Record Healthy Weight Data for Surveillance. Online Journal of Public Health Informatics. 2015",
+    "year": 2015,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.5210/ojphi.v7i1.5754",
+    "in_summary": ""
+  },
+  {
+    "citation": "(188) PainTracker: development and implementation of a web-based pain assessment and outcomes tracking tool for primary and specialty clinical care. Journal of Pain. 2015",
+    "year": 2015,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1016/j.jpain.2015.01.102",
+    "in_summary": ""
+  },
+  {
+    "citation": "Mapping workflows in a surgical clinic to guide implementation of a patient-centered postoperative mHealth wound assessment system.. AMIA. 2015",
+    "year": 2015,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://dblp.uni-trier.de/db/conf/amia/amia2015.html#LordonEHAWSL15",
+    "in_summary": ""
+  },
+  {
+    "citation": "Duda SN, Farr AM, Lindegren ML, Blevins M, Wester CW, Wools-Kaloustian K, Ekouevi DK, Egger M, Hemingway-Foday J, Cooper DA, Moore RD, McGowan CC, Nash D, International Epidemiologic Databases to Evaluate AIDS (IeDEA) Collaboration. Characteristics and comprehensiveness of adult HIV care and treatment programmes in Asia-Pacific, sub-Saharan Africa and the Americas: results of a site assessment conducted by the International epidemiologic Databases to Evaluate AIDS (IeDEA) Collaboration. J Int AIDS Soc 2014;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/25516092/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sanger PC, Hartzler A, Han SM, Armstrong CA, Stewart MR, Lordon RJ, Lober WB, Evans HL. Patient perspectives on post-discharge surgical site infections: towards a patient-centered mobile health solution. PLoS One 2014;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 144,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 10,
+      "2024": 16,
+      "2023": 16,
+      "2022": 10,
+      "2021": 15,
+      "2020": 18,
+      "2019": 16,
+      "2018": 14,
+      "2017": 13,
+      "2016": 10,
+      "2015": 4,
+      "2014": 1
+    },
+    "link": "https://doi.org/10.1371/journal.pone.0114016",
+    "in_summary": ""
+  },
+  {
+    "citation": "Fredericksen R, Feldman BJ, Brown T, Schmidt S, Crane PK, Harrington RD, Dhanireddy S, McReynolds J, Lober WB, Bangsberg DR, Kitahata MM, Crane HM. Unannounced telephone-based pill counts: a valid and feasible method for monitoring adherence. AIDS Behav 2014 Dec;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 35,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 4,
+      "2024": 3,
+      "2023": 4,
+      "2022": 6,
+      "2020": 2,
+      "2019": 4,
+      "2018": 4,
+      "2017": 2,
+      "2016": 4
+    },
+    "link": "https://doi.org/10.1007/s10461-014-0916-7",
+    "in_summary": ""
+  },
+  {
+    "citation": "Sanger P, Hartzler A, Lober WB, Evans HL, Pratt W. Design Considerations for Post-Acute Care mHealth: Patient Perspectives. AMIA Annu Symp Proc 2014;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 19,
+    "counts_by_year": {
+      "2024": 2,
+      "2023": 1,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2,
+      "2019": 2,
+      "2018": 3,
+      "2017": 4,
+      "2016": 2,
+      "2014": 1
+    },
+    "link": "https://doi.org/10.13140/rg.2.1.1946.5769",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berry DL, Hong F, Halpenny B, Partridge A, Fox E, Fann JR, Wolpin S, Lober WB, Bush N, Parvathaneni U, Amtmann D, Ford R. The electronic self report assessment and intervention for cancer: promoting patient verbal reporting of symptom and quality of life issues in a randomized controlled trial. BMC Cancer 2014 Jul 12;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 70,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 7,
+      "2024": 3,
+      "2023": 5,
+      "2022": 3,
+      "2021": 5,
+      "2020": 9,
+      "2019": 8,
+      "2018": 8,
+      "2017": 9,
+      "2016": 3,
+      "2015": 7,
+      "2014": 1
+    },
+    "link": "https://doi.org/10.1186/1471-2407-14-513",
+    "in_summary": ""
+  },
+  {
+    "citation": "Edwards JK, Cole SR, Westreich D, Moore R, Mathews C, Geng E, Eron JJ, Mugavero MJ, CNICS Research Network. Loss to clinic and five-year mortality among HIV-infected antiretroviral therapy initiators. PLoS One 2014;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/25010739/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Heckbert SR, Drozd DR, Budoff MJ, Delaney JA, Rodriguez C, Paramsothy P, Lober WB, Burkholder G, Willig JH, Mugavero MJ, Mathews WC, Crane PK, Moore RD, Napravnik S, Eron JJ, Hunt P, Geng E, Hsue P, Barnes GS, McReynolds J, Peter I, Grunfeld C, Saag MS, Kitahata MM. The authors reply. Am J Epidemiol 2014 Aug 15;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1093/aje/kwu167",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Heckbert SR, Drozd DR, Budoff MJ, Delaney JA, Rodriguez C, Paramsothy P, Lober WB, Burkholder G, Willig JH, Mugavero MJ, Mathews WC, Crane PK, Moore RD, Napravnik S, Eron JJ, Hunt P, Geng E, Hsue P, Barnes GS, McReynolds J, Peter I, Grunfeld C, Saag MS, Kitahata MM, Centers for AIDS Research Network of Integrated Clinical Systems Cohort Investigators. Lessons learned from the design and implementation of myocardial infarction adjudication tailored for HIV clinical cohorts. Am J Epidemiol 2014 Apr 15;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 47,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 5,
+      "2024": 1,
+      "2023": 5,
+      "2022": 6,
+      "2021": 2,
+      "2020": 2,
+      "2019": 7,
+      "2018": 7,
+      "2017": 4,
+      "2016": 3,
+      "2015": 2,
+      "2014": 2
+    },
+    "link": "https://doi.org/10.1093/aje/kwu010",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Reeder B, Painter I, Revere D, Goldov K, Bugni PF, McReynolds J, Olson DR. Technical Description of the Distribute Project: A Community-based Syndromic Surveillance System Implementation. Online J Public Health Inform 2014;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2020": 1,
+      "2018": 1,
+      "2017": 1,
+      "2015": 1
+    },
+    "link": "https://doi.org/10.5210/ojphi.v5i3.4938",
+    "in_summary": ""
+  },
+  {
+    "citation": "Althoff KN, Rebeiro P, Brooks JT, Buchacz K, Gebo K, Martin J, Hogg R, Thorne JE, Klein M, Gill MJ, Sterling TR, Yehia B, Silverberg MJ, Crane H, Justice AC, Gange SJ, Moore R, Kitahata MM, Horberg MA, North American AIDS Cohort Collaboration on Research and Design (NA-ACCORD). Disparities in the quality of HIV care when using US Department of Health and Human Services indicators. Clin Infect Dis 2014 Apr;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 75,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 6,
+      "2023": 1,
+      "2022": 2,
+      "2021": 5,
+      "2020": 3,
+      "2019": 5,
+      "2018": 9,
+      "2017": 11,
+      "2016": 14,
+      "2015": 11,
+      "2014": 6
+    },
+    "link": "https://doi.org/10.1093/cid/ciu044",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berry DL, Hong F, Halpenny B, Partridge AH, Fann JR, Wolpin S, Lober WB, Bush NE, Parvathaneni U, Back AL, Amtmann D, Ford R. Electronic self-report assessment for cancer and self-care support: results of a multicenter randomized trial. J Clin Oncol 2014 Jan 20;",
+    "year": 2014,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 222,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 15,
+      "2024": 13,
+      "2023": 33,
+      "2022": 15,
+      "2021": 22,
+      "2020": 21,
+      "2019": 18,
+      "2018": 20,
+      "2017": 20,
+      "2016": 13,
+      "2015": 16,
+      "2014": 11
+    },
+    "link": "https://doi.org/10.1200/jco.2013.48.6662",
+    "in_summary": ""
+  },
+  {
+    "citation": "Accrued \u2013 An R Package for Visualizing Data Quality for Aggregate Surveillance Data. Online Journal of Public Health Informatics. 2014",
+    "year": 2014,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.5210/ojphi.v6i1.5018",
+    "in_summary": ""
+  },
+  {
+    "citation": "Healthy Weight Surveillance: Demonstrating Standards and Technology in a National Forum. 2014 CSTE Annual Conference. 2014",
+    "year": 2014,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://cste.confex.com/cste/2014/webprogram/Paper3786.html",
+    "in_summary": ""
+  },
+  {
+    "citation": "Smith PF, Hadler JL, Stanbury M, Rolfs RT, Hopkins RS, CSTE Surveillance Strategy Group. \"Blueprint version 2.0\": updating public health surveillance for the 21st century. J Public Health Manag Pract 2013 May-Jun;",
+    "year": 2013,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/22759985/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berry DL, Halpenny B, Hong F, Wolpin S, Lober WB, Russell KJ, Ellis WJ, Govindarajulu U, Bosco J, Davison BJ, Bennett G, Terris MK, Barsevick A, Lin DW, Yang CC, Swanson G. The Personal Patient Profile-Prostate decision support for men with localized prostate cancer: a multi-center randomized trial. Urol Oncol 2013 Oct;",
+    "year": 2013,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 113,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 2,
+      "2024": 4,
+      "2023": 5,
+      "2022": 8,
+      "2021": 15,
+      "2020": 5,
+      "2019": 12,
+      "2018": 9,
+      "2017": 13,
+      "2016": 8,
+      "2015": 16,
+      "2014": 7,
+      "2013": 4,
+      "2012": 3
+    },
+    "link": "https://doi.org/10.1016/j.urolonc.2011.10.004",
+    "in_summary": ""
+  },
+  {
+    "citation": "Provider Needs Assessment for mPOWEr: a Mobile tool for Post-Operative Wound Evaluation.. AMIA. 2013",
+    "year": 2013,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2021": 1,
+      "2018": 1,
+      "2016": 1,
+      "2014": 2
+    },
+    "link": "http://dblp.uni-trier.de/db/conf/amia/amia2013.html#SangerHLE13",
+    "in_summary": ""
+  },
+  {
+    "citation": "Open Source Computerized Patient Reported Outcomes: Research and Practice across Three Domains.. AMIA. 2013",
+    "year": 2013,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "http://dblp.uni-trier.de/db/conf/amia/amia2013.html#McRynoldsCBL13",
+    "in_summary": ""
+  },
+  {
+    "citation": "Integrating Touchscreen Laboratory Order-Entry with OpenELIS: An Exercise in Interoperability.. AMIA. 2013",
+    "year": 2013,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "http://dblp.uni-trier.de/db/conf/amia/amia2013.html#EspinoDL13",
+    "in_summary": ""
+  },
+  {
+    "citation": "Reeder B, Revere D, Hills RA, Baseman JG, Lober WB. Public Health Practice within a Health Information Exchange: Information Needs and Barriers to Disease Surveillance. Online J Public Health Inform 2012;",
+    "year": 2012,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 27,
+    "counts_by_year": {
+      "2025": 2,
+      "2023": 4,
+      "2021": 1,
+      "2020": 2,
+      "2018": 1,
+      "2017": 3,
+      "2016": 5,
+      "2015": 1,
+      "2014": 5,
+      "2013": 3
+    },
+    "link": "https://doi.org/10.5210/ojphi.v4i3.4277",
+    "in_summary": ""
+  },
+  {
+    "citation": "May MT, Hogg RS, Justice AC, Shepherd BE, Costagliola D, Ledergerber B, Thi\u00e9baut R, Gill MJ, Kirk O, van Sighem A, Saag MS, Navarro G, Sobrino-Vegas P, Lampe F, Ingle S, Guest JL, Crane HM, D'Arminio Monforte A, Vehreschild JJ, Sterne JA, Antiretroviral Therapy Cohort Collaboration (ART-CC). Heterogeneity in outcomes of treated HIV-positive patients in Europe and North America: relation with patient and cohort characteristics. Int J Epidemiol 2012 Dec;",
+    "year": 2012,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/23148105/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Hills RA, Revere D, Altamore R, Abernethy NF, Lober WB. Timeliness and data element completeness of immunization data in Washington State in 2010: a comparison of data exchange methods. AMIA Annu Symp Proc 2012;",
+    "year": 2012,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 15,
+    "counts_by_year": {
+      "2024": 2,
+      "2023": 2,
+      "2022": 1,
+      "2021": 1,
+      "2020": 1,
+      "2019": 1,
+      "2016": 3,
+      "2014": 2,
+      "2013": 2
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/23304304",
+    "in_summary": ""
+  },
+  {
+    "citation": "Matheson AI, Baseman JG, Wagner SH, O'Malley GE, Puttkammer NH, Emmanuel E, Zamor G, Fr\u00e9d\u00e9ric R, Coq NR, Lober WB. Implementation and expansion of an electronic medical record for HIV care and treatment in Haiti: an assessment of system use and the impact of large-scale disruptions. Int J Med Inform 2012 Apr;",
+    "year": 2012,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 48,
+    "counts_by_year": {
+      "2024": 1,
+      "2023": 3,
+      "2022": 2,
+      "2021": 3,
+      "2020": 8,
+      "2019": 3,
+      "2018": 3,
+      "2017": 6,
+      "2016": 4,
+      "2015": 5,
+      "2014": 7,
+      "2013": 2,
+      "2012": 1
+    },
+    "link": "https://doi.org/10.1016/j.ijmedinf.2012.01.011",
+    "in_summary": ""
+  },
+  {
+    "citation": "Fredericksen R, Crane PK, Tufano J, Ralston J, Schmidt S, Brown T, Layman D, Harrington RD, Dhanireddy S, Stone T, Lober W, Kitahata MM, Crane HM. Integrating a web-based, patient-administered assessment into primary care for HIV-infected adults. J AIDS HIV Res 2012 Feb;",
+    "year": 2012,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/26561537/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Electronic self-report assessment for cancer: Results of a multisite randomized trial.. Journal of Clinical Oncology. 2012",
+    "year": 2012,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2014": 2
+    },
+    "link": "https://doi.org/10.1200/jco.2012.30.15_suppl.9008",
+    "in_summary": ""
+  },
+  {
+    "citation": "Hills RA, Baseman JG, Revere D, Boge CL, Oberle MW, Doctor JN, Lober WB. Applying the XForms Standard to Public Health Case Reporting and Alerting. Online J Public Health Inform 2011;",
+    "year": 2011,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2020": 1,
+      "2017": 1,
+      "2014": 1,
+      "2013": 1
+    },
+    "link": "https://doi.org/10.5210/ojphi.v3i2.3656",
+    "in_summary": ""
+  },
+  {
+    "citation": "Olson DR, Paladini M, Lober WB, Buckeridge DL, ISDS Distribute Working Group. Applying a New Model for Sharing Population Health Data to National Syndromic Influenza Surveillance: DiSTRIBuTE Project Proof of Concept, 2006 to 2009. PLoS Curr 2011 Aug 2;",
+    "year": 2011,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 23,
+    "counts_by_year": {
+      "2020": 1,
+      "2019": 2,
+      "2018": 1,
+      "2016": 1,
+      "2015": 4,
+      "2014": 5,
+      "2013": 4,
+      "2012": 1
+    },
+    "link": "https://doi.org/10.1371/currents.rrn1251",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Flowers JL. Consumer empowerment in health care amid the internet and social media. Semin Oncol Nurs 2011 Aug;",
+    "year": 2011,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 127,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 6,
+      "2023": 9,
+      "2022": 9,
+      "2021": 13,
+      "2020": 7,
+      "2019": 9,
+      "2018": 11,
+      "2017": 14,
+      "2016": 14,
+      "2015": 11,
+      "2014": 11,
+      "2013": 8,
+      "2012": 2
+    },
+    "link": "https://doi.org/10.1016/j.soncn.2011.04.002",
+    "in_summary": ""
+  },
+  {
+    "citation": "Reeder B, Revere D, Olson DR, Lober WB. Perceived usefulness of a distributed community-based syndromic surveillance system: a pilot qualitative evaluation study. BMC Res Notes 2011 Jun 14;",
+    "year": 2011,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 17,
+    "counts_by_year": {
+      "2022": 2,
+      "2020": 2,
+      "2019": 1,
+      "2018": 1,
+      "2016": 1,
+      "2015": 3,
+      "2014": 2,
+      "2013": 3
+    },
+    "link": "https://doi.org/10.1186/1756-0500-4-187",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berry DL, Blumenstein BA, Halpenny B, Wolpin S, Fann JR, Austin-Seymour M, Bush N, Karras BT, Lober WB, McCorkle R. Enhancing patient-provider communication with the electronic self-report assessment for cancer: a randomized trial. J Clin Oncol 2011 Mar 10;",
+    "year": 2011,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 372,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 16,
+      "2024": 31,
+      "2023": 26,
+      "2022": 24,
+      "2021": 27,
+      "2020": 38,
+      "2019": 22,
+      "2018": 27,
+      "2017": 28,
+      "2016": 17,
+      "2015": 26,
+      "2014": 34,
+      "2013": 19,
+      "2012": 18
+    },
+    "link": "https://doi.org/10.1200/jco.2010.30.3909",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kim EH, Coumar A, Lober WB, Kim Y. Addressing mental health epidemic among university students via web-based, self-screening, and referral system: a preliminary study. IEEE Trans Inf Technol Biomed 2011 Mar;",
+    "year": 2011,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 66,
+    "counts_by_year": {
+      "2024": 8,
+      "2023": 8,
+      "2022": 9,
+      "2021": 3,
+      "2020": 5,
+      "2019": 7,
+      "2018": 7,
+      "2017": 5,
+      "2016": 1,
+      "2015": 1,
+      "2014": 7,
+      "2013": 4
+    },
+    "link": "https://doi.org/10.1109/titb.2011.2107561",
+    "in_summary": ""
+  },
+  {
+    "citation": "1001 DECISIONAL CONFLICT VARIES BY INSTITUTION FOR MEN MAKING TREATMENT DECISIONS FOR LOCALIZED PROSTATE CANCER. The Journal of Urology. 2011",
+    "year": 2011,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2022": 1,
+      "2020": 1,
+      "2014": 1
+    },
+    "link": "https://doi.org/10.1016/j.juro.2011.02.1034",
+    "in_summary": ""
+  },
+  {
+    "citation": "How good is your data?. Emerging Health Threats Journal. 2011",
+    "year": 2011,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2015": 1,
+      "2013": 1
+    },
+    "link": "https://doi.org/10.3402/ehtj.v4i0.11142",
+    "in_summary": ""
+  },
+  {
+    "citation": "Visualizing data quality: tools and views. Emerging Health Threats Journal. 2011",
+    "year": 2011,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.3402/ehtj.v4i0.11144",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Revere D, Hills R. A Lab-EMR interoperability profile as an eHealth architecture component for resource-constrained settings. Stud Health Technol Inform 2010;",
+    "year": 2010,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2015": 2
+    },
+    "link": "https://doi.org/10.3233/978-1-60750-588-4-257",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berry DL, Halpenny B, Wolpin S, Davison BJ, Ellis WJ, Lober WB, McReynolds J, Wulff J. Development and evaluation of the personal patient profile-prostate (P3P), a Web-based decision support system for men newly diagnosed with localized prostate cancer. J Med Internet Res 2010 Dec 17;",
+    "year": 2010,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 48,
+    "counts_by_year": {
+      "2023": 1,
+      "2022": 4,
+      "2021": 5,
+      "2020": 1,
+      "2019": 3,
+      "2018": 2,
+      "2017": 3,
+      "2016": 6,
+      "2015": 3,
+      "2014": 6,
+      "2013": 3,
+      "2012": 6
+    },
+    "link": "https://doi.org/10.2196/jmir.1576",
+    "in_summary": ""
+  },
+  {
+    "citation": "Chapman WW, Dowling JN, Baer A, Buckeridge DL, Cochrane D, Conway MA, Elkin P, Espino J, Gunn JE, Hales CM, Hutwagner L, Keller M, Larson C, Noe R, Okhmatovskaia A, Olson K, Paladini M, Scholer M, Sniegoski C, Thompson D, Lober B. Developing syndrome definitions based on consensus and current use. J Am Med Inform Assoc 2010 Sep-Oct;",
+    "year": 2010,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/20819870/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Van Eaton EG, McDonough K, Lober WB, Johnson EA, Pellegrini CA, Horvath KD. Safety of using a computerized rounding and sign-out system to reduce resident duty hours. Acad Med 2010 Jul;",
+    "year": 2010,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 55,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 1,
+      "2022": 3,
+      "2021": 1,
+      "2019": 1,
+      "2018": 3,
+      "2017": 3,
+      "2016": 7,
+      "2015": 9,
+      "2014": 3,
+      "2013": 7,
+      "2012": 4
+    },
+    "link": "https://doi.org/10.1097/acm.0b013e3181e0116f",
+    "in_summary": ""
+  },
+  {
+    "citation": "Wolpin S, Berry DL, Kurth A, Lober WB. Improving health literacy: a Web application for evaluating text-to-speech engines. Comput Inform Nurs 2010 Jul-Aug;",
+    "year": 2010,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 26,
+    "counts_by_year": {
+      "2024": 1,
+      "2023": 14,
+      "2022": 3,
+      "2021": 1,
+      "2017": 2,
+      "2015": 1,
+      "2013": 1
+    },
+    "link": "https://doi.org/10.1097/ncn.0b013e3181e1ddca",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lawrence ST, Willig JH, Crane HM, Ye J, Aban I, Lober W, Nevin CR, Batey DS, Mugavero MJ, McCullumsmith C, Wright C, Kitahata M, Raper JL, Saag MS, Schumacher JE. Routine, self-administered, touch-screen, computer-based suicidal ideation assessment linked to automated response team notification in an HIV primary care setting. Clin Infect Dis 2010 Apr 15;",
+    "year": 2010,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 104,
+    "counts_by_year": {
+      "2026": 2,
+      "2025": 2,
+      "2024": 4,
+      "2023": 11,
+      "2022": 7,
+      "2021": 10,
+      "2020": 2,
+      "2019": 1,
+      "2018": 9,
+      "2017": 7,
+      "2016": 10,
+      "2015": 9,
+      "2014": 7,
+      "2013": 7,
+      "2012": 11
+    },
+    "link": "https://doi.org/10.1086/651420",
+    "in_summary": ""
+  },
+  {
+    "citation": "Development and implementation of a loosely coupled, multi-site, networked and replicated electronic medical record in Haiti. ACM SIGOPS Operating Systems Review. 2010",
+    "year": 2010,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2019": 1,
+      "2016": 1,
+      "2015": 1,
+      "2012": 1
+    },
+    "link": "https://doi.org/10.1145/1713254.1713272",
+    "in_summary": ""
+  },
+  {
+    "citation": "Immunization information and population data sources. 2010",
+    "year": 2010,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {
+      "2013": 1
+    },
+    "link": "https://doi.org/10.1145/1882992.1883063",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kim EH, Stolyar A, Lober WB, Herbaugh AL, Shinstrom SE, Zierler BK, Soh CB, Kim Y. Challenges to using an electronic personal health record by a low-income elderly population. J Med Internet Res 2009 Oct 27;",
+    "year": 2009,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 187,
+    "counts_by_year": {
+      "2025": 3,
+      "2024": 6,
+      "2023": 6,
+      "2022": 10,
+      "2021": 17,
+      "2020": 18,
+      "2019": 13,
+      "2018": 11,
+      "2017": 21,
+      "2016": 9,
+      "2015": 11,
+      "2014": 13,
+      "2013": 14,
+      "2012": 9
+    },
+    "link": "https://doi.org/10.2196/jmir.1256",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kitahata MM, Gange SJ, Abraham AG, Merriman B, Saag MS, Justice AC, Hogg RS, Deeks SG, Eron JJ, Brooks JT, Rourke SB, Gill MJ, Bosch RJ, Martin JN, Klein MB, Jacobson LP, Rodriguez B, Sterling TR, Kirk GD, Napravnik S, Rachlis AR, Calzavara LM, Horberg MA, Silverberg MJ, Gebo KA, Goedert JJ, Benson CA, Collier AC, Van Rompaey SE, Crane HM, McKaig RG, Lau B, Freeman AM, Moore RD, NA-ACCORD Investigators. Effect of early versus deferred antiretroviral therapy for HIV on survival. N Engl J Med 2009 Apr 30;",
+    "year": 2009,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/19339714/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Fann JR, Berry DL, Wolpin S, Austin-Seymour M, Bush N, Halpenny B, Lober WB, McCorkle R. Depression screening using the Patient Health Questionnaire-9 administered on a touch screen computer. Psychooncology 2009 Jan;",
+    "year": 2009,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 142,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 5,
+      "2024": 4,
+      "2023": 3,
+      "2022": 8,
+      "2021": 9,
+      "2020": 11,
+      "2019": 4,
+      "2018": 4,
+      "2017": 12,
+      "2016": 10,
+      "2015": 13,
+      "2014": 11,
+      "2013": 12,
+      "2012": 8
+    },
+    "link": "https://doi.org/10.1002/pon.1368",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Quiles C, Wagner S, Cassagnol R, Lamothes R, Alexis DR, Joseph P, Sutton P, Puttkammer N, Kitahata MM. Three years experience with the implementation of a networked electronic medical record in Haiti. AMIA Annu Symp Proc 2008 Nov 6;",
+    "year": 2008,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 19,
+    "counts_by_year": {
+      "2025": 1,
+      "2022": 1,
+      "2021": 1,
+      "2020": 2,
+      "2018": 1,
+      "2017": 2,
+      "2016": 2,
+      "2015": 1,
+      "2014": 2,
+      "2012": 5
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/18999283",
+    "in_summary": ""
+  },
+  {
+    "citation": "Painter IS, Hills RA, Lober WB, Randels KM, Sibley J, Webster E. Extending functionality of and demonstrating integrated surveillance for public health within a prototype regional health information exchange. AMIA Annu Symp Proc 2008 Nov 6;",
+    "year": 2008,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2014": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/18999244",
+    "in_summary": ""
+  },
+  {
+    "citation": "Wolpin S, Berry D, Austin-Seymour M, Bush N, Fann JR, Halpenny B, Lober WB, McCorkle R. Acceptability of an Electronic Self-Report Assessment Program for patients with cancer. Comput Inform Nurs 2008 Nov-Dec;",
+    "year": 2008,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 51,
+    "counts_by_year": {
+      "2026": 1,
+      "2025": 4,
+      "2023": 2,
+      "2022": 4,
+      "2021": 3,
+      "2020": 2,
+      "2019": 1,
+      "2018": 4,
+      "2017": 1,
+      "2016": 1,
+      "2015": 2,
+      "2014": 1,
+      "2013": 3,
+      "2012": 4
+    },
+    "link": "https://doi.org/10.1097/01.ncn.0000336464.79692.6a",
+    "in_summary": ""
+  },
+  {
+    "citation": "Doctor JN, Baseman JG, Lober WB, Davies J, Kobayashi J, Karras BT, Fuller S. Time-tradeoff utilities for identifying and evaluating a minimum data set for time-critical biosurveillance. Med Decis Making 2008 May-Jun;",
+    "year": 2008,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 2,
+    "counts_by_year": {
+      "2017": 1
+    },
+    "link": "https://doi.org/10.1177/0272989x08317011",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kitahata MM, Rodriguez B, Haubrich R, Boswell S, Mathews WC, Lederman MM, Lober WB, Van Rompaey SE, Crane HM, Moore RD, Bertram M, Kahn JO, Saag MS. Cohort profile: the Centers for AIDS Research Network of Integrated Clinical Systems. Int J Epidemiol 2008 Oct;",
+    "year": 2008,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 295,
+    "counts_by_year": {
+      "2026": 8,
+      "2025": 23,
+      "2024": 19,
+      "2023": 24,
+      "2022": 21,
+      "2021": 27,
+      "2020": 18,
+      "2019": 23,
+      "2018": 27,
+      "2017": 22,
+      "2016": 18,
+      "2015": 15,
+      "2014": 14,
+      "2013": 14,
+      "2012": 7
+    },
+    "link": "https://doi.org/10.1093/ije/dym231",
+    "in_summary": ""
+  },
+  {
+    "citation": "Biosurveillance, Case Reporting, and Decision Support: Public Health Interactions with a Health Information Exchange. Lecture notes in computer science. 2008",
+    "year": 2008,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 13,
+    "counts_by_year": {
+      "2022": 1,
+      "2020": 2,
+      "2017": 1,
+      "2015": 1,
+      "2014": 2,
+      "2012": 1
+    },
+    "link": "https://doi.org/10.1007/978-3-540-89746-0_2",
+    "in_summary": ""
+  },
+  {
+    "citation": "Electronic self-report assessment for cancer (ESRA-C): Results of a randomized clinical trial. Journal of Clinical Oncology. 2008",
+    "year": 2008,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2014": 1
+    },
+    "link": "https://doi.org/10.1200/jco.2008.26.15_suppl.9519",
+    "in_summary": ""
+  },
+  {
+    "citation": "465: Priority Concerns of Patients Receiving Autologous or Allogeneic Stem Cell Transplants at the Seattle Cancer Care Alliance. Biology of Blood and Marrow Transplantation. 2008",
+    "year": 2008,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1016/j.bbmt.2007.12.475",
+    "in_summary": ""
+  },
+  {
+    "citation": "Rodriguez CV, Lober WB, Sibley J, Webster E, Painter I, Karras BT. Integrating public health applications with commercial EMRs. AMIA Annu Symp Proc 2007 Oct 11;",
+    "year": 2007,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/18694192/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Kim EH, Stolyar A, Lober WB, Herbaugh AL, Shinstrom SE, Zierler BK, Soh CB, Kim Y. Usage patterns of a personal health record by elderly and disabled users. AMIA Annu Symp Proc 2007 Oct 11;",
+    "year": 2007,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 30,
+    "counts_by_year": {
+      "2023": 1,
+      "2022": 1,
+      "2019": 1,
+      "2018": 1,
+      "2017": 4,
+      "2016": 2,
+      "2015": 6,
+      "2014": 5,
+      "2013": 3
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/18693868",
+    "in_summary": ""
+  },
+  {
+    "citation": "Crane HM, Lober W, Webster E, Harrington RD, Crane PK, Davis TE, Kitahata MM. Routine collection of patient-reported outcomes in an HIV clinic setting: the first 100 patients. Curr HIV Res 2007 Jan;",
+    "year": 2007,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 155,
+    "counts_by_year": {
+      "2026": 3,
+      "2025": 6,
+      "2024": 16,
+      "2023": 8,
+      "2022": 13,
+      "2021": 16,
+      "2020": 12,
+      "2019": 6,
+      "2018": 15,
+      "2017": 13,
+      "2016": 11,
+      "2015": 4,
+      "2014": 6,
+      "2013": 6,
+      "2012": 9
+    },
+    "link": "https://doi.org/10.2174/157016207779316369",
+    "in_summary": ""
+  },
+  {
+    "citation": "Integration of Clinical Data to Support HIV Research. Medinfo 2007: Proceedings of the 12th World Congress on Health (Medical) Informatics; Building Sustainable Health Systems. 2007",
+    "year": 2007,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "http://search.informit.com.au/documentSummary;subject=Arts;dn=797062018259525;res=IELHEA",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Zierler B, Herbaugh A, Shinstrom SE, Stolyar A, Kim EH, Kim Y. Barriers to the use of a personal health record by an elderly population. AMIA Annu Symp Proc 2006;",
+    "year": 2006,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 182,
+    "counts_by_year": {
+      "2025": 4,
+      "2024": 3,
+      "2023": 4,
+      "2022": 6,
+      "2021": 7,
+      "2020": 10,
+      "2019": 12,
+      "2018": 14,
+      "2017": 20,
+      "2016": 10,
+      "2015": 17,
+      "2014": 15,
+      "2013": 9,
+      "2012": 18
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/17238394",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berry DL, Wolpin SE, Lober WB, Ellis WJ, Russell KJ, Davison BJ. Actual use and perceived usefulness of a web-based, decision support program for men with prostate cancer. Stud Health Technol Inform 2006;",
+    "year": 2006,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/17102377/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Karras BT, Wolpin S, Lober WB, Bush N, Fann JR, Berry DL. Electronic Self-report Assessment--Cancer (ESRA-C): Working towards an integrated survey system. Stud Health Technol Inform 2006;",
+    "year": 2006,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/17102311/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Improving Healthcare Quality through Distributed Diagnosis and Home Healthcare (D/sub 2/H/sub 2/). 2006",
+    "year": 2006,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 20,
+    "counts_by_year": {
+      "2019": 1,
+      "2016": 2,
+      "2015": 3,
+      "2014": 1,
+      "2013": 4,
+      "2012": 2
+    },
+    "link": "https://doi.org/10.1109/ddhh.2006.1624823",
+    "in_summary": ""
+  },
+  {
+    "citation": "Web-Based Personal-Centered Electronic Health Record for Elderly Population. 2006",
+    "year": 2006,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 11,
+    "counts_by_year": {
+      "2016": 1,
+      "2015": 1
+    },
+    "link": "https://doi.org/10.1109/ddhh.2006.1624817",
+    "in_summary": ""
+  },
+  {
+    "citation": "A Patient-Centered Health Record in a Demonstration Regional Health Information Network. 2006",
+    "year": 2006,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 6,
+    "counts_by_year": {
+      "2014": 2,
+      "2012": 3
+    },
+    "link": "https://doi.org/10.1109/ddhh.2006.1624821",
+    "in_summary": ""
+  },
+  {
+    "citation": "Implementation of Electronic Self-Report Assessment-Cancer (ESRA-C): Symptom and quality of life screening/monitoring in Transplant Ambulatory Care. Biology of Blood and Marrow Transplantation. 2006",
+    "year": 2006,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1016/j.bbmt.2005.11.449",
+    "in_summary": ""
+  },
+  {
+    "citation": "Van Eaton EG, Lober WB, Pellegrini CA, Horvath KD. User-driven design of a computerized rounding and sign-out application. AMIA Annu Symp Proc 2005;",
+    "year": 2005,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/16779431/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Tran DT, Zhang X, Stolyar A, Lober WB. Patient-centered design for a personal health record system. AMIA Annu Symp Proc 2005;",
+    "year": 2005,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2025": 1,
+      "2017": 2,
+      "2015": 1,
+      "2013": 1,
+      "2012": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779426",
+    "in_summary": ""
+  },
+  {
+    "citation": "Stolyar A, Lober WB, Drozd DR, Sibley J. Feasibility of data exchange with a Patient-centered Health Record. AMIA Annu Symp Proc 2005;",
+    "year": 2005,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2015": 1,
+      "2013": 1,
+      "2012": 2
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779410",
+    "in_summary": ""
+  },
+  {
+    "citation": "Rae LJ, Lober WB, Wolpin SE, Dockrey MR, Ellis WJ, Berry DL. Acceptability of an Internet treatment decision support program for men with prostate cancer. AMIA Annu Symp Proc 2005;",
+    "year": 2005,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2013": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779378",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lumley T, Sebestyen K, Lober WB, Painter I. An open source environment for the statistical evaluation of outbreak detection methods. AMIA Annu Symp Proc 2005;",
+    "year": 2005,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 4,
+    "counts_by_year": {
+      "2018": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779324",
+    "in_summary": ""
+  },
+  {
+    "citation": "Drozd DR, Lober WB, Kitahata MM, Smith KI, Van Rompaey SE. Developing a relational XML schema for sharing HIV clinical data. AMIA Annu Symp Proc 2005;",
+    "year": 2005,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2019": 1,
+      "2016": 1,
+      "2014": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779230",
+    "in_summary": ""
+  },
+  {
+    "citation": "Dockrey MR, Lober WB, Wolpin SE, Rae LJ, Berry DL. Distributed health assessment and intervention research software framework. AMIA Annu Symp Proc 2005;",
+    "year": 2005,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2014": 2,
+      "2013": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/16779227",
+    "in_summary": ""
+  },
+  {
+    "citation": "Van Eaton EG, Horvath KD, Lober WB, Rossini AJ, Pellegrini CA. A randomized, controlled trial evaluating the impact of a computerized rounding and sign-out system on continuity of care and resident work hours. J Am Coll Surg 2005 Apr;",
+    "year": 2005,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 267,
+    "counts_by_year": {
+      "2025": 1,
+      "2024": 3,
+      "2023": 5,
+      "2022": 4,
+      "2021": 6,
+      "2020": 1,
+      "2019": 4,
+      "2018": 8,
+      "2017": 6,
+      "2016": 12,
+      "2015": 17,
+      "2014": 11,
+      "2013": 25,
+      "2012": 28
+    },
+    "link": "https://doi.org/10.1016/j.jamcollsurg.2004.11.009",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Baer A, Karras BT, Duchin JS. Collection and integration of clinical data for surveillance. Stud Health Technol Inform 2004;",
+    "year": 2004,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 5,
+    "counts_by_year": {
+      "2020": 1,
+      "2013": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/15361005",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Trigg L, Karras B. Information system architectures for syndromic surveillance. MMWR Suppl 2004 Sep 24;",
+    "year": 2004,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 22,
+    "counts_by_year": {
+      "2024": 1,
+      "2019": 2,
+      "2016": 1,
+      "2014": 2,
+      "2013": 1,
+      "2012": 1
+    },
+    "link": "https://doi.org/10.1037/e307182005-035",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berry DL, Trigg LJ, Lober WB, Karras BT, Galligan ML, Austin-Seymour M, Martin S. Computerized symptom and quality-of-life assessment for patients with cancer part I: development and pilot testing. Oncol Nurs Forum 2004 Sep;",
+    "year": 2004,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 62,
+    "counts_by_year": {
+      "2025": 2,
+      "2024": 1,
+      "2023": 1,
+      "2022": 2,
+      "2021": 1,
+      "2018": 3,
+      "2017": 3,
+      "2015": 4,
+      "2014": 6,
+      "2013": 3
+    },
+    "link": "https://doi.org/10.1188/04.onf.e75-e83",
+    "in_summary": ""
+  },
+  {
+    "citation": "Van Eaton EG, Horvath KD, Lober WB, Pellegrini CA. Organizing the transfer of patient care information: the development of a computerized resident sign-out system. Surgery 2004 Jul;",
+    "year": 2004,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 117,
+    "counts_by_year": {
+      "2026": 1,
+      "2022": 3,
+      "2021": 1,
+      "2020": 2,
+      "2019": 1,
+      "2018": 2,
+      "2017": 2,
+      "2016": 3,
+      "2015": 6,
+      "2014": 4,
+      "2013": 6,
+      "2012": 6
+    },
+    "link": "https://doi.org/10.1016/j.surg.2004.04.018",
+    "in_summary": ""
+  },
+  {
+    "citation": "Mandl KD, Overhage JM, Wagner MM, Lober WB, Sebastiani P, Mostashari F, Pavlin JA, Gesteland PH, Treadwell T, Koski E, Hutwagner L, Buckeridge DL, Aller RD, Grannis S. Implementing syndromic surveillance: a practical guide informed by the early experience. J Am Med Inform Assoc 2004 Mar-Apr;",
+    "year": 2004,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/14633933/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Bliss D, Dockrey MR, Davidson AJ, Karras BT. Communicable disease case entry using PDAs and public wireless networks. AMIA Annu Symp Proc 2003;",
+    "year": 2003,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {},
+    "link": "https://pubmed.ncbi.nlm.nih.gov/14728422",
+    "in_summary": ""
+  },
+  {
+    "citation": "Payne TH, Gaster B, Mineer D, Mazurk J, Dunnington N, Zehner J, Lober B, Van Eaton E, McCormick W. Creating a note classification scheme for a multi-institutional electronic medical record. AMIA Annu Symp Proc 2003;",
+    "year": 2003,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pubmed/14728472/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Travers DA, Waller A, Haas SW, Lober WB, Beard C. Emergency Department data for bioterrorism surveillance: electronic data availability, timeliness, sources and standards. AMIA Annu Symp Proc 2003;",
+    "year": 2003,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 18,
+    "counts_by_year": {
+      "2014": 1,
+      "2013": 2,
+      "2012": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/14728256",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Trigg LJ, Karras BT, Bliss D, Ciliberti J, Stewart L, Duchin JS. Syndromic surveillance using automated collection of computerized discharge diagnoses. J Urban Health 2003 Jun;",
+    "year": 2003,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 47,
+    "counts_by_year": {
+      "2021": 2,
+      "2020": 1,
+      "2018": 1,
+      "2016": 1,
+      "2014": 3,
+      "2012": 1
+    },
+    "link": "https://doi.org/10.1007/pl00022320",
+    "in_summary": ""
+  },
+  {
+    "citation": "On the Edge: Statistics &amp; Computing. CHANCE. 2003",
+    "year": 2003,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1080/09332480.2003.10554838",
+    "in_summary": ""
+  },
+  {
+    "citation": "Karras BT, Huq SH, Bliss D, Lober WB. National Pharmaceutical Stockpile drill analysis using XML data collection on wireless Java phones. Proc AMIA Symp 2002;",
+    "year": 2002,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 8,
+    "counts_by_year": {
+      "2020": 2,
+      "2016": 1,
+      "2015": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/12463848",
+    "in_summary": ""
+  },
+  {
+    "citation": "Karras BT, O'Carroll P, Oberle MW, Masuda D, Lober WB, Robins LS, Kim S, Schaad DC, Scott CS. Development and evaluation of public health informatics at University of Washington. J Public Health Manag Pract 2002 May;",
+    "year": 2002,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 9,
+    "counts_by_year": {
+      "2019": 1,
+      "2016": 1,
+      "2014": 1,
+      "2012": 1
+    },
+    "link": "https://doi.org/10.1097/00124784-200205000-00006",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Karras BT, Wagner MM, Overhage JM, Davidson AJ, Fraser H, Trigg LJ, Mandl KD, Espino JU, Tsui FC. Roundtable on bioterrorism detection: information system-based surveillance. J Am Med Inform Assoc 2002 Mar-Apr;",
+    "year": 2002,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 134,
+    "counts_by_year": {
+      "2026": 1,
+      "2024": 1,
+      "2021": 1,
+      "2020": 3,
+      "2019": 1,
+      "2018": 1,
+      "2017": 2,
+      "2016": 1,
+      "2015": 1,
+      "2014": 7,
+      "2013": 3,
+      "2012": 5
+    },
+    "link": "https://doi.org/10.1197/jamia.m1052",
+    "in_summary": ""
+  },
+  {
+    "citation": "SuML: A Survey Markup Language for Generalized Survey Encoding. PubMed Central. 2002",
+    "year": 2002,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2014": 3
+    },
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244339",
+    "in_summary": ""
+  },
+  {
+    "citation": "Iterative Development of a Web Application to Support Teleconferencing of a Distributed Tumor Board. PubMed Central. 2002",
+    "year": 2002,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {
+      "2014": 1,
+      "2012": 1
+    },
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244459",
+    "in_summary": ""
+  },
+  {
+    "citation": "An Information System for 911 Dispatch Monitoring and Analysis.. American Medical Informatics Association Annual Symposium. 2002",
+    "year": 2002,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 3,
+    "counts_by_year": {},
+    "link": "http://europepmc.org/articles/PMC2244357",
+    "in_summary": ""
+  },
+  {
+    "citation": "Syndromic Surveillance for Bioterrorism Using Automated Collection of Computerized Discharge Diagnoses. PubMed Central. 2002",
+    "year": 2002,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244452",
+    "in_summary": ""
+  },
+  {
+    "citation": "Development of a Wireless Web-based Infrastructure to Support Collection of Patient Self-reported QoL and Symptom Information in a Clinical Setting.. Europe PMC (PubMed Central). 2002",
+    "year": 2002,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244567",
+    "in_summary": ""
+  },
+  {
+    "citation": "Cancer Electronic Quality of Life Project: Delivering Wireless Web-based Technology at the Point of Care. PubMed Central. 2002",
+    "year": 2002,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244376",
+    "in_summary": ""
+  },
+  {
+    "citation": "Proposed Design of a Clinical Information System for the Management of Bronchial Asthma. PubMed Central. 2002",
+    "year": 2002,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244427",
+    "in_summary": ""
+  },
+  {
+    "citation": "Applying Social Network Analysis Techniques to Measure the Efficacy of Computerized Medication Records.. PubMed Central. 2002",
+    "year": 2002,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2244134",
+    "in_summary": ""
+  },
+  {
+    "citation": "Lober WB, Trigg LJ, Bliss D, Brinkley JM. IML: An image markup language. Proc AMIA Symp 2001;",
+    "year": 2001,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2016": 1
+    },
+    "link": "https://pubmed.ncbi.nlm.nih.gov/11825219",
+    "in_summary": ""
+  },
+  {
+    "citation": "Syndromic Surveillance for Bioterrorism Using Computerized Discharge Diagnosis Databases. Europe PMC (PubMed Central). 2001",
+    "year": 2001,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 7,
+    "counts_by_year": {
+      "2014": 1
+    },
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243670",
+    "in_summary": ""
+  },
+  {
+    "citation": "Web Tools for Distributed Clinical Case Conferencing. Europe PMC (PubMed Central). 2001",
+    "year": 2001,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243542",
+    "in_summary": ""
+  },
+  {
+    "citation": "Tumor Conferencing Tools for Regional Collaborative Cancer Care Using the Next Generation Internet. Europe PMC (PubMed Central). 2001",
+    "year": 2001,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243454",
+    "in_summary": ""
+  },
+  {
+    "citation": "CISweb: Dynamically Generated Reference for a Clinical Information System.. Europe PMC (PubMed Central). 2001",
+    "year": 2001,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243638",
+    "in_summary": ""
+  },
+  {
+    "citation": "An Infrastructure for Storage and Retrieval of GEM Guidelines. Europe PMC (PubMed Central). 2001",
+    "year": 2001,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243635",
+    "in_summary": ""
+  },
+  {
+    "citation": "A Practical Lab Exercise for Teaching Medical Informatics in a Biomedical Engineering Graduate Program. Europe PMC (PubMed Central). 2001",
+    "year": 2001,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243531",
+    "in_summary": ""
+  },
+  {
+    "citation": "A Personal Annotated Image Server. 2000",
+    "year": 2000,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 5,
+    "counts_by_year": {},
+    "link": "http://sigpubs.biostr.washington.edu/archive/00000063/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Development of a Multi-axial Taxonomy for Clinical Documents.. Europe PMC (PubMed Central). 2000",
+    "year": 2000,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/2243748",
+    "in_summary": ""
+  },
+  {
+    "citation": "XML-Based Image Annotation: PAIS - a Personal Annotated Image Server. 2000",
+    "year": 2000,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "http://sigpubs.biostr.washington.edu/archive/00000064/",
+    "in_summary": ""
+  },
+  {
+    "citation": "A Portable Image Annotation Tool for Web-based Anatomy Atlases. 1999",
+    "year": 1999,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 12,
+    "counts_by_year": {
+      "2012": 1
+    },
+    "link": "http://sigpubs.biostr.washington.edu/archive/00000062/",
+    "in_summary": ""
+  },
+  {
+    "citation": "Bey TA, Walter FG, Lober W, Schmidt J, Spark R, Schlievert PM. Loxosceles arizonica bite associated with shock. Ann Emerg Med 1997 Nov;",
+    "year": 1997,
+    "in_ncbi": "Y",
+    "in_openalex": "Y",
+    "cited_by_count": 37,
+    "counts_by_year": {
+      "2024": 1,
+      "2017": 1,
+      "2015": 2,
+      "2014": 1,
+      "2013": 1,
+      "2012": 1
+    },
+    "link": "https://doi.org/10.1016/s0196-0644(97)70092-1",
+    "in_summary": ""
+  },
+  {
+    "citation": "48. Age, Sex, Ethanol Levels, and Helmet Use Among Injured Motorcyclists. Prehospital and Disaster Medicine. 1996",
+    "year": 1996,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1017/s1049023x00045696",
+    "in_summary": ""
+  },
+  {
+    "citation": "Mechanical ventilation may not be essential for initial cardiopulmonary resuscitation. Annals of Emergency Medicine. 1996",
+    "year": 1996,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1016/s0196-0644(96)80088-6",
+    "in_summary": ""
+  },
+  {
+    "citation": "Signal Processing of Ventricular Fibrillation Waveform Collected by Urban First-Responders Utilizing Semi-Automatic External Defibrillators. Prehospital and Disaster Medicine. 1993",
+    "year": 1993,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://doi.org/10.1017/s1049023x0004989x",
+    "in_summary": ""
+  },
+  {
+    "citation": "Prediction of Cardiac Arrest Outcomes Using Digital Signal Processing of Initial Electrocardiograms. eScholarship (California Digital Library). 1992",
+    "year": 1992,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 1,
+    "counts_by_year": {},
+    "link": "https://escholarship.org/uc/item/6qf5f3mc",
+    "in_summary": ""
+  },
+  {
+    "citation": "Prediction of Cardiac Arrest Outcomes Using Digital Signal Processing of Initial Electrocardiograms - eScholarship. 1992",
+    "year": 1992,
+    "in_ncbi": "",
+    "in_openalex": "Y",
+    "cited_by_count": 0,
+    "counts_by_year": {},
+    "link": "https://escholarship.org/content/qt6qf5f3mc/qt6qf5f3mc.pdf",
+    "in_summary": ""
+  },
+  {
+    "citation": "Berry DL, Pike KC, Wolpin S, Pham V, McReynolds J, Lober WB, Birkin SA, Chen RC. Providing Decision Support for Prostate Cancer Through Cancer Registry Contacts. J Registry Management. Forthcoming",
+    "year": null,
+    "in_ncbi": "Y",
+    "in_openalex": "",
+    "cited_by_count": null,
+    "counts_by_year": {},
+    "link": "",
+    "in_summary": ""
+  }
+]

@@ -56,8 +56,18 @@ def simplify(work: dict) -> dict:
         str(c["year"]): c["cited_by_count"] for c in work.get("counts_by_year", [])
     }
 
+    ids = work.get("ids") or {}
+    pmid_url = ids.get("pmid")
+    pmid = pmid_url.rstrip("/").rsplit("/", 1)[-1] if pmid_url else None
+
+    doi = work.get("doi")
+    if doi:
+        doi = doi.replace("https://doi.org/", "")
+
     return {
         "id": work.get("id"),
+        "pmid": pmid,
+        "doi": doi,
         "title": work.get("display_name"),
         "venue": source.get("display_name"),
         "year": work.get("publication_year"),
